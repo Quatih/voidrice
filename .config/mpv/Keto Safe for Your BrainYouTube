@@ -1,0 +1,200 @@
+DWM(1)                                      General Commands Manual                                      DWM(1)
+
+NNAAMMEE
+       dwm - dynamic window manager (Luke Smith <https://lukesmith.xyz>'s build)
+
+SSYYNNOOPPSSIISS
+       ddwwmm [--vv]
+
+DDEESSCCRRIIPPTTIIOONN
+       dwm is a dynamic window manager for X.
+
+       dwm  "orders"  windows based on recency and primacy, while dwm layouts may change, the most recent "mas‐
+       ter" window is shown in the most prominent position. There are bindings for cycling through and  promot‐
+       ing windows to the master position.
+
+       Windows are grouped by tags. Each window can be tagged with one or multiple tags. Selecting certain tags
+       displays all windows with these tags.
+
+       Each screen contains a small status bar which displays all available tags, the layout, the title of  the
+       focused window, and the text read from the root window name property, if the screen is focused. A float‐
+       ing window is indicated with an empty square and a maximised floating window is indicated with a  filled
+       square  before  the  windows title.  The selected tags are indicated with a different color. The tags of
+       the focused window are indicated with a filled square in the top left corner.  The tags  which  are  ap‐
+       plied to one or more windows are indicated with an empty square in the top left corner.
+
+       dwm draws a small border around windows to indicate the focus state.
+
+       _l_i_b_x_f_t_-_b_g_r_a  should  be  installed  for  this build of dwm. Arch users may install it via the AUR. Color
+       characters and emoji are enabled, but these will cause crashes without the fix _l_i_b_x_f_t_-_b_g_r_a offers.
+
+OOPPTTIIOONNSS
+       --vv     prints version information to standard output, then exits.
+
+UUSSAAGGEE
+   SSttaattuuss bbaarr
+       XX rroooott wwiinnddooww nnaammee
+              is read and displayed in the status text area. It can be set with the xxsseettrroooott(1) command.
+
+       LLeefftt cclliicckk
+              click on a tag label to display all windows with that tag, click on the layout label toggles  be‐
+              tween tiled and floating layout.
+
+       RRiigghhtt cclliicckk
+              click on a tag label adds/removes all windows with that tag to/from the view.
+
+       SSuuppeerr--LLeefftt cclliicckk
+              click on a tag label applies that tag to the focused window.
+
+       SSuuppeerr--RRiigghhtt cclliicckk
+              click on a tag label adds/removes that tag to/from the focused window.
+
+   KKeeyybbooaarrdd ccoommmmaannddss
+       SSuuppeerr--RReettuurrnn
+              Start terminal, sstt((11))..
+
+       SSuuppeerr--dd
+              Spawn ddmmeennuu((11)) for launching other programs.
+
+       SSuuppeerr--bb
+              Toggles bar on and off.
+
+       SSuuppeerr--qq
+              Close focused window.
+
+       SSuuppeerr--tt//TT
+              Sets tiled/bstack layouts.
+
+       SSuuppeerr--ff
+              Toggle fullscreen window.
+
+       SSuuppeerr--FF
+              Toggle floating layout.
+
+       SSuuppeerr--yy//YY
+              Sets Fibonacci spiral/dwinde layouts.
+
+       SSuuppeerr--uu//UU
+              Sets centered master layout.
+
+       SSuuppeerr--ii//II
+              Sets centered master or floating master layouts.
+
+       SSuuppeerr--ssppaaccee
+              Zooms/cycles focused window to/from master area.
+
+       SSuuppeerr--jj//kk
+              Focus next/previous window.
+
+       SSuuppeerr--SShhiifftt--jj//kk
+              Move selected window down/up in stack.
+
+       SSuuppeerr--oo//OO
+              Increase/decrease number of windows in master area.
+
+       SSuuppeerr--ll
+              Increase master area size.
+
+       SSuuppeerr--hh
+              Decrease master area size.
+
+       SSuuppeerr--SShhiifftt--ssppaaccee
+              Toggle focused window between tiled and floating state.
+
+       SSuuppeerr--TTaabb
+              Toggles to the previously selected tags.
+
+       SSuuppeerr--gg
+              Moves to the previous tag.
+
+       SSuuppeerr--SShhiifftt--gg
+              Moves selected window to the previous tag.
+
+       SSuuppeerr--;;
+              Moves to the next tag.
+
+       SSuuppeerr--SShhiifftt--;;
+              Moves selected window to the next tag.
+
+       SSuuppeerr--PPaaggeeUUpp
+              Moves to the previous tag.
+
+       SSuuppeerr--SShhiifftt--PPaaggeeUUpp
+              Moves selected window to the previous tag.
+
+       SSuuppeerr--PPaaggeeddoowwnn
+              Moves to the next tag.
+
+       SSuuppeerr--SShhiifftt--PPaaggeeDDoowwnn
+              Moves selected window to the next tag.
+
+       SSuuppeerr--aa
+              Toggle gaps.
+
+       SSuuppeerr--zz
+              Increase gaps between windows.
+
+       SSuuppeerr--xx
+              Decrease gaps between windows.
+
+       SSuuppeerr--SShhiifftt--[[11....nn]]
+              Apply nth tag to focused window.
+
+       SSuuppeerr--SShhiifftt--00
+              Apply all tags to focused window.
+
+       SSuuppeerr--CCoonnttrrooll--SShhiifftt--[[11....nn]]
+              Add/remove nth tag to/from focused window.
+
+       SSuuppeerr--[[11....nn]]
+              View all windows with nth tag.
+
+       SSuuppeerr--00
+              View all windows with any tag.
+
+       SSuuppeerr--CCoonnttrrooll--[[11....nn]]
+              Add/remove all windows with nth tag to/from the view.
+
+       SSuuppeerr--SShhiifftt--qq
+              Quit dwm.
+
+       MMoodd11--CCoonnttrrooll--SShhiifftt--qq
+              Menu to refresh/quit/reboot/shutdown.
+
+   MMoouussee ccoommmmaannddss
+       SSuuppeerr--LLeefftt cclliicckk
+              Move focused window while dragging. Tiled windows will be toggled to the floating state.
+
+       SSuuppeerr--MMiiddddllee cclliicckk
+              Toggles focused window between floating and tiled state.
+
+       SSuuppeerr--RRiigghhtt cclliicckk
+              Resize focused window while dragging. Tiled windows will be toggled to the floating state.
+
+CCUUSSTTOOMMIIZZAATTIIOONN
+       dwm  is  customized by creating a custom config.h and (re)compiling the source code. This keeps it fast,
+       secure and simple.
+
+SSIIGGNNAALLSS
+       SSIIGGHHUUPP -- 11
+              Restart the dwm process.
+
+       SSIIGGTTEERRMM -- 1155
+              Cleanly terminate the dwm process.
+
+SSEEEE AALLSSOO
+       ddmmeennuu(1), sstt(1)
+
+IISSSSUUEESS
+       Java applications which use the XToolkit/XAWT backend may draw  grey  windows  only.  The  XToolkit/XAWT
+       backend  breaks  ICCCM-compliance in recent JDK 1.5 and early JDK 1.6 versions, because it assumes a re‐
+       parenting  window  manager.  Possible  workarounds  are  using  JDK  1.4  (which  doesn't  contain   the
+       XToolkit/XAWT  backend) or setting the environment variable AAWWTT__TTOOOOLLKKIITT==MMTToooollkkiitt (to use the older Motif
+       backend instead) or running xxpprroopp --rroooott --ff __NNEETT__WWMM__NNAAMMEE 3322aa --sseett __NNEETT__WWMM__NNAAMMEE LLGG33DD or  wwmmnnaammee  LLGG33DD  (to
+       pretend  that  a non-reparenting window manager is running that the XToolkit/XAWT backend can recognize)
+       or when using OpenJDK setting the environment variable __JJAAVVAA__AAWWTT__WWMM__NNOONNRREEPPAARREENNTTIINNGG==11.
+
+BBUUGGSS
+       Send all bug reports with a patch to hackers@suckless.org.
+
+                                                    dwm-6.2                                              DWM(1)
