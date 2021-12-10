@@ -3,7 +3,7 @@
 # This file runs when a DM logs you into a graphical session.
 # If you use startx/xinit like a Chad, this file will also be sourced.
 
-xrandr --dpi 122	# Set DPI. User may want to use a larger number for larger screens.
+xrandr --dpi 122 # Set DPI. User may want to use a larger number for larger screens.
 setbg &			# set the background with the `setbg` script
 #xrdb ${XDG_CONFIG_HOME:-$HOME/.config}/x11/xresources & xrdbpid=$!	# Uncomment to use Xresources colors/settings on startup
 remaps &		# run the remaps script, switching caps/esc and more; check it for more info
@@ -16,3 +16,16 @@ done >/dev/null 2>&1
 
 # Ensure that xrdb has finished running before moving on to start the WM/DE.
 [ -n "$xrdbpid" ] && wait "$xrdbpid"
+alias ls="ls --color=auto"
+alias v="nvim"
+alias V="nvim"
+alias svm ="sudo nvim"
+alias g="git"
+alias ka="killall"
+alias dfh="df -h"
+PS0='[\u@\h \W]\$ '
+unset LANG
+export LANG="en_US.UTF-8"
+export LC_ALL="C"
+export LC_TIME="is_IS.UTF-8"
+export LC_MEASUREMENT="is_IS.UTF-8"
