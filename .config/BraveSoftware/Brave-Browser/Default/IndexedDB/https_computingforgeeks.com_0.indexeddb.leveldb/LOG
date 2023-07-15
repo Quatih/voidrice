@@ -1,0 +1,6 @@
+2023/05/21-13:54:49.472 725 Creating DB /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_computingforgeeks.com_0.indexeddb.leveldb since it was missing.
+2023/05/21-13:54:49.491 725 Reusing MANIFEST /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_computingforgeeks.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/21-23:40:22.779 1748 Level-0 table #5: started
+2023/05/21-23:40:22.784 1748 Level-0 table #5: 832 bytes OK
+2023/05/21-23:40:22.794 1748 Delete type=0 #3
+2023/05/21-23:40:22.794 1748 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

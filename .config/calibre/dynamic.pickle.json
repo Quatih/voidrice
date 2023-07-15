@@ -1,0 +1,11 @@
+{
+  "add books dialog dir": "/home/quatih/c/Bin/City of Last Chances (Adrian Tchaikovsky)",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
+  "catalogs_to_be_synced": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "database location dialog": "/home/quatih/a/calibre",
+  "welcome_wizard_device": "kindle_pw",
+  "welcome_wizard_was_run": true
+}

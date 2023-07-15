@@ -1,0 +1,6 @@
+2023/06/17-00:25:50.263 a5e Creating DB /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.patreon.com_0.indexeddb.leveldb since it was missing.
+2023/06/17-00:25:50.278 a5e Reusing MANIFEST /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.patreon.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/17-00:29:50.772 a62 Level-0 table #5: started
+2023/06/17-00:29:50.777 a62 Level-0 table #5: 3104 bytes OK
+2023/06/17-00:29:50.787 a62 Delete type=0 #3
+2023/06/17-00:29:50.787 a62 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

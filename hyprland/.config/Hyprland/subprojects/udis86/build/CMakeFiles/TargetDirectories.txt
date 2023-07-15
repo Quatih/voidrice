@@ -1,0 +1,8 @@
+/home/quatih/repos/Hyprland/subprojects/udis86/build/CMakeFiles/edit_cache.dir
+/home/quatih/repos/Hyprland/subprojects/udis86/build/CMakeFiles/rebuild_cache.dir
+/home/quatih/repos/Hyprland/subprojects/udis86/build/libudis86/CMakeFiles/libudis86.dir
+/home/quatih/repos/Hyprland/subprojects/udis86/build/libudis86/CMakeFiles/edit_cache.dir
+/home/quatih/repos/Hyprland/subprojects/udis86/build/libudis86/CMakeFiles/rebuild_cache.dir
+/home/quatih/repos/Hyprland/subprojects/udis86/build/udcli/CMakeFiles/udcli.dir
+/home/quatih/repos/Hyprland/subprojects/udis86/build/udcli/CMakeFiles/edit_cache.dir
+/home/quatih/repos/Hyprland/subprojects/udis86/build/udcli/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,15 @@
+2023/04/21-23:56:26.722 1dc3 Reusing MANIFEST /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_discussion.fedoraproject.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/21-23:56:26.722 1dc3 Recovering log #4
+2023/04/21-23:56:26.723 1dc3 Reusing old log /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_discussion.fedoraproject.org_0.indexeddb.leveldb/000004.log 
+2023/04/22-00:17:38.814 1dc4 Level-0 table #8: started
+2023/04/22-00:17:38.821 1dc4 Level-0 table #8: 29772 bytes OK
+2023/04/22-00:17:38.831 1dc4 Delete type=0 #4
+2023/04/22-00:17:38.831 1dc4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/22-00:17:38.831 1dc4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\x80\x15\xf7czxB\x00\x01E\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00d\x00i\x00s\x00c\x00u\x00s\x00s\x00i\x00o\x00n\x00.\x00f\x00e\x00d\x00o\x00r\x00a\x00p\x00r\x00o\x00j\x00e\x00c\x00t\x00.\x00o\x00r\x00g\x00/\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00.\x00w\x00e\x00b\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t' @ 1202 : 1
+2023/04/22-00:17:38.831 1dc4 Compacting 1@1 + 1@2 files
+2023/04/22-00:17:38.837 1dc4 Generated table #9@1: 71 keys, 5657 bytes
+2023/04/22-00:17:38.837 1dc4 Compacted 1@1 + 1@2 files => 5657 bytes
+2023/04/22-00:17:38.846 1dc4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/22-00:17:38.846 1dc4 Delete type=2 #5
+2023/04/22-00:17:38.846 1dc4 Delete type=2 #8
+2023/04/22-00:17:38.847 1dc4 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\x80\x15\xf7czxB\x00\x01E\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00d\x00i\x00s\x00c\x00u\x00s\x00s\x00i\x00o\x00n\x00.\x00f\x00e\x00d\x00o\x00r\x00a\x00p\x00r\x00o\x00j\x00e\x00c\x00t\x00.\x00o\x00r\x00g\x00/\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00.\x00w\x00e\x00b\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t' @ 1202 : 1 .. (end); will stop at (end)

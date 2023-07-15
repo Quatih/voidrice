@@ -1,0 +1,30 @@
+2023/06/30-23:13:54.055 7f8f Reusing MANIFEST /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/30-23:13:54.057 7f8f Recovering log #153
+2023/06/30-23:13:54.057 7f8f Reusing old log /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000153.log 
+2023/07/02-12:55:29.185 7f90 Level-0 table #158: started
+2023/07/02-12:55:29.214 7f90 Level-0 table #158: 1680072 bytes OK
+2023/07/02-12:55:29.226 7f90 Delete type=0 #153
+2023/07/02-13:19:43.183 7f90 Compacting 1@1 + 1@2 files
+2023/07/02-13:19:43.200 7f90 Generated table #159@1: 250 keys, 29038 bytes
+2023/07/02-13:19:43.200 7f90 Compacted 1@1 + 1@2 files => 29038 bytes
+2023/07/02-13:19:43.218 7f90 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/02-13:19:43.219 7f90 Delete type=2 #155
+2023/07/02-13:19:43.219 7f90 Delete type=2 #158
+2023/07/10-22:18:23.232 7f90 Level-0 table #161: started
+2023/07/10-22:18:23.268 7f90 Level-0 table #161: 1426619 bytes OK
+2023/07/10-22:18:23.279 7f90 Delete type=0 #157
+2023/07/10-22:22:42.187 7f92 Compacting 1@1 + 1@2 files
+2023/07/10-22:22:42.202 7f92 Generated table #162@1: 267 keys, 43077 bytes
+2023/07/10-22:22:42.202 7f92 Compacted 1@1 + 1@2 files => 43077 bytes
+2023/07/10-22:22:42.212 7f92 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/10-22:22:42.213 7f92 Delete type=2 #159
+2023/07/10-22:22:42.213 7f92 Delete type=2 #161
+2023/07/11-19:05:49.328 7f90 Level-0 table #164: started
+2023/07/11-19:05:49.360 7f90 Level-0 table #164: 1625226 bytes OK
+2023/07/11-19:05:49.379 7f90 Delete type=0 #160
+2023/07/12-21:35:03.928 7f90 Compacting 1@1 + 1@2 files
+2023/07/12-21:35:03.952 7f90 Generated table #165@1: 261 keys, 23118 bytes
+2023/07/12-21:35:03.952 7f90 Compacted 1@1 + 1@2 files => 23118 bytes
+2023/07/12-21:35:03.962 7f90 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/12-21:35:03.962 7f90 Delete type=2 #162
+2023/07/12-21:35:03.962 7f90 Delete type=2 #164

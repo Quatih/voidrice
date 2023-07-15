@@ -1,0 +1,34 @@
+{
+   "browser_action": {
+      "default_icon": {
+         "19": "icons/icon19.png",
+         "38": "icons/icon38.png",
+         "48": "icons/icon48.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "inject.css" ],
+      "exclude_matches": [ "https://plus.google.com/hangouts/*", "https://hangouts.google.com/*", "https://meet.google.com/*", "https://teamtreehouse.com/*", "http://www.hitbox.tv/*" ],
+      "js": [ "inject.js" ],
+      "match_about_blank": true,
+      "matches": [ "http://*/*", "https://*/*", "file:///*" ]
+   } ],
+   "description": "Experimental version of Video Speed Controller",
+   "homepage_url": "https://github.com/ChadBailey/Video-Speed-Controller-Experimental",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA041D9mYU6echS/p0+C9FVqUUqQbYqUYjxeIjxVH9GzqYyQEWpBDHHiivnD7GcvCaxDXe3dYtC0UtMIdXhJcGTlL1ibSI+6zVHbcgh0A+ZE2jshg52x889dqCXoZT8RrmvkGYUdBlCylo14RUtoZBxMgi3fuxQ6UWwm1lxN47sfmr19ti94MIwnzTeffhz4P2L7PqD6albBKz2dOQGgzSki4G6X6mDGtTjz0/7s70gzqqwzKUd6B7hhYX1u0oTJ2eKugidWEwKKWx4ZCd2u15tvGWEFrADnwYEJLhDeQCnUL2gDoY9A0rGo2F6BulJyG98i6tAFAm4Sbc7xCUfF5hNQIDAQAB",
+   "manifest_version": 2,
+   "name": "Video Speed Controller Experimental",
+   "options_page": "options.html",
+   "permissions": [ "activeTab", "storage" ],
+   "short_name": "videospeed-experimental",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.6.0",
+   "web_accessible_resources": [ "inject.css", "shadow.css" ]
+}

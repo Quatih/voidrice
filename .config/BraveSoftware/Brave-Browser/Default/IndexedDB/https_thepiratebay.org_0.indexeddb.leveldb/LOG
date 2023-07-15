@@ -1,0 +1,15 @@
+2023/07/02-10:19:42.311 7f8f Reusing MANIFEST /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_thepiratebay.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/02-10:19:42.311 7f8f Recovering log #7
+2023/07/02-10:19:42.311 7f8f Reusing old log /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_thepiratebay.org_0.indexeddb.leveldb/000007.log 
+2023/07/02-23:20:36.021 7f90 Level-0 table #12: started
+2023/07/02-23:20:36.026 7f90 Level-0 table #12: 209 bytes OK
+2023/07/02-23:20:36.035 7f90 Delete type=0 #7
+2023/07/02-23:20:36.036 7f90 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/07/02-23:20:36.036 7f90 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 49 : 1
+2023/07/02-23:20:36.036 7f90 Compacting 1@1 + 1@2 files
+2023/07/02-23:20:36.041 7f90 Generated table #13@1: 19 keys, 504 bytes
+2023/07/02-23:20:36.041 7f90 Compacted 1@1 + 1@2 files => 504 bytes
+2023/07/02-23:20:36.055 7f90 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/02-23:20:36.055 7f90 Delete type=2 #9
+2023/07/02-23:20:36.055 7f90 Delete type=2 #12
+2023/07/02-23:20:36.055 7f90 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 49 : 1 .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2023/07/02-16:16:46.272 1cc2 Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_devicebind.ebay.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/02-16:16:46.272 1cc2 Recovering log #15
+2023/07/02-16:16:46.272 1cc2 Reusing old log /home/quatih/.config/chromium/Default/IndexedDB/https_devicebind.ebay.com_0.indexeddb.leveldb/000015.log 
+2023/07/02-18:16:41.434 1cc3 Level-0 table #20: started
+2023/07/02-18:16:41.439 1cc3 Level-0 table #20: 209 bytes OK
+2023/07/02-18:16:41.449 1cc3 Delete type=0 #15
+2023/07/02-18:16:41.449 1cc3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/07/02-18:16:41.449 1cc3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 98 : 1
+2023/07/02-18:16:41.449 1cc3 Compacting 1@1 + 1@2 files
+2023/07/02-18:16:41.454 1cc3 Generated table #21@1: 29 keys, 927 bytes
+2023/07/02-18:16:41.454 1cc3 Compacted 1@1 + 1@2 files => 927 bytes
+2023/07/02-18:16:41.463 1cc3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/02-18:16:41.463 1cc3 Delete type=2 #17
+2023/07/02-18:16:41.463 1cc3 Delete type=2 #20
+2023/07/02-18:16:41.463 1cc3 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 98 : 1 .. (end); will stop at (end)

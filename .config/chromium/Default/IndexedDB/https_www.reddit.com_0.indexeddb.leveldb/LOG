@@ -1,0 +1,6 @@
+2023/06/17-12:58:49.548 74c Creating DB /home/quatih/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb since it was missing.
+2023/06/17-12:58:49.562 74c Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/17-12:59:23.756 74d Level-0 table #5: started
+2023/06/17-12:59:23.761 74d Level-0 table #5: 1851 bytes OK
+2023/06/17-12:59:23.776 74d Delete type=0 #3
+2023/06/17-12:59:23.776 74d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

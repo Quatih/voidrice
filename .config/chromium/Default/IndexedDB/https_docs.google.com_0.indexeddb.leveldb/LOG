@@ -1,0 +1,15 @@
+2023/06/04-22:40:50.496 6f51 Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/04-22:40:50.497 6f51 Recovering log #7
+2023/06/04-22:40:50.497 6f51 Reusing old log /home/quatih/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000007.log 
+2023/06/04-22:40:52.537 6f51 Level-0 table #12: started
+2023/06/04-22:40:52.542 6f51 Level-0 table #12: 190 bytes OK
+2023/06/04-22:40:52.551 6f51 Delete type=0 #7
+2023/06/04-22:40:52.551 6f51 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/06/04-22:40:52.551 6f51 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 680 : 1
+2023/06/04-22:40:52.551 6f51 Compacting 1@1 + 1@2 files
+2023/06/04-22:40:52.556 6f51 Generated table #13@1: 206 keys, 3046 bytes
+2023/06/04-22:40:52.556 6f51 Compacted 1@1 + 1@2 files => 3046 bytes
+2023/06/04-22:40:52.566 6f51 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/04-22:40:52.566 6f51 Delete type=2 #9
+2023/06/04-22:40:52.566 6f51 Delete type=2 #12
+2023/06/04-22:40:52.566 6f51 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 680 : 1 .. (end); will stop at (end)

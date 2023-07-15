@@ -1,0 +1,2 @@
+/home/quatih/repos/Waybar-Hyprland/build/meson-private/cmake_libinotify/CMakeFiles/edit_cache.dir
+/home/quatih/repos/Waybar-Hyprland/build/meson-private/cmake_libinotify/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,15 @@
+Mono path[0] = '/home/quatih/.local/share/Steam/steamapps/common/Backpack Hero/linux_Data/Managed'
+Mono config path = '/home/quatih/.local/share/Steam/steamapps/common/Backpack Hero/linux_Data/MonoBleedingEdge/etc'
+Caught fatal signal - signo:11 code:1 errno:0 addr:(nil)
+Obtained 11 stack frames.
+#0  0x006fd8fbec1f96 in mono_install_ftnptr_eh_callback
+#1  0x006fd8fbef63c7 in monovm_shutdown
+#2  0x006fd8fbe4420b in mono_ee_api_version
+#3  0x006fd8fbe93c40 in mono_jit_init_version
+#4  0x006fd935013a03 in void std::vector<unsigned int, std::allocator<unsigned int> >::_M_assign_aux<__gnu_cxx::__normal_iterator<unsigned int*, std::vector<unsigned int, std::allocator<unsigned int> > > >(__gnu_cxx::__normal_iterator<unsigned int*, std::vector<unsigned int, std::allocator<unsigned int> > >, __gnu_cxx::__normal_iterator<unsigned int*, std::vector<unsigned int, std::allocator<unsigned int> > >, std::forward_iterator_tag)
+#5  0x006fd93502a337 in void std::vector<unsigned int, std::allocator<unsigned int> >::_M_assign_aux<__gnu_cxx::__normal_iterator<unsigned int*, std::vector<unsigned int, std::allocator<unsigned int> > > >(__gnu_cxx::__normal_iterator<unsigned int*, std::vector<unsigned int, std::allocator<unsigned int> > >, __gnu_cxx::__normal_iterator<unsigned int*, std::vector<unsigned int, std::allocator<unsigned int> > >, std::forward_iterator_tag)
+#6  0x006fd935093c52 in std::_Rb_tree<int, std::pair<int const, int>, std::_Select1st<std::pair<int const, int> >, std::less<int>, std::allocator<std::pair<int const, int> > >::_M_erase(std::_Rb_tree_node<std::pair<int const, int> >*)
+#7  0x006fd935094858 in PlayerMain(int, char**)
+#8  0x006fd93403c790 in __libc_init_first
+#9  0x006fd93403c84a in __libc_start_main
+#10 0x00000000201029 in (Unknown)

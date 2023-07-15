@@ -1,0 +1,8 @@
+# ninja log v5
+2	137	1683834167584027546	libudis86/CMakeFiles/libudis86.dir/syn.c.o	fe1d8a2eee11ef31
+2	123	1683834167570694215	libudis86/CMakeFiles/libudis86.dir/syn-intel.c.o	87325a853cd6c97f
+732	795	1683834168240694209	libudis86/liblibudis86.a	25c0ab92ba42d693
+2	123	1683834167570694215	libudis86/CMakeFiles/libudis86.dir/syn-att.c.o	9d8397fcc182fa1b
+3	190	1683834167637360880	libudis86/CMakeFiles/libudis86.dir/udis86.c.o	22b052970ee83c82
+2	732	1683834168180694209	libudis86/CMakeFiles/libudis86.dir/decode.c.o	f26b068502727e0f
+2	288	1683834167734027546	libudis86/CMakeFiles/libudis86.dir/itab.c.o	e9fa73ddb4380595

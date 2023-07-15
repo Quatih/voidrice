@@ -1,0 +1,88 @@
+game:
+  exe: /home/quatih/Games/magic-the-gathering-online/drive_c/MTGO/setup.exe
+  prefix: /home/quatih/Games/magic-the-gathering-online
+game_slug: magic-the-gathering-online
+name: Magic The Gathering Online
+requires: null
+script:
+  files:
+  - setup:
+      filename: setup.exe
+      url: https://mtgo.patch.daybreakgames.com/patch/mtg/live/client/setup.exe?v=5
+  game:
+    exe: $GAMEDIR/drive_c/MTGO/setup.exe
+    prefix: $GAMEDIR
+  installer:
+  - task:
+      arch: win64
+      prefix: /home/quatih/Games/magic-the-gathering-online
+      wine_path: /home/quatih/.local/share/lutris/runners/wine/lutris-7.2-2-x86_64/bin/wine
+  - task:
+      arch: win64
+      env: {}
+      executable: wineboot
+      prefix: /home/quatih/Games/magic-the-gathering-online
+      wine_path: /home/quatih/.local/share/lutris/runners/wine/lutris-7.2-2-x86_64/bin/wine
+  - task:
+      app: sound=pulse winegstreamer=builtin
+      arch: win64
+      prefix: /home/quatih/Games/magic-the-gathering-online
+      wine_path: /home/quatih/.local/share/lutris/runners/wine/lutris-7.2-2-x86_64/bin/wine
+  - task:
+      app: corefonts
+      arch: win64
+      prefix: /home/quatih/Games/magic-the-gathering-online
+      wine_path: /home/quatih/.local/share/lutris/runners/wine/lutris-7.2-2-x86_64/bin/wine
+  - task:
+      app: dotnet48
+      arch: win64
+      prefix: /home/quatih/Games/magic-the-gathering-online
+      wine_path: /home/quatih/.local/share/lutris/runners/wine/lutris-7.2-2-x86_64/bin/wine
+  - task:
+      app: win7
+      arch: win64
+      prefix: /home/quatih/Games/magic-the-gathering-online
+      wine_path: /home/quatih/.local/share/lutris/runners/wine/lutris-7.2-2-x86_64/bin/wine
+  - task:
+      arch: win64
+      args: -s
+      env: {}
+      executable: wineboot
+      prefix: /home/quatih/Games/magic-the-gathering-online
+      wine_path: /home/quatih/.local/share/lutris/runners/wine/lutris-7.2-2-x86_64/bin/wine
+  - task:
+      arch: win64
+      env: {}
+      exclude_processes: dfsvc.exe
+      executable: /home/quatih/.cache/lutris/installer/magic-the-gathering-online/setup/setup.exe
+      prefix: /home/quatih/Games/magic-the-gathering-online
+      wine_path: /home/quatih/.local/share/lutris/runners/wine/lutris-7.2-2-x86_64/bin/wine
+  - execute:
+      command: find $GAMEDIR/drive_c/ -name 'MTGO.exe' -exec sh -c 'ln -vs "$(dirname
+        "$0")" "$1" | cut -c 2-' {} $GAMEDIR/drive_c/MTGO \;
+  - merge:
+      dst: $GAMEDIR/drive_c/MTGO
+      src: setup
+  system:
+    single_cpu: true
+  wine:
+    version: lutris-7.2-2-x86_64
+slug: magic-the-gathering-online-latest
+system:
+  disable_runtime: false
+  single_cpu: false
+variables: {}
+version: LATEST
+wine:
+  battleye: false
+  d3d_extras: true
+  dxvk: true
+  dxvk_nvapi: false
+  eac: false
+  esync: true
+  fsr: false
+  fsync: true
+  system_winetricks: true
+  version: lutris-7.2-2-x86_64
+  vkd3d: false
+year: 2002

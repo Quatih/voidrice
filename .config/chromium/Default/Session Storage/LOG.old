@@ -1,0 +1,15 @@
+2023/07/14-18:23:22.036 3 Reusing MANIFEST /home/quatih/.config/chromium/Default/Session Storage/MANIFEST-000001
+2023/07/14-18:23:22.038 3 Recovering log #1086
+2023/07/14-18:23:22.040 3 Reusing old log /home/quatih/.config/chromium/Default/Session Storage/001086.log 
+2023/07/14-18:28:14.946 5 Level-0 table #1090: started
+2023/07/14-18:28:14.961 5 Level-0 table #1090: 16823 bytes OK
+2023/07/14-18:28:14.971 5 Delete type=0 #1086
+2023/07/14-18:28:14.972 5 Compacting 4@0 + 1@1 files
+2023/07/14-18:28:14.989 5 Generated table #1091@0: 22377 keys, 508846 bytes
+2023/07/14-18:28:14.989 5 Compacted 4@0 + 1@1 files => 508846 bytes
+2023/07/14-18:28:14.998 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/14-18:28:14.998 5 Delete type=2 #1081
+2023/07/14-18:28:14.998 5 Delete type=2 #1083
+2023/07/14-18:28:14.998 5 Delete type=2 #1085
+2023/07/14-18:28:14.998 5 Delete type=2 #1087
+2023/07/14-18:28:14.998 5 Delete type=2 #1090

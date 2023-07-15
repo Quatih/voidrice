@@ -1,0 +1,14 @@
+2023/06/30-22:35:19.755 7f92 Reusing MANIFEST /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_hdokiejnpimakedhajhdlcegeplioahd_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/30-22:35:19.755 7f92 Recovering log #82
+2023/06/30-22:35:19.767 7f92 Reusing old log /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_hdokiejnpimakedhajhdlcegeplioahd_0.indexeddb.leveldb/000082.log 
+2023/07/02-11:39:46.351 7f90 Level-0 table #89: started
+2023/07/02-11:39:46.404 7f90 Level-0 table #89: 2334024 bytes OK
+2023/07/02-11:39:46.416 7f90 Delete type=0 #82
+2023/07/05-17:18:10.483 7f92 Compacting 1@1 + 2@2 files
+2023/07/05-17:18:10.552 7f92 Generated table #90@1: 506 keys, 2118936 bytes
+2023/07/05-17:18:10.571 7f92 Generated table #91@1: 453 keys, 110715 bytes
+2023/07/05-17:18:10.571 7f92 Compacted 1@1 + 2@2 files => 2229651 bytes
+2023/07/05-17:18:10.598 7f92 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/07/05-17:18:10.599 7f92 Delete type=2 #85
+2023/07/05-17:18:10.599 7f92 Delete type=2 #86
+2023/07/05-17:18:10.599 7f92 Delete type=2 #89

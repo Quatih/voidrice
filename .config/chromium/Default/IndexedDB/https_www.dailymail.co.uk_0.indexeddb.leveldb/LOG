@@ -1,0 +1,6 @@
+2023/05/22-17:07:50.273 a5b Creating DB /home/quatih/.config/chromium/Default/IndexedDB/https_www.dailymail.co.uk_0.indexeddb.leveldb since it was missing.
+2023/05/22-17:07:50.288 a5b Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_www.dailymail.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/22-17:08:23.542 a5c Level-0 table #5: started
+2023/05/22-17:08:23.552 a5c Level-0 table #5: 1692 bytes OK
+2023/05/22-17:08:23.561 a5c Delete type=0 #3
+2023/05/22-17:08:23.561 a5c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

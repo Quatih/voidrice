@@ -1,0 +1,6 @@
+2023/04/19-00:17:07.126 4ab7 Creating DB /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_community.frame.work_0.indexeddb.leveldb since it was missing.
+2023/04/19-00:17:07.140 4ab7 Reusing MANIFEST /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_community.frame.work_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/19-00:17:41.223 693a Level-0 table #5: started
+2023/04/19-00:17:41.231 693a Level-0 table #5: 40917 bytes OK
+2023/04/19-00:17:41.241 693a Delete type=0 #3
+2023/04/19-00:17:41.242 693a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

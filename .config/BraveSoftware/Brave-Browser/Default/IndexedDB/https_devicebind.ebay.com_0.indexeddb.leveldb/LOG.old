@@ -1,0 +1,15 @@
+2023/06/26-21:29:55.331 2682 Reusing MANIFEST /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_devicebind.ebay.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/26-21:29:55.331 2682 Recovering log #4
+2023/06/26-21:29:55.331 2682 Reusing old log /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_devicebind.ebay.com_0.indexeddb.leveldb/000004.log 
+2023/06/26-21:30:15.455 2683 Level-0 table #8: started
+2023/06/26-21:30:15.460 2683 Level-0 table #8: 729 bytes OK
+2023/06/26-21:30:15.472 2683 Delete type=0 #4
+2023/06/26-21:30:15.472 2683 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/06/26-21:30:15.472 2683 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 80 : 1
+2023/06/26-21:30:15.472 2683 Compacting 1@1 + 1@2 files
+2023/06/26-21:30:15.477 2683 Generated table #9@1: 29 keys, 926 bytes
+2023/06/26-21:30:15.477 2683 Compacted 1@1 + 1@2 files => 926 bytes
+2023/06/26-21:30:15.488 2683 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/26-21:30:15.488 2683 Delete type=2 #5
+2023/06/26-21:30:15.488 2683 Delete type=2 #8
+2023/06/26-21:30:15.488 2683 Manual compaction at level-1 from '\x00\x01\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 80 : 1 .. (end); will stop at (end)

@@ -1,0 +1,57 @@
+{
+  "monitors":{
+    "DP-3":{
+      "position": "top",
+      "anchor_to_edges": true,
+      "height": 30,
+      "start": [
+        {
+          "all_monitors": false,
+          "type": "workspaces"
+        }
+      ],
+      "center":[
+        {
+          "type":"music",
+          "music_dir": "/mnt/b/Mp3",
+          "player_type":"mpd"
+        }
+      ],
+      "end" : [
+
+        {
+          "type":"clock",
+          "format":"%d.%m.%Y %H:%M"
+        }
+      ]
+      
+    },
+    "HDMI-A-1":{
+      "position": "top",
+      "anchor_to_edges": true,
+      "height": 25,
+      "start": [
+        {
+          "all_monitors": false,
+          "type": "workspaces"
+        }
+      ],
+      "center":[
+        {
+          "type":"music",
+          "music_dir": "/mnt/b/Mp3",
+          "player_type":"mpd"
+        }
+      ],
+      "end" : [
+
+        {
+          "type":"clock",
+          "format":"%d.%m.%Y %H:%M"
+        }
+      ]
+
+    }
+  }
+
+}

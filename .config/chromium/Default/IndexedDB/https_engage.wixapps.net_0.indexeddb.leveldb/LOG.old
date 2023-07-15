@@ -1,0 +1,6 @@
+2023/06/12-22:17:21.372 adf Creating DB /home/quatih/.config/chromium/Default/IndexedDB/https_engage.wixapps.net_0.indexeddb.leveldb since it was missing.
+2023/06/12-22:17:21.387 adf Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_engage.wixapps.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/12-22:31:22.535 ae0 Level-0 table #5: started
+2023/06/12-22:31:22.541 ae0 Level-0 table #5: 6187 bytes OK
+2023/06/12-22:31:22.550 ae0 Delete type=0 #3
+2023/06/12-22:31:22.550 ae0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

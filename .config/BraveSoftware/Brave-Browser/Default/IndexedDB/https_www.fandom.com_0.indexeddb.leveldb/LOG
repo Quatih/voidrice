@@ -1,0 +1,7 @@
+2023/05/13-10:18:42.426 aa2 Reusing MANIFEST /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/13-10:18:42.426 aa2 Recovering log #3
+2023/05/13-10:18:42.426 aa2 Reusing old log /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/000003.log 
+2023/05/14-12:06:23.032 14da Level-0 table #5: started
+2023/05/14-12:06:23.037 14da Level-0 table #5: 4572 bytes OK
+2023/05/14-12:06:23.046 14da Delete type=0 #3
+2023/05/14-12:06:23.046 14da Manual compaction at level-0 from (begin) .. (end); will stop at (end)

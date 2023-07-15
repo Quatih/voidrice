@@ -1,0 +1,15 @@
+2023/07/12-07:49:41.813 1cc2 Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/12-07:49:41.814 1cc2 Recovering log #4
+2023/07/12-07:49:41.814 1cc2 Reusing old log /home/quatih/.config/chromium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000004.log 
+2023/07/12-07:53:13.142 1cc3 Level-0 table #8: started
+2023/07/12-07:53:13.149 1cc3 Level-0 table #8: 24973 bytes OK
+2023/07/12-07:53:13.163 1cc3 Delete type=0 #4
+2023/07/12-07:53:13.163 1cc3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/07/12-07:53:13.171 1cc3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00u\x00s\x00e\x00r\x00s\x00.\x00v\x00i\x00e\x00w\x00e\x00r\x00I\x00d' @ 204 : 0
+2023/07/12-07:53:13.171 1cc3 Compacting 1@1 + 1@2 files
+2023/07/12-07:53:13.184 1cc3 Generated table #9@1: 19 keys, 495 bytes
+2023/07/12-07:53:13.184 1cc3 Compacted 1@1 + 1@2 files => 495 bytes
+2023/07/12-07:53:13.193 1cc3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/12-07:53:13.193 1cc3 Delete type=2 #5
+2023/07/12-07:53:13.193 1cc3 Delete type=2 #8
+2023/07/12-07:53:13.193 1cc3 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00u\x00s\x00e\x00r\x00s\x00.\x00v\x00i\x00e\x00w\x00e\x00r\x00I\x00d' @ 204 : 0 .. (end); will stop at (end)

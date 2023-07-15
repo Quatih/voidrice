@@ -1,0 +1,2889 @@
+{
+   "checksum": "d98ad70484593e422d9d389bc7fdcc87",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13165495098000000",
+               "date_last_used": "13332985575735438",
+               "guid": "3624d67e-a71a-48bf-8fb8-cb4cb61f9e33",
+               "id": "6",
+               "name": "TD",
+               "type": "url",
+               "url": "https://www.torrentday.com/t"
+            }, {
+               "date_added": "13177168160000000",
+               "date_last_used": "13333050990761347",
+               "guid": "8eecb4a3-8d32-4a0b-a66e-90de64b8e9d7",
+               "id": "7",
+               "name": "cinemageddon",
+               "type": "url",
+               "url": "https://cinemageddon.net/"
+            }, {
+               "date_added": "13184197327000000",
+               "date_last_used": "13332552446560147",
+               "guid": "bef35241-4b52-4148-8da9-ac6ca55ca335",
+               "id": "8",
+               "name": "metal T",
+               "type": "url",
+               "url": "http://en.metal-tracker.com/"
+            } ],
+            "date_added": "13327339906077685",
+            "date_last_used": "0",
+            "date_modified": "13329508571854758",
+            "guid": "3e734411-bd74-478c-a1a7-e15090ba05ac",
+            "id": "5",
+            "name": "T",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13120599501000000",
+               "date_last_used": "13332965135117575",
+               "guid": "f9ba6366-0637-46d2-8093-2bede0d4abaa",
+               "id": "10",
+               "name": "AnandTech",
+               "type": "url",
+               "url": "http://www.anandtech.com/"
+            }, {
+               "date_added": "13120599501000000",
+               "date_last_used": "13332965137120918",
+               "guid": "3c2db47a-a6b2-446d-9942-75a991076157",
+               "id": "11",
+               "name": "PC Perspective",
+               "type": "url",
+               "url": "http://www.pcper.com/"
+            }, {
+               "date_added": "13120599501000000",
+               "date_last_used": "13331685814319910",
+               "guid": "b4756d43-7c3e-4780-81ff-ff2eee452920",
+               "id": "12",
+               "name": "The Tech Report",
+               "type": "url",
+               "url": "http://techreport.com/"
+            }, {
+               "date_added": "13120599501000000",
+               "date_last_used": "13331685814835817",
+               "guid": "ba262875-c116-412f-898d-b42f5e5341a7",
+               "id": "13",
+               "name": "Tom's Hardware",
+               "type": "url",
+               "url": "http://www.tomshardware.com/"
+            }, {
+               "date_added": "13241015651000000",
+               "date_last_used": "13331685815478906",
+               "guid": "a1b0a619-383c-4ae7-8e9f-6c8d4cd41ff4",
+               "id": "14",
+               "name": "Phys.org",
+               "type": "url",
+               "url": "https://phys.org/"
+            }, {
+               "children": [ {
+                  "date_added": "13164392336000000",
+                  "date_last_used": "0",
+                  "guid": "19902f68-6412-4980-bf2d-e5a2acc113fb",
+                  "id": "16",
+                  "name": "Introduction to Machine Learning  |  Machine Learning Crash Course  |  Google Developers",
+                  "type": "url",
+                  "url": "https://developers.google.com/machine-learning/crash-course/ml-intro"
+               }, {
+                  "date_added": "13137004375000000",
+                  "date_last_used": "0",
+                  "guid": "3b7c1beb-66df-4648-9338-648250ce691b",
+                  "id": "17",
+                  "name": "Security Engineering - A Guide to Building Dependable Distributed Systems",
+                  "type": "url",
+                  "url": "https://www.cl.cam.ac.uk/~rja14/book.html"
+               }, {
+                  "date_added": "13120599501000000",
+                  "date_last_used": "0",
+                  "guid": "347fa500-11e3-4b43-91eb-578cc935e13b",
+                  "id": "18",
+                  "name": "How to Think Like a Computer Scientist — How to Think Like a Computer Scientist: Learning with Python",
+                  "type": "url",
+                  "url": "http://openbookproject.net/thinkcs/python/english3e/"
+               }, {
+                  "date_added": "13120599501000000",
+                  "date_last_used": "0",
+                  "guid": "e54c6aac-bb56-4432-811f-6978be8b5f44",
+                  "id": "19",
+                  "name": "Beginning Game Development: Part I – Introduction | Coding4Fun Articles | Channel 9",
+                  "type": "url",
+                  "url": "http://channel9.msdn.com/coding4fun/articles/Beginning-Game-Development-Part-I--Introduction"
+               }, {
+                  "date_added": "13120599501000000",
+                  "date_last_used": "0",
+                  "guid": "10f362b3-2431-4c08-ad2f-7732b40a1802",
+                  "id": "20",
+                  "name": "Dive Into Python",
+                  "type": "url",
+                  "url": "http://diveintopython.org/toc/index.html"
+               }, {
+                  "date_added": "13120599501000000",
+                  "date_last_used": "0",
+                  "guid": "4dcde8e3-e06c-4e36-99c4-a5f9c4b1d613",
+                  "id": "21",
+                  "name": "20+ Computer Science Programming Online Courses | Free Download",
+                  "type": "url",
+                  "url": "http://freevideolectures.com/blog/2010/07/20-cs-programming-online-courses-with-video-lectures/"
+               }, {
+                  "date_added": "13120599501000000",
+                  "date_last_used": "0",
+                  "guid": "6f8f11db-a230-41e9-99d2-ff4bf0c2fa9d",
+                  "id": "22",
+                  "name": "Learn to Code: The Full Beginner's Guide",
+                  "type": "url",
+                  "url": "http://lifehacker.com/5744113/learn-to-code-the-full-beginners-guide"
+               }, {
+                  "date_added": "13120599501000000",
+                  "date_last_used": "0",
+                  "guid": "ad0bb8fd-8352-490b-801b-beb9cc5d2744",
+                  "id": "23",
+                  "name": "How to Take Your First Coding Project from Start to Finish",
+                  "type": "url",
+                  "url": "http://lifehacker.com/5836753/how-to-take-your-first-coding-project-from-start-to-finish"
+               }, {
+                  "date_added": "13120599501000000",
+                  "date_last_used": "0",
+                  "guid": "a774ff50-46eb-4881-9283-6ea9f12fb20c",
+                  "id": "24",
+                  "name": "CS 179: GPU Programming",
+                  "type": "url",
+                  "url": "http://courses.cms.caltech.edu/cs179/"
+               }, {
+                  "date_added": "13120599501000000",
+                  "date_last_used": "0",
+                  "guid": "0ae78de8-f6d6-469a-99c2-e4087dfd4a26",
+                  "id": "25",
+                  "name": "Mastering STM32 by Carmine Noviello [Leanpub PDF/iPad/Kindle]",
+                  "type": "url",
+                  "url": "https://leanpub.com/mastering-stm32"
+               }, {
+                  "date_added": "13120599501000000",
+                  "date_last_used": "0",
+                  "guid": "2ba19476-2841-424a-a860-c1347bc6a07c",
+                  "id": "26",
+                  "name": "Web Design in 4 minutes",
+                  "type": "url",
+                  "url": "http://jgthms.com/web-design-in-4-minutes/"
+               }, {
+                  "date_added": "13133220969000000",
+                  "date_last_used": "0",
+                  "guid": "086bd73a-4634-4fe9-8686-1efcd5857aeb",
+                  "id": "27",
+                  "name": "Hardware and Firmware Issues in Using Ultra-Low Power MCUs",
+                  "type": "url",
+                  "url": "http://www.ganssle.com/reports/ultra-low-power-design.html"
+               }, {
+                  "date_added": "13133390173000000",
+                  "date_last_used": "0",
+                  "guid": "8fa30abd-1f44-4fc6-bf0d-739ef41a03de",
+                  "id": "28",
+                  "name": "OSI model - Wikipedia",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/OSI_model"
+               }, {
+                  "date_added": "13133538527000000",
+                  "date_last_used": "0",
+                  "guid": "ad92512b-8543-42f7-8abd-b53f12b860d7",
+                  "id": "29",
+                  "name": "DevDocs API Documentation",
+                  "type": "url",
+                  "url": "https://devdocs.io/"
+               }, {
+                  "date_added": "13129899431000000",
+                  "date_last_used": "0",
+                  "guid": "826e53aa-7a8e-401f-bfc6-20cae4e1b99a",
+                  "id": "30",
+                  "name": "SKIDL | SKIDL",
+                  "type": "url",
+                  "url": "https://xesscorp.github.io/skidl/docs/_site/index.html"
+               }, {
+                  "date_added": "13125506222000000",
+                  "date_last_used": "0",
+                  "guid": "7d09f6e0-c6df-4bf7-905a-a88d37e4e2d0",
+                  "id": "31",
+                  "name": "How I Became a Web Developer in 5 Months – Learning New Stuff – Medium",
+                  "type": "url",
+                  "url": "https://medium.com/learning-new-stuff/from-non-technical-to-hired-in-5-months-d010f601b1bc#.vdy78ebma"
+               }, {
+                  "date_added": "13125416705000000",
+                  "date_last_used": "0",
+                  "guid": "f36a90ee-befb-47ea-9493-e4f82cdd76a6",
+                  "id": "32",
+                  "name": "Crypto 101",
+                  "type": "url",
+                  "url": "https://www.crypto101.io/"
+               }, {
+                  "date_added": "13127483534000000",
+                  "date_last_used": "0",
+                  "guid": "27ebf090-de4e-4429-bbcd-b3d19662622b",
+                  "id": "33",
+                  "name": "A Guide to Deep Learning by YerevaNN",
+                  "type": "url",
+                  "url": "http://yerevann.com/a-guide-to-deep-learning/"
+               }, {
+                  "date_added": "13127492281000000",
+                  "date_last_used": "0",
+                  "guid": "198f2551-abc9-44fc-b9fc-71f42115598f",
+                  "id": "34",
+                  "name": "Programming Languages - Hyperpolyglot",
+                  "type": "url",
+                  "url": "http://hyperpolyglot.org/"
+               }, {
+                  "date_added": "13126357022000000",
+                  "date_last_used": "0",
+                  "guid": "3d5e3d7d-69a2-478c-bd40-1b26adb9fac4",
+                  "id": "35",
+                  "name": "A Visual and Interactive Guide to the Basics of Neural Networks – J Alammar – Explorations in touchable pixels and intelligent androids",
+                  "type": "url",
+                  "url": "https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/"
+               }, {
+                  "date_added": "13126266754000000",
+                  "date_last_used": "0",
+                  "guid": "dd0fa024-5062-4963-8958-85bb3b88dd6a",
+                  "id": "36",
+                  "name": "Compiler Explorer",
+                  "type": "url",
+                  "url": "http://godbolt.org/#"
+               }, {
+                  "date_added": "13130525420000000",
+                  "date_last_used": "0",
+                  "guid": "f052c787-8315-4bca-987c-1a544aa2cac2",
+                  "id": "37",
+                  "name": "Computer Science from the Bottom Up",
+                  "type": "url",
+                  "url": "https://www.bottomupcs.com/"
+               }, {
+                  "date_added": "13130710473000000",
+                  "date_last_used": "0",
+                  "guid": "ef98f2a6-d120-4499-bc30-1c423c14ffb9",
+                  "id": "38",
+                  "name": "How to Learn (But Not Master) Any Language in 1 Hour (Plus: A Favor) | The Blog of Author Tim Ferriss",
+                  "type": "url",
+                  "url": "http://tim.blog/2007/11/07/how-to-learn-but-not-master-any-language-in-1-hour-plus-a-favor/"
+               }, {
+                  "date_added": "13120599501000000",
+                  "date_last_used": "0",
+                  "guid": "9bf14e56-de5a-4d7c-9e43-39b0ee546a62",
+                  "id": "39",
+                  "name": "The Floating-Point Guide - What Every Programmer Should Know About Floating-Point Arithmetic",
+                  "type": "url",
+                  "url": "http://floating-point-gui.de/"
+               }, {
+                  "date_added": "13120599501000000",
+                  "date_last_used": "0",
+                  "guid": "981828a3-1536-452c-8135-bf93a4b630f0",
+                  "id": "40",
+                  "name": "Computer Science Field Guide — Computer Science Field Guide \u003Csmall>Beta\u003C/small>",
+                  "type": "url",
+                  "url": "http://csfieldguide.org.nz/"
+               }, {
+                  "date_added": "13120599501000000",
+                  "date_last_used": "0",
+                  "guid": "345d0e31-4ec6-4fd2-a30e-d1fd5a105d9a",
+                  "id": "41",
+                  "name": "9 Things I Learned as a Software Engineer",
+                  "type": "url",
+                  "url": "http://tapwage.com/cheatsheets/2015/08/08/9-things-i-learned-as-a-software-engineer"
+               }, {
+                  "date_added": "13120599501000000",
+                  "date_last_used": "0",
+                  "guid": "2dcfbb66-839e-46e2-b4f7-a762198ba3af",
+                  "id": "42",
+                  "name": "YouAreNotDoneYet.pdf",
+                  "type": "url",
+                  "url": "http://www.thebraidytester.com/downloads/YouAreNotDoneYet.pdf"
+               }, {
+                  "date_added": "13129821664000000",
+                  "date_last_used": "0",
+                  "guid": "be6a2dd0-13dc-4f1f-80ad-c11ef842f66a",
+                  "id": "43",
+                  "name": "IUP - Portable User Interface",
+                  "type": "url",
+                  "url": "http://webserver2.tecgraf.puc-rio.br/iup/"
+               }, {
+                  "date_added": "13134150022000000",
+                  "date_last_used": "0",
+                  "guid": "22dc240e-35ef-4b15-b5b9-e482349b6572",
+                  "id": "44",
+                  "name": "DevDocs — C++ documentation",
+                  "type": "url",
+                  "url": "https://devdocs.io/cpp/"
+               }, {
+                  "date_added": "13137457201000000",
+                  "date_last_used": "0",
+                  "guid": "92347149-ef77-4723-9a79-cc2f3fdbf646",
+                  "id": "45",
+                  "name": "16-bit math look-up tables",
+                  "type": "url",
+                  "url": "http://wilsonminesco.com/16bitMathTables/"
+               }, {
+                  "date_added": "13137770384000000",
+                  "date_last_used": "0",
+                  "guid": "b2da836f-126a-49a9-ad58-ecc255c00bb3",
+                  "id": "46",
+                  "name": "Lecture Videos | Computer Systems Security | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+                  "type": "url",
+                  "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/"
+               }, {
+                  "date_added": "13138202297000000",
+                  "date_last_used": "0",
+                  "guid": "a3bbcb0e-c80d-4dfd-81f1-069e51e86c05",
+                  "id": "47",
+                  "name": "ThinkDSP/README.md at master · AllenDowney/ThinkDSP · GitHub",
+                  "type": "url",
+                  "url": "https://github.com/AllenDowney/ThinkDSP/blob/master/README.md"
+               }, {
+                  "date_added": "13138286948000000",
+                  "date_last_used": "0",
+                  "guid": "13d1959c-49da-490a-9afa-2d0b4758ddab",
+                  "id": "48",
+                  "name": "Think OS",
+                  "type": "url",
+                  "url": "http://greenteapress.com/thinkos/"
+               }, {
+                  "date_added": "13140543697000000",
+                  "date_last_used": "0",
+                  "guid": "bf2dd5ba-d169-4d68-aaad-448eb8714844",
+                  "id": "49",
+                  "name": "Introduction · Linux Inside",
+                  "type": "url",
+                  "url": "https://0xax.gitbooks.io/linux-insides/content/"
+               }, {
+                  "date_added": "13141476768000000",
+                  "date_last_used": "0",
+                  "guid": "eb4c7d64-7877-46c9-99b9-10093519ec2f",
+                  "id": "50",
+                  "name": "Rust Performance Pitfalls — Llogiq on stuff",
+                  "type": "url",
+                  "url": "https://llogiq.github.io/2017/06/01/perf-pitfalls.html"
+               }, {
+                  "date_added": "13142434338000000",
+                  "date_last_used": "0",
+                  "guid": "fe081970-df6d-41f9-a2d0-7f408c2731e0",
+                  "id": "51",
+                  "name": "vendu/wizardcode",
+                  "type": "url",
+                  "url": "http://vendu.twodots.nl/wizardcode.html"
+               }, {
+                  "date_added": "13147528239000000",
+                  "date_last_used": "0",
+                  "guid": "c5b1d3a1-36b2-4c1e-8126-0518f551e466",
+                  "id": "52",
+                  "name": "0x5f3759df | Hummus and Magnets",
+                  "type": "url",
+                  "url": "http://h14s.p5r.org/2012/09/0x5f3759df.html?mwh=1"
+               }, {
+                  "date_added": "13147551246000000",
+                  "date_last_used": "0",
+                  "guid": "7b71eef6-5a8a-4cfd-b13d-53b724799a75",
+                  "id": "53",
+                  "name": "New fast.ai course: Computational Linear Algebra · fast.ai",
+                  "type": "url",
+                  "url": "http://www.fast.ai/2017/07/17/num-lin-alg/"
+               }, {
+                  "children": [ {
+                     "date_added": "13163688395000000",
+                     "date_last_used": "0",
+                     "guid": "172eaf38-5937-4814-8dda-cddd43af738c",
+                     "id": "55",
+                     "name": "Fix Your Timestep! | Gaffer On Games",
+                     "type": "url",
+                     "url": "https://gafferongames.com/post/fix_your_timestep/"
+                  } ],
+                  "date_added": "13327339906080188",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "0ff6aa00-6e32-4ef8-881a-dfda92a50922",
+                  "id": "54",
+                  "name": "Leikir",
+                  "type": "folder"
+               }, {
+                  "date_added": "13167568430000000",
+                  "date_last_used": "0",
+                  "guid": "08c06b7c-d63d-4b40-b866-7e90f8aeca1b",
+                  "id": "56",
+                  "name": "Confessions of an Unreal Engine 4 Engineering Firefighter",
+                  "type": "url",
+                  "url": "https://allarsblog.com/2018/03/16/confessions-of-an-unreal-engine-4-engineering-firefighter/"
+               }, {
+                  "date_added": "13173305728000000",
+                  "date_last_used": "0",
+                  "guid": "7948ad5b-57fd-4399-984d-6e35f2970946",
+                  "id": "57",
+                  "name": "Fabien Sanglard's website: Deep magic explained.",
+                  "type": "url",
+                  "url": "http://fabiensanglard.net/"
+               }, {
+                  "children": [ {
+                     "date_added": "13177352355000000",
+                     "date_last_used": "0",
+                     "guid": "e06e1109-3df1-47d1-938b-63a8a245e042",
+                     "id": "59",
+                     "name": "Scratchapixel",
+                     "type": "url",
+                     "url": "https://www.scratchapixel.com/"
+                  } ],
+                  "date_added": "13327339906080323",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "3fcb7985-554f-4a39-9773-6af14e89298c",
+                  "id": "58",
+                  "name": "Graphics",
+                  "type": "folder"
+               }, {
+                  "date_added": "13196280861000000",
+                  "date_last_used": "0",
+                  "guid": "ca11cb48-d33f-4788-be6b-972afb546429",
+                  "id": "60",
+                  "name": "Phase-Functioned Neural Networks for Character Control - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=Ul0Gilv5wvY"
+               }, {
+                  "date_added": "13198795738000000",
+                  "date_last_used": "0",
+                  "guid": "e97ba5a6-719e-4c69-99b8-4ac01dae3b86",
+                  "id": "61",
+                  "name": "Clang-Tidy — Extra Clang Tools 9 documentation",
+                  "type": "url",
+                  "url": "https://clang.llvm.org/extra/clang-tidy/"
+               }, {
+                  "date_added": "13198795744000000",
+                  "date_last_used": "0",
+                  "guid": "51084f94-8ce0-4eae-9da7-602c1a86e813",
+                  "id": "62",
+                  "name": "Quick C++ Benchmarks",
+                  "type": "url",
+                  "url": "http://quick-bench.com/"
+               }, {
+                  "date_added": "13198795750000000",
+                  "date_last_used": "0",
+                  "guid": "fd15d830-1d5b-4298-b1fe-2f8b41ed4750",
+                  "id": "63",
+                  "name": "Compiler Explorer",
+                  "type": "url",
+                  "url": "https://godbolt.org/"
+               }, {
+                  "date_added": "13216503850000000",
+                  "date_last_used": "0",
+                  "guid": "1094fc32-0f35-486d-bdb6-8fa897ba8528",
+                  "id": "64",
+                  "name": "GCC's assembler syntax",
+                  "type": "url",
+                  "url": "https://www.felixcloutier.com/documents/gcc-asm.html"
+               }, {
+                  "date_added": "13237386447000000",
+                  "date_last_used": "0",
+                  "guid": "706b5ac0-f592-47a8-85f7-8489ea6a9d21",
+                  "id": "65",
+                  "name": "Stephen Marz: Blog",
+                  "type": "url",
+                  "url": "https://osblog.stephenmarz.com/"
+               } ],
+               "date_added": "13327339906078702",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "67245d46-9155-4f73-a301-42f2efde5129",
+               "id": "15",
+               "name": "Forritun",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13125498927000000",
+                  "date_last_used": "0",
+                  "guid": "0b3f2c46-84ff-4f7c-be94-1789585aec5a",
+                  "id": "67",
+                  "name": "Interfacing with the Arduino's bootloader directly from C# (to upload a HEX file) // Things that compute",
+                  "type": "url",
+                  "url": "http://www.diericx.net/post/upload-hex-file-from-csharp/"
+               }, {
+                  "date_added": "13138887095000000",
+                  "date_last_used": "0",
+                  "guid": "f81a53f8-5981-484a-a329-9d380da56022",
+                  "id": "68",
+                  "name": "Fearless concurrency in your microcontroller | Embedded in Rust",
+                  "type": "url",
+                  "url": "http://blog.japaric.io/fearless-concurrency/"
+               }, {
+                  "date_added": "13126971824000000",
+                  "date_last_used": "0",
+                  "guid": "af0eb54d-ef8a-4271-b6f8-6ef4fecf7268",
+                  "id": "69",
+                  "name": "Magnetometer Tilt Compensation for Yaw Axis Using HMC5883L and BMA180",
+                  "type": "url",
+                  "url": "http://forum.arduino.cc/index.php?topic=152529.0"
+               }, {
+                  "date_added": "13126369159000000",
+                  "date_last_used": "0",
+                  "guid": "d52595d1-dd79-4c60-9a86-792dceb1619e",
+                  "id": "70",
+                  "name": "Lessons Learned NASA",
+                  "type": "url",
+                  "url": "https://llis.nasa.gov/"
+               }, {
+                  "date_added": "13126194021000000",
+                  "date_last_used": "0",
+                  "guid": "97e78ba2-d5c4-4ed5-8eaa-96ce66189e69",
+                  "id": "71",
+                  "name": "How To Get Press for Your Startup: The Complete Guide – Startup Grind – Medium",
+                  "type": "url",
+                  "url": "https://medium.com/startup-grind/how-to-get-press-for-your-startup-the-complete-guide-b79c57318113#.ahzy7dgu7"
+               }, {
+                  "date_added": "13130194256000000",
+                  "date_last_used": "0",
+                  "guid": "c0e6fa20-b402-4373-897d-d701dd20a067",
+                  "id": "72",
+                  "name": "PWM On The ATmega328 - QEEWiki",
+                  "type": "url",
+                  "url": "https://sites.google.com/site/qeewiki/books/avr-guide/pwm-on-the-atmega328"
+               }, {
+                  "date_added": "13130442853000000",
+                  "date_last_used": "0",
+                  "guid": "a09b466a-e639-4868-9558-3fcb20b37ac8",
+                  "id": "73",
+                  "name": "AVR GUIDE - QEEWiki",
+                  "type": "url",
+                  "url": "https://sites.google.com/site/qeewiki/books/avr-guide"
+               }, {
+                  "date_added": "13130442873000000",
+                  "date_last_used": "0",
+                  "guid": "83ac245b-f905-4db1-94e1-b7fcd3e1f174",
+                  "id": "74",
+                  "name": "Atmel AVR Archives » maxEmbedded",
+                  "type": "url",
+                  "url": "http://maxembedded.com/category/microcontrollers-2/atmel-avr/"
+               }, {
+                  "date_added": "13130447902000000",
+                  "date_last_used": "0",
+                  "guid": "42f3bb1a-1301-4314-a9f7-1d93da41000b",
+                  "id": "75",
+                  "name": "Why and How to Control Fan Speed for Cooling Electronic Equipment | Analog Devices",
+                  "type": "url",
+                  "url": "http://www.analog.com/en/analog-dialogue/articles/how-to-control-fan-speed.html"
+               }, {
+                  "date_added": "13130964210000000",
+                  "date_last_used": "0",
+                  "guid": "75d403fb-e257-49ea-8ae2-99ebdc83248c",
+                  "id": "76",
+                  "name": "AVRbeginners.net - Your AVR starting point!",
+                  "type": "url",
+                  "url": "http://www.avrbeginners.net/"
+               }, {
+                  "date_added": "13132763553000000",
+                  "date_last_used": "0",
+                  "guid": "fd4d380b-5b6e-41ce-aca4-97c1e01f4700",
+                  "id": "77",
+                  "name": "Fan Speed Control Is Cool! - Tutorial - Maxim",
+                  "type": "url",
+                  "url": "https://www.maximintegrated.com/en/app-notes/index.mvp/id/1784"
+               }, {
+                  "date_added": "13132768781000000",
+                  "date_last_used": "0",
+                  "guid": "25040d0b-835c-49c5-b790-9b0e8c08ade3",
+                  "id": "78",
+                  "name": "DC-DC Converter Tutorial - Tutorial - Maxim",
+                  "type": "url",
+                  "url": "https://www.maximintegrated.com/en/app-notes/index.mvp/id/2031"
+               }, {
+                  "date_added": "13120599501000000",
+                  "date_last_used": "0",
+                  "guid": "a816b580-5a7e-4291-a60c-867338f1d306",
+                  "id": "79",
+                  "name": "TONC: Contents",
+                  "type": "url",
+                  "url": "http://www.coranac.com/tonc/text/toc.htm"
+               }, {
+                  "date_added": "13130186526000000",
+                  "date_last_used": "0",
+                  "guid": "96362b19-5c08-42b7-8c40-e0579290b684",
+                  "id": "80",
+                  "name": "Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course) - Hebrew University of Jerusalem | Coursera",
+                  "type": "url",
+                  "url": "https://www.coursera.org/learn/build-a-computer"
+               }, {
+                  "date_added": "13133578277000000",
+                  "date_last_used": "0",
+                  "guid": "75322109-65d7-4b8a-81bf-a82e915a7436",
+                  "id": "81",
+                  "name": "Arduino USB transfers – Using Android in Industrial Automation",
+                  "type": "url",
+                  "url": "http://android.serverbox.ch/?p=427"
+               }, {
+                  "date_added": "13133814171000000",
+                  "date_last_used": "0",
+                  "guid": "36fe0eea-e0b0-466a-b045-0a56abb5c567",
+                  "id": "82",
+                  "name": "Serial Communication in Windows - CodeProject",
+                  "type": "url",
+                  "url": "https://www.codeproject.com/Articles/2682/Serial-Communication-in-Windows"
+               }, {
+                  "date_added": "13133842425000000",
+                  "date_last_used": "0",
+                  "guid": "f63ccca2-0b15-4a9b-ac45-543a6a6bb8f8",
+                  "id": "83",
+                  "name": "CSerialPort v1.32",
+                  "type": "url",
+                  "url": "http://www.naughter.com/serialport.html"
+               }, {
+                  "date_added": "13133906246000000",
+                  "date_last_used": "0",
+                  "guid": "9ff19d1c-dfbc-4751-ab7d-a17241dbc367",
+                  "id": "84",
+                  "name": "lf379, Hardware: A digital DC powersupply",
+                  "type": "url",
+                  "url": "http://new.linuxfocus.org/English/June2005/article379.shtml"
+               }, {
+                  "date_added": "13133906252000000",
+                  "date_last_used": "0",
+                  "guid": "3cea9992-62d0-499a-9bdc-6019c6d77684",
+                  "id": "85",
+                  "name": "Variable 0-12V, Digitally Controlled, Power Supply Using a Laptop Wall Wart & Ardunio - All",
+                  "type": "url",
+                  "url": "http://www.instructables.com/id/Variable-0-12V-Digitally-Controlled-Power-Supply-u/?ALLSTEPS"
+               }, {
+                  "date_added": "13134159106000000",
+                  "date_last_used": "0",
+                  "guid": "3aee27d5-5738-490a-8ea5-f3d5a6593c85",
+                  "id": "86",
+                  "name": "Arduino’s AnalogWrite – Converting PWM to a Voltage",
+                  "type": "url",
+                  "url": "https://provideyourown.com/2011/analogwrite-convert-pwm-to-voltage/"
+               }, {
+                  "date_added": "13134168530000000",
+                  "date_last_used": "0",
+                  "guid": "f8924e93-2815-47af-ae00-2e9a299e5e85",
+                  "id": "87",
+                  "name": "Driving P-Channel MOSFETs with a Microcontroller",
+                  "type": "url",
+                  "url": "http://electronics-diy.com/electronic_schematic.php?id=1012"
+               }, {
+                  "date_added": "13134516807000000",
+                  "date_last_used": "0",
+                  "guid": "68986818-7432-4148-a3e4-ca94328a85f0",
+                  "id": "88",
+                  "name": "Welcome to GNU ARM Eclipse!",
+                  "type": "url",
+                  "url": "https://gnuarmeclipse.github.io/"
+               }, {
+                  "date_added": "13134571393000000",
+                  "date_last_used": "0",
+                  "guid": "fb75c4da-76c9-407f-aa31-69a63d3b632a",
+                  "id": "89",
+                  "name": "CEnumerateSerial v1.31",
+                  "type": "url",
+                  "url": "http://www.naughter.com/enumser.html"
+               }, {
+                  "date_added": "13134842283000000",
+                  "date_last_used": "0",
+                  "guid": "1de9e8a9-34e8-4cab-9d21-a3b977d52aa8",
+                  "id": "90",
+                  "name": "Understand LDO Concepts to Achieve Optimal Designs | Analog Devices",
+                  "type": "url",
+                  "url": "http://www.analog.com/en/analog-dialogue/articles/understand-ldo-concepts.html"
+               }, {
+                  "date_added": "13138733962000000",
+                  "date_last_used": "0",
+                  "guid": "3cc8c8e9-0e33-4961-9ec5-c8b7716c378d",
+                  "id": "91",
+                  "name": "YARP: Welcome to YARP",
+                  "type": "url",
+                  "url": "http://www.yarp.it/"
+               }, {
+                  "date_added": "13140554189000000",
+                  "date_last_used": "0",
+                  "guid": "cc1262bc-6e9b-4f61-8459-c0972cf16def",
+                  "id": "92",
+                  "name": "James",
+                  "type": "url",
+                  "url": "https://jamesmunns.com/"
+               }, {
+                  "date_added": "13140798913000000",
+                  "date_last_used": "0",
+                  "guid": "36b032a9-bfb1-4f23-aa4c-f8310734ce3a",
+                  "id": "93",
+                  "name": "Ben Eater",
+                  "type": "url",
+                  "url": "https://eater.net/"
+               }, {
+                  "date_added": "13143734303000000",
+                  "date_last_used": "0",
+                  "guid": "6b1a585a-b869-43cb-b379-e1ba499d7616",
+                  "id": "94",
+                  "name": "Reversing and Exploiting BLE 4.0 communication - payatu",
+                  "type": "url",
+                  "url": "http://payatu.com/reversing-exploiting-ble-4-0-communication/"
+               }, {
+                  "date_added": "13144172958000000",
+                  "date_last_used": "0",
+                  "guid": "7c200a8b-c9a8-4266-906c-11b67069baa9",
+                  "id": "95",
+                  "name": "PERTECS: Analogue Computing, Real-Time Signal processing and Control systems",
+                  "type": "url",
+                  "url": "http://tcode.auckland.ac.nz/~mark/Signal%20Processing%3A%20PERTECS.html"
+               }, {
+                  "date_added": "13255540976000000",
+                  "date_last_used": "0",
+                  "guid": "01c9f939-8a1f-427d-bf6c-c5cae387a8fd",
+                  "id": "96",
+                  "name": "Anatomy of a CNC Router",
+                  "type": "url",
+                  "url": "https://mattferraro.dev/posts/cnc-router"
+               }, {
+                  "date_added": "13255741175000000",
+                  "date_last_used": "0",
+                  "guid": "c3b5af74-71aa-44b3-83ac-f50843ba2040",
+                  "id": "97",
+                  "name": "Lík allra fimm hafa fundist í bruna­rústunum - Vísir",
+                  "type": "url",
+                  "url": "https://www.visir.is/g/20212061873d/lik-allra-fimm-hafa-fundist-i-bruna-rustunum"
+               }, {
+                  "date_added": "13261873250000000",
+                  "date_last_used": "0",
+                  "guid": "fb8564ae-9f3b-48d9-b83b-877a7b768d35",
+                  "id": "98",
+                  "name": "Install OpenCV 4.5 on Raspberry Pi 4 - Q-engineering",
+                  "type": "url",
+                  "url": "https://qengineering.eu/install-opencv-4.5-on-raspberry-pi-4.html"
+               } ],
+               "date_added": "13327339906080558",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "df6a2cd9-76c3-44fc-bc86-ec3835fee4a0",
+               "id": "66",
+               "name": "Mech",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13147528944000000",
+                  "date_last_used": "0",
+                  "guid": "2eb4b1b4-45a0-4111-ba32-4c02efb808f6",
+                  "id": "100",
+                  "name": "How to Choose the Right Continuous Integration Tool for Embedded Systems",
+                  "type": "url",
+                  "url": "https://medium.com/jumperiot/how-to-choose-the-right-continuous-integration-tool-for-embedded-systems-762cdb41b5c8"
+               }, {
+                  "date_added": "13147551233000000",
+                  "date_last_used": "0",
+                  "guid": "bddeffee-8790-428f-b6e0-7c7609f484c8",
+                  "id": "101",
+                  "name": "The Elements of Computing Systems / Nisan & Schocken",
+                  "type": "url",
+                  "url": "http://www.nand2tetris.org/course.php"
+               }, {
+                  "date_added": "13147551242000000",
+                  "date_last_used": "0",
+                  "guid": "659a08a5-7b31-4b95-82dd-e18425330869",
+                  "id": "102",
+                  "name": "Learning Linux for embedded systems | Embedded",
+                  "type": "url",
+                  "url": "http://www.embedded.com/electronics-blogs/open-mike/4420567/Learning-Linux-for-embedded-systems"
+               }, {
+                  "date_added": "13147551252000000",
+                  "date_last_used": "0",
+                  "guid": "8d05c929-f19b-4f99-94d2-19cda6f6101d",
+                  "id": "103",
+                  "name": "How to make artificial atoms out of electrical circuits – Bits of Quantum",
+                  "type": "url",
+                  "url": "http://blog.qutech.nl/index.php/2017/03/14/how-to-make-artificial-atoms-out-of-electrical-circuits/"
+               }, {
+                  "date_added": "13153680361000000",
+                  "date_last_used": "0",
+                  "guid": "1a59022f-2649-41f2-be11-fc8a6b6cf5b5",
+                  "id": "104",
+                  "name": "Embedded Engineers Most Important and Useful Skills",
+                  "type": "url",
+                  "url": "https://www.embeddedrelated.com/thread/4325/embedded-engineers-most-important-and-useful-skills"
+               }, {
+                  "date_added": "13154881558000000",
+                  "date_last_used": "0",
+                  "guid": "dfe955e0-e7ea-4a46-8aaf-98d25d9df39a",
+                  "id": "105",
+                  "name": "Embedded Software - Good (and Bad) Programming Habits",
+                  "type": "url",
+                  "url": "https://www.embeddedrelated.com/thread/4490/embedded-software-good-and-bad-programming-habits"
+               }, {
+                  "date_added": "13173802587000000",
+                  "date_last_used": "0",
+                  "guid": "b38cf516-a3db-4874-aa03-54e634259a7e",
+                  "id": "106",
+                  "name": "SOD - An Embedded, Modern Computer Vision & Machine Learning Library",
+                  "type": "url",
+                  "url": "https://sod.pixlab.io/"
+               }, {
+                  "date_added": "13204385480000000",
+                  "date_last_used": "0",
+                  "guid": "92b06727-ac50-4cf0-8ef7-a8bfb1217e5f",
+                  "id": "107",
+                  "name": "How to Dig into Firmware Code Size",
+                  "type": "url",
+                  "url": "https://interrupt.memfault.com/blog/best-firmware-size-tools"
+               }, {
+                  "date_added": "13249276547000000",
+                  "date_last_used": "0",
+                  "guid": "f762b412-482e-4de8-b081-7c1784a0f75b",
+                  "id": "108",
+                  "name": "Learn how to design and defend an embedded Linux device | Hacker News",
+                  "type": "url",
+                  "url": "https://news.ycombinator.com/item?id=25015821"
+               }, {
+                  "date_added": "13249276641000000",
+                  "date_last_used": "0",
+                  "guid": "c60930ed-4026-476a-8260-37a9c9cec75f",
+                  "id": "109",
+                  "name": "HOWTO: Build an RT-application - RTwiki",
+                  "type": "url",
+                  "url": "https://rt.wiki.kernel.org/index.php/HOWTO:_Build_an_RT-application"
+               }, {
+                  "date_added": "13249664891000000",
+                  "date_last_used": "0",
+                  "guid": "53c0943e-3526-4cb0-8c24-593ce0daf1f0",
+                  "id": "110",
+                  "name": "Ventoy",
+                  "type": "url",
+                  "url": "https://www.ventoy.net/en/index.html"
+               }, {
+                  "date_added": "13251158060000000",
+                  "date_last_used": "0",
+                  "guid": "1b103f97-2e49-4c5e-8c33-ae851cf6a8b1",
+                  "id": "111",
+                  "name": "Introduction to Linear Algebra for Applied Machine Learning with Python",
+                  "type": "url",
+                  "url": "https://pabloinsente.github.io/intro-linear-algebra"
+               }, {
+                  "date_added": "13272644062000000",
+                  "date_last_used": "0",
+                  "guid": "411cac5f-1e16-4b79-b4e2-34de8a7dc6dd",
+                  "id": "112",
+                  "name": "Let's remove Quaternions from every 3D Engine (An Interactive Introduction to Rotors from Geometric Algebra) - Marc ten Bosch",
+                  "type": "url",
+                  "url": "https://marctenbosch.com/quaternions/"
+               }, {
+                  "date_added": "13272644072000000",
+                  "date_last_used": "0",
+                  "guid": "dd7ade50-e81c-41d2-9682-ee5920d6ea79",
+                  "id": "113",
+                  "name": "Marc ten Bosch - N-Dimensional Rigid Body Dynamics",
+                  "type": "url",
+                  "url": "https://marctenbosch.com/ndphysics/"
+               }, {
+                  "date_added": "13285393411000000",
+                  "date_last_used": "0",
+                  "guid": "d22268d2-7b3b-4830-af0e-f6edf92b00e4",
+                  "id": "114",
+                  "name": "Frama-C - Framework for Modular Analysis of C programs",
+                  "type": "url",
+                  "url": "https://frama-c.com/"
+               }, {
+                  "date_added": "13286238784000000",
+                  "date_last_used": "0",
+                  "guid": "58dd7dd8-1f79-42f5-8e2b-ca98b1d4e195",
+                  "id": "115",
+                  "name": "What’s special about embedded microcontrollers?",
+                  "type": "url",
+                  "url": "https://www.microcontrollertips.com/whats-special-about-embedded-microcontrollers-faq/"
+               }, {
+                  "date_added": "13313181465000000",
+                  "date_last_used": "0",
+                  "guid": "4ccdb803-06fe-4941-9dca-35d628b4cc3a",
+                  "id": "116",
+                  "name": "Picolibc: C library designed for embedded 32- and 64- bit systems | Hacker News",
+                  "type": "url",
+                  "url": "https://news.ycombinator.com/item?id=33596966"
+               } ],
+               "date_added": "13327339906081815",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "560063a8-06d9-4871-a5cc-bafa567e3bfe",
+               "id": "99",
+               "name": "Embedded",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13282262885000000",
+                  "date_last_used": "0",
+                  "guid": "7dd3b46c-03ed-4941-a25a-6f175e0b8576",
+                  "id": "118",
+                  "name": "The Ancient Secrets of Computer Vision - An Introduction to Computer Vision",
+                  "type": "url",
+                  "url": "https://pjreddie.com/courses/computer-vision/"
+               } ],
+               "date_added": "13327339906082569",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "ea02d4ac-9830-41b2-a2ef-6c33f75ad05d",
+               "id": "117",
+               "name": "tölvusjón",
+               "type": "folder"
+            } ],
+            "date_added": "13327339906078266",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "138a54e7-ba15-4a4e-9ad6-d08d1d2bdce3",
+            "id": "9",
+            "name": "Tölvu",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13289086568000000",
+                     "date_last_used": "0",
+                     "guid": "159c299f-c8d6-45c9-ba38-88df821f2b0c",
+                     "id": "122",
+                     "name": "All men's shoes - Tadeevo minimalist shoes - barefoot - zero drop - minimalist - shoes -",
+                     "type": "url",
+                     "url": "https://tadeevo.com/en_US/c/All-mens-shoes/14"
+                  }, {
+                     "date_added": "13289086675000000",
+                     "date_last_used": "0",
+                     "guid": "fb0ac6e9-05dc-4ad8-a40e-8306e28d85c9",
+                     "id": "123",
+                     "name": "Milagro Frio Winter Barefoot boots - LukShoes",
+                     "type": "url",
+                     "url": "https://www.lukshoes.com/winter-barefoot/milagro-frio-winter-barefoot-boots-3/"
+                  }, {
+                     "date_added": "13289086706000000",
+                     "date_last_used": "0",
+                     "guid": "4950be7d-2858-4cc4-8a31-cfce2d7ae3de",
+                     "id": "124",
+                     "name": ":: peerko",
+                     "type": "url",
+                     "url": "https://www.peerko.cz/eu/"
+                  }, {
+                     "date_added": "13289086710000000",
+                     "date_last_used": "0",
+                     "guid": "946a894d-a237-4c72-ad93-c39036c360c6",
+                     "id": "125",
+                     "name": "Mukishoes Products",
+                     "type": "url",
+                     "url": "https://mukishoes.com/shop/?category=winter"
+                  }, {
+                     "date_added": "13289086775000000",
+                     "date_last_used": "0",
+                     "guid": "25c27462-73ea-4709-909f-b2278c3da671",
+                     "id": "126",
+                     "name": "Feelgrounds | Let’s make barefoot shoes cool!",
+                     "type": "url",
+                     "url": "https://eu.feelgrounds.com/?p=OWBSHOES"
+                  }, {
+                     "date_added": "13289185303000000",
+                     "date_last_used": "0",
+                     "guid": "3f2ec935-c826-4787-98ae-c0e52f8cd9d6",
+                     "id": "127",
+                     "name": "MEN | Handmade Barefoot Shoes from Germany",
+                     "type": "url",
+                     "url": "https://www.zaqq.com/barefoot-shoes-men/?p=1"
+                  }, {
+                     "date_added": "13289186049000000",
+                     "date_last_used": "0",
+                     "guid": "60f1b70f-b917-4895-b145-9151365ecdee",
+                     "id": "128",
+                     "name": "Birchbury: Wide & Soft Minimalist Men's Dress Shoes",
+                     "type": "url",
+                     "url": "https://birchbury.com/brenston"
+                  }, {
+                     "date_added": "13289186838000000",
+                     "date_last_used": "0",
+                     "guid": "a1a1d9d7-58b2-4fca-b1a1-4779c2768310",
+                     "id": "129",
+                     "name": "Carets - The Most Stylish Minimalist / Barefoot Dress Shoe – Carets EU",
+                     "type": "url",
+                     "url": "https://eu.carets.com/#anyasreviews"
+                  }, {
+                     "date_added": "13292181910000000",
+                     "date_last_used": "0",
+                     "guid": "d74a37a3-723e-4d69-8fab-1bf5e793ed5f",
+                     "id": "130",
+                     "name": "naBOSo - Barefoot shoes, Men, Zateplené barefoot boty, page 2 - Síla opravdovosti.",
+                     "type": "url",
+                     "url": "https://www.barefootnaboso.com/Zateplene-236/?strana=2"
+                  }, {
+                     "date_added": "13296057052000000",
+                     "date_last_used": "0",
+                     "guid": "9b59f197-3da1-432c-8c20-b0bba8c080b5",
+                     "id": "131",
+                     "name": "Men | GROUNDIES® TrueSense Barefootwear",
+                     "type": "url",
+                     "url": "https://www.groundies.com/men-oxid-1/"
+                  }, {
+                     "date_added": "13302088124000000",
+                     "date_last_used": "0",
+                     "guid": "5b282a88-3b6c-419e-9755-93d36d6ec644",
+                     "id": "132",
+                     "name": "OldTradingPost.com Western Store is an industry leader in Old West and Modern Western Leather Products and Western Wear. OldTradingPost.com Leather Native American Frontier Buckskin Clothing, Buffalo Fur Coats, Clint Eastwood Poncho, Western Wear, Old West Clothing, Western Belt and Holster, Western Holsters, Old West Shoulder Holsters, Cartridge Belts, Rifle Scabbards from makers like Shady Brady Hats, Geier Gloves, Outback Trading Company, El Paso Saddlery, Oak Tree Farms Boots, Ross Gun Leather, Footwear by Footskins Deerskin Moccasins, Scully Leather Rangewear and Wah Maker, Whites Boots and much more., OldTradingPost.com Western Store",
+                     "type": "url",
+                     "url": "https://www.oldtradingpost.com/"
+                  }, {
+                     "date_added": "13302088275000000",
+                     "date_last_used": "0",
+                     "guid": "5ca5e5ef-981a-486c-8b45-022ad434e65e",
+                     "id": "133",
+                     "name": "ktleathermoccasins",
+                     "type": "url",
+                     "url": "https://www.ktleathermoccasins.com/moccasins-mens"
+                  }, {
+                     "date_added": "13329153870044998",
+                     "date_last_used": "0",
+                     "guid": "5c996cc9-6cd7-4bed-b55b-31cb816b11b4",
+                     "id": "355",
+                     "meta_info": {
+                        "power_bookmark_meta": ""
+                     },
+                     "name": "Mini-Mil TR105 / Minimalist Training Boot",
+                     "type": "url",
+                     "url": "https://www.bellevilleboot.com/index.php?l=product_detail&p=151"
+                  } ],
+                  "date_added": "13327339906082853",
+                  "date_last_used": "0",
+                  "date_modified": "13329153877825375",
+                  "guid": "87ef686a-1441-4f2c-a3ca-63383b8ccf09",
+                  "id": "121",
+                  "name": "Barefoot",
+                  "type": "folder"
+               }, {
+                  "date_added": "13289598251000000",
+                  "date_last_used": "0",
+                  "guid": "073213ec-37ea-4b87-a07f-f794d1688435",
+                  "id": "134",
+                  "name": "Footwear - Shoes - Russell Moccasin Co.",
+                  "type": "url",
+                  "url": "https://russellmoccasin.com/handmade_custom_fit_shoes/"
+               }, {
+                  "date_added": "13286402122000000",
+                  "date_last_used": "0",
+                  "guid": "43901e83-594b-4832-98d9-b394d6131ffd",
+                  "id": "135",
+                  "name": "FeelBarefoot | Etsy",
+                  "type": "url",
+                  "url": "https://www.etsy.com/shop/FeelBarefoot?ref=simple-shop-header-name&listing_id=1155579793"
+               }, {
+                  "date_added": "13286416367000000",
+                  "date_last_used": "0",
+                  "guid": "2f1ea3b5-2a24-499f-9018-87f4cc4b46b2",
+                  "id": "136",
+                  "name": "Cap Toe Oxford Shoes in Brown Antique Italian Leather",
+                  "type": "url",
+                  "url": "https://www.acemarks.com/mens-shoes/italian-dress-shoes/captoe-oxford-shoes/cap-toe-oxford-brown-antique-leather"
+               }, {
+                  "date_added": "13286416375000000",
+                  "date_last_used": "0",
+                  "guid": "f4628f0b-2fe2-44a2-9db4-b4e54426d35d",
+                  "id": "137",
+                  "name": "102635 - DARK BROWN NATURCALF - E – Meermin Shoes",
+                  "type": "url",
+                  "url": "https://meermin.com/collections/mens-handwelted/products/102635-naturcalf-marron-e"
+               }, {
+                  "date_added": "13314705309000000",
+                  "date_last_used": "0",
+                  "guid": "cd86ba1b-362f-44d5-922b-303bc5d7ed18",
+                  "id": "138",
+                  "name": "Sérsmíðaðir skór",
+                  "type": "url",
+                  "url": "https://www.stodtaekni.is/sersmidadir-skor/"
+               } ],
+               "date_added": "13327339906082833",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "b2e3d6de-b6a1-4383-9e32-1837d5c341ec",
+               "id": "120",
+               "name": "Skór",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13290738695000000",
+                  "date_last_used": "0",
+                  "guid": "69dfc5d2-cfc5-4cae-96b3-debca7aada33",
+                  "id": "140",
+                  "name": "Men | Shop Men | Cavour",
+                  "type": "url",
+                  "url": "https://cavour.co/en/1/men"
+               }, {
+                  "date_added": "13290734634000000",
+                  "date_last_used": "0",
+                  "guid": "cd0b8282-9f9e-4fe7-8f2a-0fd3fba83ca2",
+                  "id": "141",
+                  "name": "Merino Wool Clothing & Apparel | Unbound Merino",
+                  "type": "url",
+                  "url": "https://unboundmerino.com/"
+               }, {
+                  "date_added": "13290394414000000",
+                  "date_last_used": "0",
+                  "guid": "26f3d9f0-9834-47d5-af8c-713e63b05fdf",
+                  "id": "142",
+                  "name": "The Perfect Jumper - Asphalte",
+                  "type": "url",
+                  "url": "https://www.asphalte.com/en-us/h/products/the-perfect-jumper/?utm_source=facebook&utm_medium=cpc&utm_campaign=pullparfaitv7&fbclid=IwAR0jbJckOSUN12hz0qE1OIAWVgisUiILexd0ttJNuyPQjpeQJGjbz5sdT8w"
+               }, {
+                  "date_added": "13289184281000000",
+                  "date_last_used": "0",
+                  "guid": "116831dc-15f1-4676-b38b-256e173f4483",
+                  "id": "143",
+                  "name": "Slim Mercer Buxur",
+                  "type": "url",
+                  "url": "https://www.mottandbow.com/products/slim-merc-clay"
+               }, {
+                  "date_added": "13291855354000000",
+                  "date_last_used": "0",
+                  "guid": "9988bf3b-8f8e-4118-a7ec-5faedad60d32",
+                  "id": "144",
+                  "name": "https://www.bn3th.se",
+                  "type": "url",
+                  "url": "https://www.bn3th.se/"
+               }, {
+                  "children": [ {
+                     "date_added": "13289272654000000",
+                     "date_last_used": "0",
+                     "guid": "bb017374-3c50-4a7a-aeca-4c1e51e7895c",
+                     "id": "146",
+                     "name": "Lyst -> ParadeWorld",
+                     "type": "url",
+                     "url": "https://www.lyst.co.uk/track/lead/819957519/return/?pageViewId=9dbc650b-10a3-4bd2-8d3d-6a2a147f54f7&reason=feed-product-image"
+                  }, {
+                     "date_added": "13289272659000000",
+                     "date_last_used": "0",
+                     "guid": "09341200-4ba8-4970-b033-2143ce850480",
+                     "id": "147",
+                     "name": "Shop Le Laboureur Wool Work Jacket - Brown | Parade World",
+                     "type": "url",
+                     "url": "https://www.paradeworld.com/uk/product/le-laboureur-wool-work-jacket-brown-321-10006503877/?utm_source=laurenlyst&utm_campaign=1101l5etX&utm_medium=affiliate&utm_content=1011l37114"
+                  }, {
+                     "date_added": "13290214779000000",
+                     "date_last_used": "0",
+                     "guid": "2c4d1515-cd37-4072-96a0-dc78ad780f2a",
+                     "id": "148",
+                     "name": "Men's Collection: Shirts, Polos, Jeans, Shorts & More | UNIQLO US",
+                     "type": "url",
+                     "url": "https://www.uniqlo.com/us/en/men"
+                  }, {
+                     "date_added": "13289942521000000",
+                     "date_last_used": "0",
+                     "guid": "56930bc2-395c-4270-9fdb-20039c0daa78",
+                     "id": "149",
+                     "name": "Men’s Athleisure Pants & Dress Pants | Rhone®",
+                     "type": "url",
+                     "url": "https://www.rhone.com/collections/mens-athleisure-pants"
+                  } ],
+                  "date_added": "13327339906083509",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "ec112f6c-1638-4fb9-a242-dd14aacf26b2",
+                  "id": "145",
+                  "name": "Drasl",
+                  "type": "folder"
+               }, {
+                  "date_added": "13294339715000000",
+                  "date_last_used": "0",
+                  "guid": "57b6fd24-a6ae-4943-8ea0-7182e5675354",
+                  "id": "150",
+                  "name": "Cuts Clothing | Cuts Clothing",
+                  "type": "url",
+                  "url": "https://www.cutsclothing.com/"
+               } ],
+               "date_added": "13327339906083393",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "4c72b9ee-0d28-461b-8354-36ea7cd505b0",
+               "id": "139",
+               "name": "Pop fashion",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13282004899000000",
+                  "date_last_used": "0",
+                  "guid": "c4809a71-5056-4c9c-8c34-8cdbe5979cbf",
+                  "id": "152",
+                  "name": "Herrar – Farmers Market - Iceland ull",
+                  "type": "url",
+                  "url": "https://is.farmersmarket.is/pages/herrar/"
+               }, {
+                  "date_added": "13286495262000000",
+                  "date_last_used": "0",
+                  "guid": "b7330d0a-2a55-4c3d-b265-3bd27d956037",
+                  "id": "153",
+                  "name": "Hvar fást notuð föt? - Umbúðalaust",
+                  "type": "url",
+                  "url": "https://umbudalaust.is/notud-fot/#NFHofudReykjanes"
+               }, {
+                  "date_added": "13290648143000000",
+                  "date_last_used": "0",
+                  "guid": "45b6c397-4eb9-455c-9a42-f8b912d04a3d",
+                  "id": "154",
+                  "name": "Verðskrá",
+                  "type": "url",
+                  "url": "https://xn--klski-jua.com/ver%C3%B0skr%C3%A1"
+               } ],
+               "date_added": "13327339906083662",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "b034ce93-1e16-4e1b-9c61-3eb66cce65f2",
+               "id": "151",
+               "name": "Ísl",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13289271535000000",
+                  "date_last_used": "0",
+                  "guid": "e5030bbe-f291-4830-a624-4e01a83cd3be",
+                  "id": "156",
+                  "name": "Darcy Clothing | Official Website",
+                  "type": "url",
+                  "url": "https://www.darcyclothing.com/"
+               }, {
+                  "date_added": "13290335882000000",
+                  "date_last_used": "0",
+                  "guid": "05ace370-271d-41e1-8f83-8f272a8411d8",
+                  "id": "157",
+                  "name": "Shops and brands - Vintagebursche",
+                  "type": "url",
+                  "url": "https://vintagebursche.de/shops-and-brands/"
+               }, {
+                  "date_added": "13290218006000000",
+                  "date_last_used": "0",
+                  "guid": "08d81e09-7f8a-4367-87b5-cfc35251af95",
+                  "id": "158",
+                  "name": "Thomas Farthing London | Fine Suiting & Headwear",
+                  "type": "url",
+                  "url": "https://thomasfarthing.co.uk/"
+               }, {
+                  "date_added": "13292099578000000",
+                  "date_last_used": "0",
+                  "guid": "1a08d9d6-a212-4768-b88c-a3713f6b65d8",
+                  "id": "159",
+                  "name": "Quality Vintage 1920s/30s/40s Clothing - Goodwood Revival Style – Oldfield Outfitters",
+                  "type": "url",
+                  "url": "https://www.oldfieldclothing.com/"
+               }, {
+                  "date_added": "13293208669000000",
+                  "date_last_used": "0",
+                  "guid": "b86cad56-e9e7-4f28-88dc-60a214c527c2",
+                  "id": "160",
+                  "name": "Savile Row ready-to-wear | Mens clothing specialist | London based menswear brand | Anderson & Sheppard Shop",
+                  "type": "url",
+                  "url": "https://shop.anderson-sheppard.co.uk/"
+               }, {
+                  "date_added": "13295229599000000",
+                  "date_last_used": "0",
+                  "guid": "5f1c816a-18e7-4541-8a57-222cda9ca0d5",
+                  "id": "161",
+                  "name": "KNITWEAR | Stanley Biggs Clothiers | 1920s 1930s Vintage Clothing",
+                  "type": "url",
+                  "url": "https://www.stanleybiggs.co.uk/knitwear"
+               }, {
+                  "date_added": "13298482338000000",
+                  "date_last_used": "0",
+                  "guid": "fc4cde3d-f362-4985-9de4-643ef7758bb1",
+                  "id": "162",
+                  "name": "Olderbest",
+                  "type": "url",
+                  "url": "https://www.olderbest.com/"
+               }, {
+                  "date_added": "13316219554000000",
+                  "date_last_used": "0",
+                  "guid": "db414566-87fc-408c-af14-26895006c33c",
+                  "id": "163",
+                  "name": "Military Goods S.r.l",
+                  "type": "url",
+                  "url": "https://www.militarygoods.it/en/"
+               } ],
+               "date_added": "13327339906098461",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "d76863d0-ebb2-4d7c-b93c-902638900fb9",
+               "id": "155",
+               "name": "Vintage",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13291764397000000",
+                  "date_last_used": "13327713395166424",
+                  "guid": "1f06275f-7900-44dd-af75-5420aa751018",
+                  "id": "165",
+                  "name": "Personalised Menswear – YEOSSAL",
+                  "type": "url",
+                  "url": "https://www.yeossal.com/"
+               }, {
+                  "date_added": "13302203776000000",
+                  "date_last_used": "13327713397877102",
+                  "guid": "5e43996c-7804-4b92-857c-2e90bc3bc26b",
+                  "id": "166",
+                  "name": "Peter Fields Berlin - Store & Online Shop",
+                  "type": "url",
+                  "url": "https://peter-fields.com/"
+               } ],
+               "date_added": "13327339906098643",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "3e954621-46f5-42b8-a3fb-85cd8088b5ae",
+               "id": "164",
+               "name": "Classic",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13293547077000000",
+                  "date_last_used": "0",
+                  "guid": "7e8755f9-6522-4028-9c59-bc78a3be75ed",
+                  "id": "168",
+                  "name": "StudioSuits: Made To Measure Custom Suits, Customize Suits, Jackets and Trousers",
+                  "type": "url",
+                  "url": "https://www.studiosuits.com/"
+               }, {
+                  "date_added": "13293879143000000",
+                  "date_last_used": "0",
+                  "guid": "4a4794f0-08c0-40cf-9f90-d1c9b6db00a5",
+                  "id": "169",
+                  "name": "Divij - Custom Tailored Suits Online | Bespoke Tailor Shop",
+                  "type": "url",
+                  "url": "https://www.divij.com/"
+               }, {
+                  "date_added": "13293657874000000",
+                  "date_last_used": "0",
+                  "guid": "28c96bea-0aa0-4020-8402-e11ac5580933",
+                  "id": "170",
+                  "name": "Oliver Wicks - Login / Register",
+                  "type": "url",
+                  "url": "https://www.oliverwicks.com/auth/login"
+               }, {
+                  "date_added": "13297526481000000",
+                  "date_last_used": "0",
+                  "guid": "e69e1a88-52ba-49c5-8b35-5b02bb37c20f",
+                  "id": "171",
+                  "name": "Corrado Tailored Pants - Corrado Napoli",
+                  "type": "url",
+                  "url": "https://sartoriacorrado.com/"
+               } ],
+               "date_added": "13327339906098683",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "b466ed2e-979a-49d5-b52a-fe4bbbf0a4e7",
+               "id": "167",
+               "name": "MTM",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13294312878000000",
+                  "date_last_used": "0",
+                  "guid": "a7755a7b-826d-488c-90f5-8746e7c4c8c0",
+                  "id": "173",
+                  "name": "SHOP - AU DRÔLE DE ZÈBRE",
+                  "type": "url",
+                  "url": "https://audroledezebre.fr/shop/"
+               }, {
+                  "date_added": "13293333524000000",
+                  "date_last_used": "0",
+                  "guid": "df184978-883c-4e95-adc9-c507f40908f6",
+                  "id": "174",
+                  "name": "Vintage Second Hand Designer Clothes | Messina Hembry",
+                  "type": "url",
+                  "url": "https://messinahembry.com/"
+               }, {
+                  "date_added": "13298484025000000",
+                  "date_last_used": "13327713389944649",
+                  "guid": "824239ac-b6ad-44cc-8885-2b7069d28c2e",
+                  "id": "175",
+                  "name": "newfanglednatty",
+                  "type": "url",
+                  "url": "https://www.newfanglednatty.com/"
+               }, {
+                  "date_added": "13299675358000000",
+                  "date_last_used": "13327713392666275",
+                  "guid": "4a5e8aa4-f78b-4830-bfdc-4580bc209dfa",
+                  "id": "176",
+                  "name": "Vintage / Streetwear – Deadstock",
+                  "type": "url",
+                  "url": "https://www.deadstockofficial.com/"
+               } ],
+               "date_added": "13327339906098768",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "0fda1391-cd51-4507-bf3b-9669d918326f",
+               "id": "172",
+               "name": "Notað",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13294830495000000",
+                  "date_last_used": "0",
+                  "guid": "ea18c982-ee27-4f7a-8c43-1248470226ea",
+                  "id": "178",
+                  "name": "Home Men – Runggaldier1896",
+                  "type": "url",
+                  "url": "https://shop.runggaldier1896.com/home-gentlemen/?lang=en"
+               }, {
+                  "date_added": "13294145854000000",
+                  "date_last_used": "0",
+                  "guid": "f353b9cf-c1bc-40b6-9a65-c973317124ff",
+                  "id": "179",
+                  "name": "Steiner",
+                  "type": "url",
+                  "url": "https://steiner1888.com/en/herren.html"
+               }, {
+                  "date_added": "13294145828000000",
+                  "date_last_used": "0",
+                  "guid": "8f429088-38bd-4cb3-adb0-97a775e98976",
+                  "id": "180",
+                  "name": "Shop Traditional Austrian Wool Clothing | Buy Wool Coats - RW Stolz",
+                  "type": "url",
+                  "url": "https://www.robertwstolz.com/"
+               }, {
+                  "date_added": "13294831008000000",
+                  "date_last_used": "0",
+                  "guid": "ca7445d7-04de-4eee-ac00-58f058089fb7",
+                  "id": "181",
+                  "name": "Männer Gössl",
+                  "type": "url",
+                  "url": "https://www.goessl.com/manner.html"
+               }, {
+                  "date_added": "13294831418000000",
+                  "date_last_used": "0",
+                  "guid": "3e725220-0b5d-43d1-aa9c-0e093cb27bec",
+                  "id": "182",
+                  "name": "Men | LODENFREY",
+                  "type": "url",
+                  "url": "https://www.lodenfrey.com/en/Men/"
+               }, {
+                  "date_added": "13294834512000000",
+                  "date_last_used": "0",
+                  "guid": "71098572-c7cd-4c1f-a36b-3f1f741f8986",
+                  "id": "183",
+                  "name": "MEN | traditional Bavarian fashion",
+                  "type": "url",
+                  "url": "https://trachten.de/en/men?p=1"
+               }, {
+                  "date_added": "13296820469000000",
+                  "date_last_used": "0",
+                  "guid": "7a4fc53c-2b2a-4bb8-9b1f-57257e0022f6",
+                  "id": "184",
+                  "name": "Oktoberfest & Bavarian Costumes Shop | Alpenclassics.co.uk",
+                  "type": "url",
+                  "url": "https://www.alpenclassics.co.uk/"
+               }, {
+                  "date_added": "13296820976000000",
+                  "date_last_used": "0",
+                  "guid": "2fa0549d-1758-407b-a672-2b07d5670617",
+                  "id": "185",
+                  "name": "Dirndl 2022 from the top current collection from L&T",
+                  "type": "url",
+                  "url": "https://www.ludwig-therese.de/bavarian-attire"
+               } ],
+               "date_added": "13327339906098841",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "b736d67f-bb42-4fc5-9c69-53f483372bb9",
+               "id": "177",
+               "name": "Austurrískt",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13290283307000000",
+                  "date_last_used": "0",
+                  "guid": "eb4c6916-368d-4918-a9fc-a6ea8e657a29",
+                  "id": "187",
+                  "name": "Custom tailored men's shirts online, made to measure for you – Apposta",
+                  "type": "url",
+                  "url": "https://www.apposta.com/sp/en/home.3sp"
+               }, {
+                  "date_added": "13291937797000000",
+                  "date_last_used": "0",
+                  "guid": "411242f5-6fdc-45cb-a685-41911f2191a2",
+                  "id": "188",
+                  "name": "Charles Tyrwhitt for Men's Dress Shirts, Suits, Ties, Shoes & Accessories",
+                  "type": "url",
+                  "url": "https://www.charlestyrwhitt.com/us/home"
+               }, {
+                  "date_added": "13291937673000000",
+                  "date_last_used": "0",
+                  "guid": "ae2241b9-ad02-4875-ac89-c43670c8da98",
+                  "id": "189",
+                  "name": "Luxury handmade Shirts from 100Hands Amsterdam – 100HANDS",
+                  "type": "url",
+                  "url": "https://www.100hands.nl/"
+               }, {
+                  "date_added": "13291937915000000",
+                  "date_last_used": "0",
+                  "guid": "57f0234e-852e-4b0a-8620-ffc413a270cd",
+                  "id": "190",
+                  "name": "Buy Men's Clothing Online | British Style Fashion For Men - Hawes & Curtis",
+                  "type": "url",
+                  "url": "https://www.hawesandcurtis.co.uk/menswear"
+               }, {
+                  "date_added": "13291937788000000",
+                  "date_last_used": "0",
+                  "guid": "a281f3d6-63d1-4c52-b774-d45d9bb2c134",
+                  "id": "191",
+                  "name": "Custom Dress Shirts & Clothing - Proper Cloth",
+                  "type": "url",
+                  "url": "https://propercloth.com/"
+               }, {
+                  "date_added": "13295374035000000",
+                  "date_last_used": "0",
+                  "guid": "d920a6ff-0b91-4342-bb8a-0726f4eb3a42",
+                  "id": "192",
+                  "name": "Luxury British Men's & Women's Clothing | Sunspel",
+                  "type": "url",
+                  "url": "https://www.sunspel.com/row/"
+               }, {
+                  "date_added": "13303409250000000",
+                  "date_last_used": "0",
+                  "guid": "d32e45cc-7601-4cec-8c93-b89179314d89",
+                  "id": "193",
+                  "name": "John Clothier - Penny Collar Shirts | High Collar Shirts | Tab Collar Shirts | Spear Collar Shirts | Vintage Shirts | Peaky Bliners Shirts | Men High Collar Shirts | Bankers Shirts | Prited shirts",
+                  "type": "url",
+                  "url": "https://www.johnclothier.com/"
+               }, {
+                  "date_added": "13310037258000000",
+                  "date_last_used": "0",
+                  "guid": "069c11c0-43de-4679-aa94-4cc210808f7a",
+                  "id": "194",
+                  "name": "Natty Shirts - Fabrics⁤",
+                  "type": "url",
+                  "url": "https://www.nattyshirts.com/design-your-shirt.php"
+               }, {
+                  "date_added": "13310040006000000",
+                  "date_last_used": "0",
+                  "guid": "f7f880e5-4b0c-44ee-a314-578c164e3795",
+                  "id": "195",
+                  "name": "Custom made Shirts, Trousers, Jackets, Coats, Suits – Luxire Custom Clothing⁤",
+                  "type": "url",
+                  "url": "https://luxire.com/"
+               }, {
+                  "date_added": "13319576188000000",
+                  "date_last_used": "0",
+                  "guid": "f3d193c8-663b-4bdc-a3a6-3b880c966306",
+                  "id": "196",
+                  "name": "Kamakura Shirts Global – Kamakura Shirts Global Online Store",
+                  "type": "url",
+                  "url": "https://kamakurashirts.com/"
+               } ],
+               "date_added": "13327339906099012",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "ec4ce010-f262-4bd8-a9dc-b8abacd4feaa",
+               "id": "186",
+               "name": "Skyrtur",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13292679389000000",
+                     "date_last_used": "0",
+                     "guid": "898bfb29-2e1b-411b-b027-8d31ecd19fe5",
+                     "id": "199",
+                     "name": "Spacca Neapolis – HandMade",
+                     "type": "url",
+                     "url": "https://www.spacca-neapolis.com/"
+                  }, {
+                     "date_added": "13292679397000000",
+                     "date_last_used": "0",
+                     "guid": "af059682-b59c-4e71-a25a-16d93b01db3a",
+                     "id": "200",
+                     "name": "Outlet",
+                     "type": "url",
+                     "url": "https://www.theurbanties.com/outlet/"
+                  }, {
+                     "date_added": "13292679408000000",
+                     "date_last_used": "0",
+                     "guid": "6624afa1-802e-4cdf-a0d1-a8781dee8192",
+                     "id": "201",
+                     "name": "Tie – Shirts – Pochette – Bow-Tie - define your style with us.",
+                     "type": "url",
+                     "url": "https://www.tieyourtieflorence.com/"
+                  }, {
+                     "date_added": "13292679436000000",
+                     "date_last_used": "0",
+                     "guid": "677e1863-b9c6-461c-85a6-b3ad22625ddd",
+                     "id": "202",
+                     "name": "Ties - Howard’s Paris",
+                     "type": "url",
+                     "url": "https://www.howards.fr/en/46-ties"
+                  }, {
+                     "date_added": "13292679450000000",
+                     "date_last_used": "0",
+                     "guid": "87914a21-5c1f-49ab-8750-291530b697fd",
+                     "id": "203",
+                     "name": "Prodotti – Cravatte Sartoriali Napoli | Calabrese Cravatte dal 1924 a Napoli",
+                     "type": "url",
+                     "url": "https://www.calabrese1924.com/shop/"
+                  }, {
+                     "date_added": "13292679468000000",
+                     "date_last_used": "0",
+                     "guid": "8d338144-f6c3-4ea1-a554-b9e1b979462f",
+                     "id": "204",
+                     "name": "Petronius 1926",
+                     "type": "url",
+                     "url": "https://petronius1926.com/en/"
+                  }, {
+                     "date_added": "13293555756000000",
+                     "date_last_used": "0",
+                     "guid": "b57587f8-7449-4a75-af78-8cfaf74fb17d",
+                     "id": "205",
+                     "name": "Silk Ties Archives - Passaggio Cravatte",
+                     "type": "url",
+                     "url": "https://passaggiocravatte.com/categoria-prodotto/ties/silk-ties/"
+                  }, {
+                     "date_added": "13299352800000000",
+                     "date_last_used": "0",
+                     "guid": "17ed6229-a781-43cc-94b2-2d370db39287",
+                     "id": "206",
+                     "name": "Ties – Cravatte Sartoriali Napoli | Calabrese Cravatte dal 1924 a Napoli",
+                     "type": "url",
+                     "url": "https://www.calabrese1924.com/product-category/ties/"
+                  }, {
+                     "date_added": "13312468995000000",
+                     "date_last_used": "0",
+                     "guid": "8b088cf3-7513-40db-9f35-8cf925f2ee1b",
+                     "id": "207",
+                     "name": "Home - Passaggio Cravatte⁤",
+                     "type": "url",
+                     "url": "https://passaggiocravatte.com/"
+                  } ],
+                  "date_added": "13327339906099256",
+                  "date_last_used": "0",
+                  "date_modified": "0",
+                  "guid": "ea061c3d-f0b1-4b5c-a7e1-c05ef49825bc",
+                  "id": "198",
+                  "name": "Bindi",
+                  "type": "folder"
+               }, {
+                  "date_added": "13291317733000000",
+                  "date_last_used": "0",
+                  "guid": "6c1fe618-5cfb-4c05-8e6b-ec8d0660b1a6",
+                  "id": "208",
+                  "name": "Luxury Hangers, Shoe Polish, Accessories - Kirby Allison",
+                  "type": "url",
+                  "url": "https://www.kirbyallison.com/"
+               }, {
+                  "date_added": "13291849092000000",
+                  "date_last_used": "0",
+                  "guid": "f506470a-eedc-4558-830f-c2b8bb9711f8",
+                  "id": "209",
+                  "name": "Mes chaussettes rouges : luxury men's socks – Mes Chaussettes Rouges",
+                  "type": "url",
+                  "url": "https://meschaussettesrouges.com/en"
+               }, {
+                  "date_added": "13291854083000000",
+                  "date_last_used": "0",
+                  "guid": "f48ca558-f919-496b-bf83-423ecafec35d",
+                  "id": "210",
+                  "name": "Luxury Socks for Men | WILLIAM ABRAHAM",
+                  "type": "url",
+                  "url": "https://williamabraham.com/"
+               }, {
+                  "date_added": "13292932672000000",
+                  "date_last_used": "0",
+                  "guid": "85beb1e8-69a2-4207-9375-a6478cac8afa",
+                  "id": "211",
+                  "name": "Premium accessories for the modern gentleman – Amidé Hadelin",
+                  "type": "url",
+                  "url": "https://www.amidehadelin.com/"
+               }, {
+                  "date_added": "13294799179000000",
+                  "date_last_used": "0",
+                  "guid": "9b8472f2-1e67-4433-9193-5028d76dfc76",
+                  "id": "212",
+                  "name": "Butler Luxury | Luxury Hangers for Today's Professional",
+                  "type": "url",
+                  "url": "https://www.butlerluxury.com/"
+               }, {
+                  "date_added": "13292929600000000",
+                  "date_last_used": "0",
+                  "guid": "da09138f-fc9e-462c-abc2-8d3f08ad91a3",
+                  "id": "213",
+                  "name": "Mens Suspenders & Braces - Formalwear, Tuxedo & button-on, UK",
+                  "type": "url",
+                  "url": "https://www.albertthurston.com/"
+               }, {
+                  "date_added": "13288395193000000",
+                  "date_last_used": "0",
+                  "guid": "39fb1307-c17c-4487-8b44-760794553449",
+                  "id": "214",
+                  "name": "And More – Beau Ties of Vermont",
+                  "type": "url",
+                  "url": "https://www.beautiesltd.com/collections/accessories?page=2&_=pf&pf_pt_product_type=Boutonniere"
+               }, {
+                  "date_added": "13295229640000000",
+                  "date_last_used": "0",
+                  "guid": "fd321481-eb55-456a-ba83-93cb4420bdd9",
+                  "id": "215",
+                  "name": "Soho Scarves - Mens Silk Scarves & Pocket Squares",
+                  "type": "url",
+                  "url": "https://soho-scarves.com/"
+               }, {
+                  "date_added": "13295020385000000",
+                  "date_last_used": "0",
+                  "guid": "b35ecc77-fff4-4fff-be1d-31acb5b3cd61",
+                  "id": "216",
+                  "name": "Paul Costelloe Bags | Designer Leather Bags, Purses, Wallets & More",
+                  "type": "url",
+                  "url": "https://www.paulcostelloebags.com/"
+               }, {
+                  "date_added": "13290217398000000",
+                  "date_last_used": "0",
+                  "guid": "12f91a95-6594-4025-9251-fad3d35d912d",
+                  "id": "217",
+                  "name": "Leather Satchels & Briefcases | Men’s & Women’s | British Vintage Style",
+                  "type": "url",
+                  "url": "https://bearabeara.co.uk/category/satchels"
+               }, {
+                  "date_added": "13294144762000000",
+                  "date_last_used": "0",
+                  "guid": "6894878a-3673-4498-ad93-3b545a1cae80",
+                  "id": "218",
+                  "name": "Marron – The 5TH",
+                  "type": "url",
+                  "url": "https://www.the5th.co/collections/paris/products/marron"
+               }, {
+                  "date_added": "13295962323000000",
+                  "date_last_used": "0",
+                  "guid": "108916e4-383a-44f0-904e-bf32109d436f",
+                  "id": "219",
+                  "name": "Handmade Leather Goods | Frank Clegg Leatherworks",
+                  "type": "url",
+                  "url": "https://www.frankcleggleatherworks.com/"
+               }, {
+                  "date_added": "13296731023000000",
+                  "date_last_used": "0",
+                  "guid": "90e525d7-01c6-4b82-9821-ee50a0040d16",
+                  "id": "220",
+                  "name": "Knee-high socks for men | FALKE",
+                  "type": "url",
+                  "url": "https://www.falke.com/fi_en/men/socks-hosiery/knee-high-socks/"
+               }, {
+                  "date_added": "13296731233000000",
+                  "date_last_used": "0",
+                  "guid": "46e81f93-6bde-478f-adbf-851846482569",
+                  "id": "221",
+                  "name": "Shibumi Firenze - Handmade Ties + Accessories - Made In Italy",
+                  "type": "url",
+                  "url": "https://shibumi-firenze.com/"
+               }, {
+                  "date_added": "13297736349000000",
+                  "date_last_used": "0",
+                  "guid": "4749865a-319c-4db8-a113-0be23284790c",
+                  "id": "222",
+                  "name": "Dents: Leather Gloves and Small Leather Goods",
+                  "type": "url",
+                  "url": "https://row.dentsgloves.com/"
+               }, {
+                  "date_added": "13299671722000000",
+                  "date_last_used": "0",
+                  "guid": "42ec15c9-af75-44ca-93c1-dc61ba261261",
+                  "id": "223",
+                  "name": "Handelsgillet - Home - Handelsgillet",
+                  "type": "url",
+                  "url": "https://www.handelsgillet.com/"
+               }, {
+                  "date_added": "13300928372000000",
+                  "date_last_used": "0",
+                  "guid": "ac56615e-17ed-4f93-beb9-a6e6fb3d58e7",
+                  "id": "224",
+                  "name": "Merino Wool garments. Consciously made in Europe. High quality fabrics – LOOW",
+                  "type": "url",
+                  "url": "https://www.loow.com/"
+               }, {
+                  "date_added": "13313066960000000",
+                  "date_last_used": "0",
+                  "guid": "3890cf22-da2c-4fbe-8552-9fd6c436e555",
+                  "id": "225",
+                  "name": "Big Decisions Leather Briefcase Bag - Pampora Leather",
+                  "type": "url",
+                  "url": "https://www.pamporaleather.com/collections/leather-messenger-bags/products/big-decisions-leather-briefcase?variant=39851521671250"
+               }, {
+                  "date_added": "13323881156000000",
+                  "date_last_used": "0",
+                  "guid": "e6dfaef9-aec7-4120-9770-6acc55a8a624",
+                  "id": "226",
+                  "name": "Japan Made Luxury Suit, Trousers, Shirt Hangers | Arterton London",
+                  "type": "url",
+                  "url": "https://arterton.co.uk/collections/all-luxury-garment-hangers"
+               } ],
+               "date_added": "13327339906099249",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "8971c053-0660-4cf7-806c-cdb85d647d84",
+               "id": "197",
+               "name": "Aukahlutir",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13295435232000000",
+                  "date_last_used": "13331083038406290",
+                  "guid": "69bfd3fb-b4aa-40f5-ae86-d9f91dc7b1e8",
+                  "id": "228",
+                  "name": "Luxuriously Comfortable Pure Natural Fibre Clothing – Paul James Knitwear",
+                  "type": "url",
+                  "url": "https://www.pauljamesknitwear.com/"
+               }, {
+                  "date_added": "13295087336000000",
+                  "date_last_used": "13331083033392770",
+                  "guid": "5e4b2427-439d-4a21-980b-a9b0cf3b5976",
+                  "id": "229",
+                  "name": "North Sea Clothing - Whatever Weather",
+                  "type": "url",
+                  "url": "https://northseaclothing.com/"
+               }, {
+                  "date_added": "13292415062000000",
+                  "date_last_used": "13331083033622899",
+                  "guid": "6697844d-1c73-4ef1-b589-49ac1f077b07",
+                  "id": "230",
+                  "name": "Inis Meáin Knitting Co. | Cashmere, Merino Wool & Cotton Knitwear",
+                  "type": "url",
+                  "url": "https://inismeain.ie/"
+               }, {
+                  "date_added": "13291317729000000",
+                  "date_last_used": "13331083034966527",
+                  "guid": "e9563fa3-51c6-4490-a2f2-9fff53842ff9",
+                  "id": "231",
+                  "name": "Colhay's | Luxury knitwear made in Scotland",
+                  "type": "url",
+                  "url": "https://colhays.com/"
+               }, {
+                  "date_added": "13295525919000000",
+                  "date_last_used": "13331083041287254",
+                  "guid": "3b971b19-6fe1-423f-aaaa-04105a5648db",
+                  "id": "232",
+                  "name": "Son of a Tailor - Custom Fitted T-Shirts",
+                  "type": "url",
+                  "url": "https://www.sonofatailor.com/"
+               } ],
+               "date_added": "13327339906099786",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "4fc9b533-a553-4f28-bb1b-79fbee1289d8",
+               "id": "227",
+               "name": "Prjónað",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13290909212000000",
+                  "date_last_used": "0",
+                  "guid": "d225e4db-92b8-467f-984d-f1ce4e967f19",
+                  "id": "234",
+                  "name": "Shearling trousers - merino leather",
+                  "type": "url",
+                  "url": "https://shop.trachtenmode-versand.com/en/leatherwear/shearling-trousers-merino-leather"
+               }, {
+                  "date_added": "13286737625000000",
+                  "date_last_used": "0",
+                  "guid": "e852cac9-4a1a-40d1-b2da-cdcd73d5fcb0",
+                  "id": "235",
+                  "name": "Hutstuebele | Shop hats and caps and accessories",
+                  "type": "url",
+                  "url": "https://www.hutstuebele.com/Home-English.html"
+               }, {
+                  "date_added": "13292694483000000",
+                  "date_last_used": "0",
+                  "guid": "ffe26ef4-fddb-4ad1-ae01-5464859069ea",
+                  "id": "236",
+                  "name": "Värmland Wool Trousers M",
+                  "type": "url",
+                  "url": "https://www.fjallraven.com/eu/en-gb/men/trousers/insulated-trousers/varmland-wool-trousers-m?_t_q=&_t_hit.id=Luminos_Storefront_Web_Features_Catalog_Product_Domain_CommonProduct/CatalogContent_bb72c0fe-f487-42ca-a983-800414a5eba0_en-GB&_t_hit.pos=1&_t_tags=andquerymatch%2clanguage%3aen%2csiteid%3a162d49d9-f0ac-4d2d-a110-e8143f6ca828&v=F86904%3a%3a7323450639204"
+               }, {
+                  "date_added": "13293107184000000",
+                  "date_last_used": "0",
+                  "guid": "e56b39a9-9f66-409c-a92e-53061c402a5d",
+                  "id": "237",
+                  "name": "Varusteleka.com - Military and outdoors specialists",
+                  "type": "url",
+                  "url": "https://www.varusteleka.com/en"
+               }, {
+                  "date_added": "13293107561000000",
+                  "date_last_used": "0",
+                  "guid": "c0ba81c5-3d92-4727-859e-5fe7685131e0",
+                  "id": "238",
+                  "name": "Hlað ehf :: Heim í Hlað",
+                  "type": "url",
+                  "url": "http://hlad.is/"
+               }, {
+                  "date_added": "13293107940000000",
+                  "date_last_used": "0",
+                  "guid": "3274e4f2-c031-4fa7-94ae-f0798d6bc2e6",
+                  "id": "239",
+                  "name": "Outdoor Clothing, Technical Outerwear, & Accessories | Arc'teryx",
+                  "type": "url",
+                  "url": "https://arcteryx.com/ca/en/"
+               }, {
+                  "date_added": "13293107945000000",
+                  "date_last_used": "0",
+                  "guid": "65c6eabf-29f1-4938-bb65-14d4c995b6e7",
+                  "id": "240",
+                  "name": "Patagonia Outdoor Clothing & Gear",
+                  "type": "url",
+                  "url": "https://eu.patagonia.com/is/en/home/"
+               }, {
+                  "date_added": "13293107947000000",
+                  "date_last_used": "0",
+                  "guid": "4738c5a7-1d54-4239-b28a-40fb04c9f522",
+                  "id": "241",
+                  "name": "JanSport International | Find a Store Near You",
+                  "type": "url",
+                  "url": "https://www.jansport.com/international.html"
+               }, {
+                  "date_added": "13291804171000000",
+                  "date_last_used": "0",
+                  "guid": "1befa70e-647b-4eee-8933-874e0b1931c6",
+                  "id": "242",
+                  "name": "L.L.Bean International - The Outside Is Inside Everything We Make",
+                  "type": "url",
+                  "url": "https://global.llbean.com/"
+               }, {
+                  "date_added": "13294228524000000",
+                  "date_last_used": "0",
+                  "guid": "173de40b-0a62-418e-ba15-ab1c0f0996c8",
+                  "id": "243",
+                  "name": "W Slack & Sons | Quality Outdoor Clothing & Footwear",
+                  "type": "url",
+                  "url": "https://wslackandsons.co.uk/"
+               }, {
+                  "date_added": "13294228766000000",
+                  "date_last_used": "0",
+                  "guid": "de4b61f0-60b9-4bf7-81e6-1d573caf835a",
+                  "id": "244",
+                  "name": "Recon Company",
+                  "type": "url",
+                  "url": "https://www.recon-company.com/en/"
+               }, {
+                  "date_added": "13294229371000000",
+                  "date_last_used": "13331083054421101",
+                  "guid": "61f7aa06-7cad-4bef-b2b7-795fa8b75973",
+                  "id": "245",
+                  "name": "Hunting clothing loden jackets and hunting jackets | ICEFOX",
+                  "type": "url",
+                  "url": "https://icefox.biz/?lang=en"
+               }, {
+                  "date_added": "13294229986000000",
+                  "date_last_used": "0",
+                  "guid": "5f3e471c-a65f-4f19-8f63-1b689eaa1a07",
+                  "id": "246",
+                  "name": "JAGDHUND hunting clothes | JAGDHUND",
+                  "type": "url",
+                  "url": "https://www.jagdhund.store/en/"
+               }, {
+                  "date_added": "13294235503000000",
+                  "date_last_used": "0",
+                  "guid": "e7a50e86-5da8-4813-8036-6fcc83ea25ca",
+                  "id": "247",
+                  "name": "Hunting Shop Askari: Hunting Tackle & Outdoor Clothing",
+                  "type": "url",
+                  "url": "https://www.askari-hunting-shop.com/"
+               } ],
+               "date_added": "13327339906099891",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "857c6224-205a-4df2-921b-52a8ec2f52be",
+               "id": "233",
+               "name": "Útivist",
+               "type": "folder"
+            }, {
+               "date_added": "13290213300000000",
+               "date_last_used": "0",
+               "guid": "91382558-61bb-41aa-a847-2e1fc66cb8f3",
+               "id": "248",
+               "name": "Pini Parma Pure Italian Style",
+               "type": "url",
+               "url": "https://www.piniparma.com/"
+            }, {
+               "date_added": "13291854341000000",
+               "date_last_used": "0",
+               "guid": "7a27ab56-b5d3-49b2-80a7-0728b4a2e8ea",
+               "id": "249",
+               "name": "Todd Snyder | The Ultimate Menswear Destination",
+               "type": "url",
+               "url": "https://www.toddsnyder.com/"
+            }, {
+               "date_added": "13292105499000000",
+               "date_last_used": "0",
+               "guid": "6224b4a7-33ad-4946-9f5e-74aa416eca55",
+               "id": "250",
+               "name": "Alan Flusser",
+               "type": "url",
+               "url": "https://alanflusser.com/"
+            }, {
+               "date_added": "13292370120000000",
+               "date_last_used": "13327617908404691",
+               "guid": "9f29b878-0fa3-462c-8e85-8ae2fbbe8443",
+               "id": "251",
+               "name": "Marc Guyot ",
+               "type": "url",
+               "url": "https://www.marcguyot.org/en-gb/galerie-de-demi-mesure"
+            }, {
+               "date_added": "13292371294000000",
+               "date_last_used": "0",
+               "guid": "7253e7a3-577c-43fc-9d4b-9e2ad5fe4cf1",
+               "id": "252",
+               "name": "Les Pantalons Scavini",
+               "type": "url",
+               "url": "https://pantalons-scavini.fr/en/"
+            }, {
+               "date_added": "13292550560000000",
+               "date_last_used": "0",
+               "guid": "625d1c1d-6401-478a-ab72-addc98a0dabc",
+               "id": "253",
+               "name": "The Armoury",
+               "type": "url",
+               "url": "https://www.thearmoury.com/"
+            }, {
+               "date_added": "13292707756000000",
+               "date_last_used": "0",
+               "guid": "dfc42275-41dd-4113-9fd9-7f6db9e524fa",
+               "id": "254",
+               "name": "The Finest Men's Clothing and Accessories | Drake's",
+               "type": "url",
+               "url": "https://www.drakes.com/"
+            }, {
+               "date_added": "13293459525000000",
+               "date_last_used": "13328314241591339",
+               "guid": "745c4b4e-8875-4f92-8932-f065ce230838",
+               "id": "255",
+               "name": "Informale | Casual Tailoring Made in Melbourne",
+               "type": "url",
+               "url": "https://informale.com.au/"
+            }, {
+               "date_added": "13293622935000000",
+               "date_last_used": "0",
+               "guid": "6ebf4a74-3fa7-4a4b-98d0-66a52ce10975",
+               "id": "256",
+               "name": "Luca Faloni | Timeless Designs Crafted in Italy",
+               "type": "url",
+               "url": "https://lucafaloni.com/"
+            }, {
+               "date_added": "13295440366000000",
+               "date_last_used": "0",
+               "guid": "d5de926c-6272-4d89-b752-57670d9fa1b4",
+               "id": "257",
+               "name": "Men's Corduroy Pants | Nordstrom",
+               "type": "url",
+               "url": "https://www.nordstrom.com/browse/men/clothing/pants?filterByMaterial=corduroy"
+            }, {
+               "date_added": "13295440563000000",
+               "date_last_used": "0",
+               "guid": "e546c7e8-6165-4166-b776-e0ff96d20b99",
+               "id": "258",
+               "name": "Peter Christian - Gentleman's Outfitters",
+               "type": "url",
+               "url": "https://www.peterchristian.co.uk/"
+            }, {
+               "date_added": "13295523184000000",
+               "date_last_used": "0",
+               "guid": "19f7fa46-4c63-457d-b0f7-aa6000437dfb",
+               "id": "259",
+               "name": "Anglo-Italian",
+               "type": "url",
+               "url": "https://angloitalian.com/"
+            }, {
+               "date_added": "13296731425000000",
+               "date_last_used": "0",
+               "guid": "6db346a0-7b0a-4ab0-a0c7-6a96ee9179a5",
+               "id": "260",
+               "name": "Stenströms Men's Garments | Men's | Stenströms.com",
+               "type": "url",
+               "url": "https://stenstroms.com/en/men"
+            }, {
+               "date_added": "13296821131000000",
+               "date_last_used": "13327536083518319",
+               "guid": "2333bb63-900b-4626-84f2-55f3596ade85",
+               "id": "261",
+               "name": "Bookster Online Made to Measure Tailoring",
+               "type": "url",
+               "url": "https://www.bookster.co.uk/"
+            }, {
+               "date_added": "13296821144000000",
+               "date_last_used": "0",
+               "guid": "a9e87c66-b9aa-4c0c-8ef9-cf793477dae4",
+               "id": "262",
+               "name": "Home - Campbell's of Beauly",
+               "type": "url",
+               "url": "https://www.campbellsofbeauly.com/"
+            }, {
+               "date_added": "13296821164000000",
+               "date_last_used": "13327695915822503",
+               "guid": "e5882bbd-9634-47b4-a63e-8795a1fa74ab",
+               "id": "263",
+               "name": "Walker Slater: Scottish Tweed Jacket, Suit & Tailoring Specialists",
+               "type": "url",
+               "url": "https://www.walkerslater.com/"
+            }, {
+               "date_added": "13296821366000000",
+               "date_last_used": "0",
+               "guid": "88423890-fac7-4961-b073-67e52d4d6051",
+               "id": "264",
+               "name": "Schott NYC Men's Jackets",
+               "type": "url",
+               "url": "https://www.schottnyc.com/store/men/jackets"
+            }, {
+               "date_added": "13296822986000000",
+               "date_last_used": "13327945138928548",
+               "guid": "2aaaaf1a-055f-4cfd-b265-8d28ef9d3196",
+               "id": "265",
+               "name": "Men | Superfine Shirting",
+               "type": "url",
+               "url": "https://emanuelberg.com/en/men.html"
+            }, {
+               "date_added": "13298929049000000",
+               "date_last_used": "13331083007457287",
+               "guid": "9ab0ad0f-0e94-443d-b37d-7726b6965932",
+               "id": "267",
+               "name": "Cathcart London - Quality Made Style",
+               "type": "url",
+               "url": "https://www.cathcartlondon.com/"
+            }, {
+               "date_added": "13299292239000000",
+               "date_last_used": "13328314237812400",
+               "guid": "a16822e9-fd03-449a-ad3f-41556875f3dd",
+               "id": "268",
+               "name": "Permanent Style",
+               "type": "url",
+               "url": "https://shop.permanentstyle.com/"
+            }, {
+               "date_added": "13299340369000000",
+               "date_last_used": "0",
+               "guid": "84670114-0f4a-48e7-b348-11f50363171d",
+               "id": "269",
+               "name": "British Country Clothing & Tweed | Cordings London US",
+               "type": "url",
+               "url": "https://www.cordings.co.uk/us/"
+            }, {
+               "date_added": "13300281355000000",
+               "date_last_used": "0",
+               "guid": "da9cfd2c-18f9-4ca1-9e0e-151895eac094",
+               "id": "270",
+               "name": "Men's Clothing | J.Crew",
+               "type": "url",
+               "url": "https://www.jcrew.com/is/mens"
+            }, {
+               "date_added": "13300281460000000",
+               "date_last_used": "0",
+               "guid": "6aa8fcf9-3410-48a3-ac96-411f58233f06",
+               "id": "271",
+               "name": "J. Press | Men's Dress Shirts & Tailored Suits - Men's Formal Wear",
+               "type": "url",
+               "url": "https://jpressonline.com/"
+            }, {
+               "date_added": "13311261724000000",
+               "date_last_used": "13328314238999259",
+               "guid": "5e7daf8a-3db0-423a-8004-bc4ef3392f73",
+               "id": "272",
+               "name": "The Ben Silver Collection",
+               "type": "url",
+               "url": "https://www.bensilver.com/"
+            }, {
+               "date_added": "13298487447000000",
+               "date_last_used": "0",
+               "guid": "b0bbbe92-562a-493c-afca-f91cbe9a20d9",
+               "id": "266",
+               "name": "Collars & Co. - The Original Dress Collar Polo",
+               "type": "url",
+               "url": "https://collarsandco.com/?utm_source=youtube&utm_medium=influencer&utm_campaign=rmrs"
+            }, {
+               "date_added": "13316796627000000",
+               "date_last_used": "13332158897888089",
+               "guid": "f56461ac-5ae0-427f-94e6-f6800b8fb25b",
+               "id": "273",
+               "name": "Labour Union Clothing-Since 1986 | Vintage Inspired Heritage Menswear",
+               "type": "url",
+               "url": "https://labourunion-1986.com/"
+            }, {
+               "date_added": "13321191530000000",
+               "date_last_used": "13332158896537523",
+               "guid": "a5928471-464e-42a3-806f-8d0f17f2c473",
+               "id": "274",
+               "name": "Cloth - Dashing Tweeds",
+               "type": "url",
+               "url": "https://www.dashingtweeds.co.uk/product-category/default-category/shop/cloth-2/"
+            }, {
+               "date_added": "13321732128000000",
+               "date_last_used": "0",
+               "guid": "e4841607-f448-45cf-94da-3133e644b254",
+               "id": "275",
+               "name": "Collaro Classic Menswear",
+               "type": "url",
+               "url": "https://collaro.co/"
+            }, {
+               "children": [ {
+                  "date_added": "13323864657000000",
+                  "date_last_used": "0",
+                  "guid": "6656449d-dc6e-4c67-903b-f2d51818e1d0",
+                  "id": "277",
+                  "name": "Thinking Through Trouser Details — Die, Workwear!",
+                  "type": "url",
+                  "url": "https://dieworkwear.com/2017/03/10/thinking-through-trouser-details/"
+               } ],
+               "date_added": "13327339906100649",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "4eb8b47a-fe32-4351-87ca-922ad367da1f",
+               "id": "276",
+               "name": "Greinar",
+               "type": "folder"
+            }, {
+               "date_added": "13333486946168320",
+               "date_last_used": "0",
+               "guid": "6e6fb7a0-c571-48a5-b729-72dc01846fbf",
+               "id": "358",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Overland Sheepskin Co. - Fine Sheepskin & Leather Since 1973 | Overland",
+               "type": "url",
+               "url": "https://www.overland.com/"
+            } ],
+            "date_added": "13327339906082623",
+            "date_last_used": "0",
+            "date_modified": "13333486951483271",
+            "guid": "d8f65d5f-2ff1-41cd-9d87-dfe8882d983e",
+            "id": "119",
+            "name": "Fatnaður",
+            "type": "folder"
+         }, {
+            "date_added": "13120599501000000",
+            "date_last_used": "13333829738356807",
+            "guid": "8012530c-295a-4b9c-9b5d-2a4f65138519",
+            "id": "278",
+            "name": "",
+            "type": "url",
+            "url": "https://mail.google.com/mail/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13212458533000000",
+                  "date_last_used": "0",
+                  "guid": "d5c4a152-9006-4b76-8a8f-3da5b09bbe96",
+                  "id": "281",
+                  "name": "Takeaways from the 2017 Integrative SIBO Conference | Natural Medicine Journal",
+                  "type": "url",
+                  "url": "https://www.naturalmedicinejournal.com/journal/2017-05/takeaways-2017-integrative-sibo-conference"
+               } ],
+               "date_added": "13327339906101028",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "4cd1dbe5-1bba-4074-aa6c-90e79520440b",
+               "id": "280",
+               "name": "Carni",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13226981080000000",
+                  "date_last_used": "0",
+                  "guid": "a0192f43-4f70-49c6-ac74-36f0b76204dd",
+                  "id": "283",
+                  "name": "Myopia: A Modern Yet Reversible Disease — Todd Becker, M.S. (AHS14) - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=x5Efg42-Qn0"
+               }, {
+                  "date_added": "13228310224000000",
+                  "date_last_used": "0",
+                  "guid": "c0ed6298-153a-4002-b30e-b679522468ff",
+                  "id": "284",
+                  "name": "Stopping or reducing dietary fiber intake reduces constipation and its associated symptoms",
+                  "type": "url",
+                  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435786/"
+               }, {
+                  "children": [ {
+                     "children": [ {
+                        "date_added": "13277953249000000",
+                        "date_last_used": "0",
+                        "guid": "d2ea2693-eadf-4e54-bdb0-bc365e85ab03",
+                        "id": "287",
+                        "name": "The Randle cycle revisited: a new head for an old hat",
+                        "type": "url",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2739696/"
+                     }, {
+                        "date_added": "13277953266000000",
+                        "date_last_used": "0",
+                        "guid": "d7dd364d-8b4c-4cb6-a881-c0279f8be747",
+                        "id": "288",
+                        "name": "Palmitate acutely raises glycogen synthesis in rat soleus muscle by a mechanism that requires its metabolization (Randle cycle) - ScienceDirect",
+                        "type": "url",
+                        "url": "https://www.sciencedirect.com/science/article/pii/S0014579303003168"
+                     } ],
+                     "date_added": "13327339906101161",
+                     "date_last_used": "0",
+                     "date_modified": "0",
+                     "guid": "542467b1-bab1-454e-8967-a299224ad711",
+                     "id": "286",
+                     "name": "Randle",
+                     "type": "folder"
+                  } ],
+                  "date_added": "13327339906101151",
+                  "date_last_used": "0",
+                  "date_modified": "13327420135146138",
+                  "guid": "2fea6ad9-fb36-42b0-a0b6-dfcd64230c46",
+                  "id": "285",
+                  "name": "Rannsóknir",
+                  "type": "folder"
+               } ],
+               "date_added": "13327339906101074",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "5d1ccbb2-3851-4b21-b3fc-5bc67de2f21d",
+               "id": "282",
+               "name": "Heilsa almennt",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13279772691000000",
+                  "date_last_used": "0",
+                  "guid": "25062967-7e2f-4619-80f0-d3d60de5a8d7",
+                  "id": "293",
+                  "name": "Keyboards - Keebfol.io",
+                  "type": "url",
+                  "url": "https://keebfolio.netlify.app/"
+               }, {
+                  "date_added": "13281059293000000",
+                  "date_last_used": "0",
+                  "guid": "b8c00513-a97f-47c1-9e38-5aabd2e01786",
+                  "id": "294",
+                  "name": "Kailh Low Profile Choc Switches – splitkb.com",
+                  "type": "url",
+                  "url": "https://splitkb.com/products/kailh-low-profile-choc-switches?variant=39459382394957"
+               }, {
+                  "date_added": "13281059322000000",
+                  "date_last_used": "0",
+                  "guid": "f4270e65-b950-46b3-930d-d15f803729e1",
+                  "id": "295",
+                  "name": "DIY Parts – Keebio",
+                  "type": "url",
+                  "url": "https://keeb.io/collections/diy-parts"
+               }, {
+                  "date_added": "13281501482000000",
+                  "date_last_used": "0",
+                  "guid": "2847af82-ce2b-4e45-9a2c-0a450994bd73",
+                  "id": "296",
+                  "name": "Keycapsss",
+                  "type": "url",
+                  "url": "https://keycapsss.com/"
+               }, {
+                  "date_added": "13281508839000000",
+                  "date_last_used": "0",
+                  "guid": "1d122184-b505-4b51-a273-39e4c118cd59",
+                  "id": "297",
+                  "name": "Kyria with pimoroni trackball and 3d printed tented case : ErgoMechKeyboards",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/ErgoMechKeyboards/comments/narcif/kyria_with_pimoroni_trackball_and_3d_printed/"
+               }, {
+                  "date_added": "13281539237000000",
+                  "date_last_used": "0",
+                  "guid": "827a2e2c-f142-4f5c-a93d-c7e75535d820",
+                  "id": "298",
+                  "name": "Online Laser and CNC cutting for metals and plastics - Instant Quotes",
+                  "type": "url",
+                  "url": "https://sendcutsend.com/"
+               }, {
+                  "date_added": "13281539319000000",
+                  "date_last_used": "0",
+                  "guid": "d3c4a06f-153c-49ea-9249-d7b866ba76d8",
+                  "id": "299",
+                  "name": "Pimoroni trackball for Kyria by pejer - Thingiverse",
+                  "type": "url",
+                  "url": "https://www.thingiverse.com/thing:4855005"
+               }, {
+                  "date_added": "13281539365000000",
+                  "date_last_used": "0",
+                  "guid": "bee273cd-adb0-4f75-8e67-39b478ebd7d1",
+                  "id": "300",
+                  "name": "Keyboards - Bastard Keyboards - Split ergonomic keyboards",
+                  "type": "url",
+                  "url": "https://bastardkb.com/"
+               }, {
+                  "date_added": "13281850750000000",
+                  "date_last_used": "0",
+                  "guid": "63ad0e1f-f3b2-4b7d-bb98-5772730a0092",
+                  "id": "301",
+                  "name": "Home | g Heavy Industries",
+                  "type": "url",
+                  "url": "https://www.gboards.ca/"
+               }, {
+                  "date_added": "13291001268000000",
+                  "date_last_used": "0",
+                  "guid": "f56580b3-ce3d-4c66-a633-5e546b4574bd",
+                  "id": "302",
+                  "name": "Boardsource - Store",
+                  "type": "url",
+                  "url": "https://boardsource.xyz/"
+               } ],
+               "date_added": "13327339906101266",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "36606709-b4fa-454c-91c7-937114cce822",
+               "id": "292",
+               "name": "keebs",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13294140370000000",
+                  "date_last_used": "0",
+                  "guid": "8c3938a8-9f50-492c-8b29-5cebe4f79e0a",
+                  "id": "304",
+                  "name": "GÜDE | Knives Solingen 🔪 Four generations of highest quality",
+                  "type": "url",
+                  "url": "https://www.guede-solingen.de/en/"
+               } ],
+               "date_added": "13327339906101463",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "2f08b6ce-b9f1-4062-ae09-c3d7d5d00939",
+               "id": "303",
+               "name": "Eldamennska",
+               "type": "folder"
+            }, {
+               "date_added": "13120599501000000",
+               "date_last_used": "0",
+               "guid": "ed1fa9dd-8acc-4833-a095-9b124b8f8d7e",
+               "id": "305",
+               "name": "The Best Science Fiction Books",
+               "type": "url",
+               "url": "http://blamcast.net/articles/best-science-fiction-books"
+            }, {
+               "date_added": "13120599501000000",
+               "date_last_used": "0",
+               "guid": "3fe87bf0-37e3-4aba-a6a4-98e20267080c",
+               "id": "306",
+               "name": "Fabrice Bellard's Home Page",
+               "type": "url",
+               "url": "http://bellard.org/"
+            }, {
+               "date_added": "13120599501000000",
+               "date_last_used": "0",
+               "guid": "1342c586-1f8e-47c4-8902-6eb599e11284",
+               "id": "307",
+               "name": "Best Science Fiction (1712 books)",
+               "type": "url",
+               "url": "https://www.goodreads.com/list/show/19341.Best_Science_Fiction%29"
+            }, {
+               "date_added": "13120599501000000",
+               "date_last_used": "0",
+               "guid": "247371c9-0a26-40ca-85ef-3153f789dad7",
+               "id": "308",
+               "name": "Science Fiction - A Nerd’s Guide to Reading",
+               "type": "url",
+               "url": "http://nerdsguidetoreading.com/Nerds_Guide_to_Reading/Science_Fiction.html"
+            }, {
+               "date_added": "13120599501000000",
+               "date_last_used": "0",
+               "guid": "f02e08aa-59dd-4c62-a50c-1f688cb1c4cc",
+               "id": "309",
+               "name": "https://people.xiph.org/~xiphmont/demo/neil-young.html",
+               "type": "url",
+               "url": "https://people.xiph.org/~xiphmont/demo/neil-young.html"
+            }, {
+               "date_added": "13120599501000000",
+               "date_last_used": "0",
+               "guid": "8b85b7ef-f5cc-4f96-a956-3caf05e50a30",
+               "id": "310",
+               "name": "Classic Jazz Giants",
+               "type": "url",
+               "url": "https://classicjazzgiants.wordpress.com/"
+            }, {
+               "date_added": "13120599501000000",
+               "date_last_used": "0",
+               "guid": "0dc8c166-d805-4374-8359-9f7a4f34c72e",
+               "id": "311",
+               "name": "Hacker News",
+               "type": "url",
+               "url": "https://news.ycombinator.com/"
+            }, {
+               "date_added": "13120599501000000",
+               "date_last_used": "0",
+               "guid": "c6385e02-e304-4738-8fdd-adee4a8ef327",
+               "id": "312",
+               "name": "List of over 300 free drum only backing tracks – sorted by genre and tempo | Smart Hobby Musician Blog",
+               "type": "url",
+               "url": "http://www.smarthobbymusician.com/over-300-drum-tracks/"
+            }, {
+               "date_added": "13125488618000000",
+               "date_last_used": "0",
+               "guid": "f00f022f-2636-4de0-86e3-9a2dceea0282",
+               "id": "313",
+               "name": "Compelling Science Fiction Home",
+               "type": "url",
+               "url": "http://compellingsciencefiction.com/issue4.html"
+            }, {
+               "date_added": "13126618732000000",
+               "date_last_used": "0",
+               "guid": "5efa1308-5daf-476c-bcdd-506910eb0d73",
+               "id": "314",
+               "name": "OneTab shared tabs",
+               "type": "url",
+               "url": "https://www.one-tab.com/page/4OdVXz6JT2e1z02uxZoepw"
+            }, {
+               "date_added": "13129315602000000",
+               "date_last_used": "0",
+               "guid": "5639ac93-455e-47bb-b966-81800b7649ce",
+               "id": "315",
+               "name": "You Are Your Own Gym; The Bible of Bodyweight Exercises | Fitness Books | Mark Lauren",
+               "type": "url",
+               "url": "https://www.marklauren.com/books.html"
+            }, {
+               "date_added": "13135956939000000",
+               "date_last_used": "0",
+               "guid": "5b558028-d009-4eb4-bdcd-8c22f33a2c59",
+               "id": "316",
+               "name": "Why Momentum Really Works",
+               "type": "url",
+               "url": "http://distill.pub/2017/momentum/"
+            }, {
+               "date_added": "13136055737000000",
+               "date_last_used": "0",
+               "guid": "b841bf33-8c03-4b72-88ee-0633138a588f",
+               "id": "317",
+               "name": "https://writecodeeveryday.github.io/projects/resumegen/",
+               "type": "url",
+               "url": "https://writecodeeveryday.github.io/projects/resumegen/"
+            }, {
+               "date_added": "13137263698000000",
+               "date_last_used": "0",
+               "guid": "cac1a50f-b414-4efe-9d43-df81ca918a72",
+               "id": "318",
+               "name": "36 Questions for Increasing Closeness | Practice | Greater Good in Action",
+               "type": "url",
+               "url": "http://ggia.berkeley.edu/practice/36_questions_for_increasing_closeness"
+            }, {
+               "date_added": "13137771937000000",
+               "date_last_used": "0",
+               "guid": "50b611a7-b076-420b-9091-6612cd1d189c",
+               "id": "319",
+               "name": "Evidence-based advice on how to be successful in any job - 80,000 Hours",
+               "type": "url",
+               "url": "https://80000hours.org/career-guide/how-to-be-successful/#how-to-be-successful-the-compounding-benefits-of-investing-in-yourself"
+            }, {
+               "date_added": "13138204422000000",
+               "date_last_used": "0",
+               "guid": "cc7a452f-b900-4e22-908a-1deef6b61f8e",
+               "id": "320",
+               "name": "Succeed Socially.com | Free Social Skills Guide For Adults",
+               "type": "url",
+               "url": "http://www.succeedsocially.com/"
+            }, {
+               "date_added": "13138282176000000",
+               "date_last_used": "0",
+               "guid": "2b51d931-d9f8-48c5-8aa0-c90346f9ed29",
+               "id": "321",
+               "name": "How to Talk About Yourself in an Interview - Stack Overflow Blog",
+               "type": "url",
+               "url": "https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/"
+            }, {
+               "date_added": "13140806808000000",
+               "date_last_used": "0",
+               "guid": "f68ec14b-9b57-4762-a87d-770866497f56",
+               "id": "322",
+               "name": "LaTeX Resume Generator",
+               "type": "url",
+               "url": "https://latexresu.me/generator/templates"
+            }, {
+               "date_added": "13164164194000000",
+               "date_last_used": "0",
+               "guid": "877304bd-2381-4807-b71e-ca70e91eee6f",
+               "id": "323",
+               "name": "fx​Solver - Equation Library.Graphing Calculator.Math Solver",
+               "type": "url",
+               "url": "https://www.fxsolver.com/"
+            }, {
+               "date_added": "13208466254000000",
+               "date_last_used": "0",
+               "guid": "ee53d010-daa6-4c73-a50b-4e3451b1534b",
+               "id": "324",
+               "name": "MEGA",
+               "type": "url",
+               "url": "https://mega.nz/#F!5Q5UFZIR!MvGFhWEPb03Qg3ZFOh5yKg"
+            }, {
+               "date_added": "13212453115000000",
+               "date_last_used": "0",
+               "guid": "c3ef0d64-bd3e-452e-b166-0bcf5767d7c5",
+               "id": "325",
+               "name": "Grassfed Life's Farm Business Essentials",
+               "type": "url",
+               "url": "https://farm-business-essentials.teachable.com/courses"
+            }, {
+               "date_added": "13236711239000000",
+               "date_last_used": "0",
+               "guid": "75f8cbf6-1f90-4117-b9da-afaf64fe6f8d",
+               "id": "326",
+               "name": "AudiobookReviews.com - Audiobook Reviews and Recommendations",
+               "type": "url",
+               "url": "https://audiobookreviews.com/"
+            }, {
+               "date_added": "13237467386000000",
+               "date_last_used": "0",
+               "guid": "403a8149-a225-48e5-b72a-04755b9afe6e",
+               "id": "327",
+               "name": "Dungeondraft",
+               "type": "url",
+               "url": "https://dungeondraft.net/"
+            }, {
+               "date_added": "13237467400000000",
+               "date_last_used": "0",
+               "guid": "d35b8060-87ec-45b6-a68e-b135658fa760",
+               "id": "328",
+               "name": "Dungeon Scrawl | Home",
+               "type": "url",
+               "url": "https://dungeonscrawl.com/"
+            }, {
+               "date_added": "13250651984000000",
+               "date_last_used": "0",
+               "guid": "0f13f6db-48f3-4e24-aa35-62057f1de29d",
+               "id": "329",
+               "name": "https://woodgears.ca/gear_cutting/template.html",
+               "type": "url",
+               "url": "https://woodgears.ca/gear_cutting/template.html"
+            }, {
+               "date_added": "13254201561000000",
+               "date_last_used": "0",
+               "guid": "ac280479-9b6a-4215-b519-363ce5ec0ba6",
+               "id": "330",
+               "name": "Society of Order – Society Evolved",
+               "type": "url",
+               "url": "https://societyoforder.com/"
+            }, {
+               "date_added": "13281307638000000",
+               "date_last_used": "0",
+               "guid": "41c7fbec-d638-40e2-9f28-7cb41fda00c8",
+               "id": "331",
+               "name": "Hidden Truth",
+               "type": "url",
+               "url": "https://t.me/c/1567745724/932"
+            }, {
+               "date_added": "13282162234000000",
+               "date_last_used": "0",
+               "guid": "20cd939e-3d9e-4153-a567-9e89058b45d0",
+               "id": "332",
+               "name": "Homepage for Miles Mathis science site",
+               "type": "url",
+               "url": "http://milesmathis.com/"
+            }, {
+               "date_added": "13282232830000000",
+               "date_last_used": "0",
+               "guid": "dbe1eadd-00d3-47f3-be1e-7568837a2e8d",
+               "id": "333",
+               "name": "[ROM][Signature Spoofing/MicroG support] LineageOS 18.1 for S8/S8+/Note8 | Page 4 | XDA Forums",
+               "type": "url",
+               "url": "https://forum.xda-developers.com/t/rom-signature-spoofing-microg-support-lineageos-18-1-for-s8-s8-note8.4332029/page-4"
+            }, {
+               "date_added": "13282261739000000",
+               "date_last_used": "0",
+               "guid": "ef61727d-9e51-4eec-843f-a70a11e27859",
+               "id": "334",
+               "name": "Wiby - Search Engine for the Classic Web",
+               "type": "url",
+               "url": "https://wiby.me/"
+            }, {
+               "date_added": "13293844008000000",
+               "date_last_used": "13327695088607218",
+               "guid": "1313eb03-20e3-42e5-8e8f-969a978c3b26",
+               "id": "335",
+               "name": "Burch Barrel V2",
+               "type": "url",
+               "url": "https://thebbqhq.com/products/burch-barrel-v2?ref=msb"
+            }, {
+               "children": [ {
+                  "date_added": "13248317546000000",
+                  "date_last_used": "0",
+                  "guid": "605cf4ad-4cc2-44c0-b7f1-aab406f97491",
+                  "id": "290",
+                  "name": "Ethan Morse",
+                  "type": "url",
+                  "url": "https://ethanmorse.github.io/"
+               }, {
+                  "date_added": "13293137092000000",
+                  "date_last_used": "0",
+                  "guid": "77ab9363-2b6e-46ca-8698-43b954b3b72f",
+                  "id": "291",
+                  "name": "Mountain Proof Ankles - Base Camp Training",
+                  "type": "url",
+                  "url": "https://basecamptraining.com.au/mountain-proof-ankles/"
+               } ],
+               "date_added": "13327339906101226",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "d18468f3-7232-47c6-a838-e574954945dd",
+               "id": "289",
+               "name": "Hreyfing",
+               "type": "folder"
+            }, {
+               "date_added": "13294313177000000",
+               "date_last_used": "13327695093126363",
+               "guid": "d5392ac2-55b4-4e58-8549-c60c7ae5f87c",
+               "id": "336",
+               "name": "Men - Schneiders",
+               "type": "url",
+               "url": "https://www.schneiders.com/en/category/men/"
+            }, {
+               "date_added": "13296304611000000",
+               "date_last_used": "13331029850270160",
+               "guid": "fbdecaec-b338-4df8-84ec-0efa886582c9",
+               "id": "337",
+               "name": "How to Fall Asleep Fast in 10, 60, or 120 Seconds",
+               "type": "url",
+               "url": "https://www.healthline.com/health/healthy-sleep/fall-asleep-fast#120-secs-to-sleep"
+            }, {
+               "date_added": "13299671939000000",
+               "date_last_used": "0",
+               "guid": "9768020e-efe4-4c4f-94a0-10e8c69e324f",
+               "id": "338",
+               "name": "Bókalind - antikbókabúð | við elskum bækur",
+               "type": "url",
+               "url": "https://bokalind.is/"
+            }, {
+               "date_added": "13299849002000000",
+               "date_last_used": "13327695101140614",
+               "guid": "0872fd02-cb81-4cea-9b54-7c3625b7468c",
+               "id": "339",
+               "name": "Crack 1.1 OTL Headphone Amplifier Kit - Bottlehead",
+               "type": "url",
+               "url": "https://bottlehead.com/product/crack-1-1-otl-headphone-amplifier-kit/"
+            }, {
+               "date_added": "13210336558000000",
+               "date_last_used": "0",
+               "guid": "f371ac52-8f3f-41f7-9b1e-a9a8168454ce",
+               "id": "340",
+               "name": "",
+               "type": "url",
+               "url": "https://reykjavik.instructure.com/"
+            }, {
+               "date_added": "13314727204000000",
+               "date_last_used": "0",
+               "guid": "bd3a140c-9163-4070-a252-47a8936401bd",
+               "id": "341",
+               "name": "Home - Transformation of the Industrial System",
+               "type": "url",
+               "url": "https://www.simonmichaux.com/"
+            }, {
+               "date_added": "13316626167000000",
+               "date_last_used": "0",
+               "guid": "a1951116-7fd0-4abf-b27c-40dcf282a678",
+               "id": "342",
+               "name": "Íslensk nútímamálsorðabók | Forsíða",
+               "type": "url",
+               "url": "https://islenskordabok.arnastofnun.is/"
+            }, {
+               "date_added": "13316626198000000",
+               "date_last_used": "0",
+               "guid": "0a33a319-214e-4216-ada5-16d81d425861",
+               "id": "343",
+               "name": "The English - Icelandic dictionary | Glosbe",
+               "type": "url",
+               "url": "https://glosbe.com/en/is"
+            }, {
+               "date_added": "13324341238000000",
+               "date_last_used": "0",
+               "guid": "6b52a061-0ba4-411f-8a1c-00ce728fc627",
+               "id": "344",
+               "name": "The Unz Review • An Alternative Media Selection - The Unz Review",
+               "type": "url",
+               "url": "https://www.unz.com/"
+            }, {
+               "date_added": "13137443853000000",
+               "date_last_used": "0",
+               "guid": "6024f873-9953-420e-aa9a-fd21ac71e55b",
+               "id": "345",
+               "name": "Progressive.audio - Discover Similar Artits",
+               "type": "url",
+               "url": "https://progressive.audio/#artist=Fallujah"
+            }, {
+               "date_added": "13138376714000000",
+               "date_last_used": "0",
+               "guid": "84f986c8-ed32-408e-96e3-2bd5076ee396",
+               "id": "346",
+               "name": "Clarkesworld Magazine - Science Fiction & Fantasy : The Things by Peter Watts",
+               "type": "url",
+               "url": "http://clarkesworldmagazine.com/watts_01_10/"
+            }, {
+               "date_added": "13150208358000000",
+               "date_last_used": "0",
+               "guid": "d07b5998-08de-4ca0-b0f3-265203b0fdbf",
+               "id": "347",
+               "name": "https://japaric.github.io/discovery/",
+               "type": "url",
+               "url": "https://japaric.github.io/discovery/"
+            }, {
+               "date_added": "13151501045000000",
+               "date_last_used": "0",
+               "guid": "2442f152-9f47-4406-90fe-d04ec2f8bfa9",
+               "id": "348",
+               "name": "How to Build a Continuous Integration and Delivery Process for Embedded Software",
+               "type": "url",
+               "url": "https://medium.com/jumperiot/how-to-build-a-continuous-integration-and-delivery-flow-for-embedded-software-b0b5bf220a2"
+            }, {
+               "date_added": "13207843618000000",
+               "date_last_used": "0",
+               "guid": "4225bc10-fc58-419d-b8d3-263ed50a4613",
+               "id": "349",
+               "name": "How to Brew Better Coffee with a V60 – Coffee Ad Astra",
+               "type": "url",
+               "url": "https://coffeeadastra.com/2018/11/30/brewing-better-coffee/"
+            }, {
+               "date_added": "13208287455000000",
+               "date_last_used": "0",
+               "guid": "1782873f-f6ca-43b4-a9ed-70c399a0c39e",
+               "id": "350",
+               "name": "Science Discussion Series: We're scientists from Vanderbilt studying how microbes relate to gut health and what this research means for risk of disease and developing new treatments. Let’s discuss! : science",
+               "type": "url",
+               "url": "https://www.reddit.com/r/science/comments/cgc7re/science_discussion_series_were_scientists_from/"
+            }, {
+               "date_added": "13289998020000000",
+               "date_last_used": "0",
+               "guid": "c92f94c0-0e00-45d8-81c6-1248169e8cb2",
+               "id": "351",
+               "name": "Spotify – Web Player",
+               "type": "url",
+               "url": "https://open.spotify.com/"
+            } ],
+            "date_added": "13327339906100875",
+            "date_last_used": "0",
+            "date_modified": "13327695082309210",
+            "guid": "667345b4-2b9a-4125-8ba9-ee7ce9e3fde9",
+            "id": "279",
+            "name": "Imported",
+            "type": "folder"
+         }, {
+            "date_added": "13332640248040050",
+            "date_last_used": "13333761058293831",
+            "guid": "08b53954-e7ee-49d7-8252-1b6009f88702",
+            "id": "357",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "fb",
+            "type": "url",
+            "url": "https://www.facebook.com/?sk=h_chr"
+         } ],
+         "date_added": "13327339826714632",
+         "date_last_used": "0",
+         "date_modified": "13333486946168320",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13327420135146138",
+            "date_last_used": "0",
+            "guid": "64dd338b-cee6-42b2-9d6c-723ecbac0957",
+            "id": "353",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Lesics Engineering Courses",
+            "type": "url",
+            "url": "https://sabin-mathew.com/"
+         } ],
+         "date_added": "13327339826714634",
+         "date_last_used": "0",
+         "date_modified": "13327420140312453",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13327339826714635",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

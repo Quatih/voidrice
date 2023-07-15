@@ -1,0 +1,7 @@
+2023/07/14-22:51:47.451 948 Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_www.mbl.is_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/14-22:51:47.451 948 Recovering log #217
+2023/07/14-22:51:47.451 948 Reusing old log /home/quatih/.config/chromium/Default/IndexedDB/https_www.mbl.is_0.indexeddb.leveldb/000217.log 
+2023/07/14-22:51:47.472 94c Level-0 table #223: started
+2023/07/14-22:51:47.477 94c Level-0 table #223: 568 bytes OK
+2023/07/14-22:51:47.500 94c Delete type=0 #217
+2023/07/14-22:51:47.500 949 Manual compaction at level-0 from '\x00>\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00?\x00\x00\x00' @ 0 : 0; will stop at (end)

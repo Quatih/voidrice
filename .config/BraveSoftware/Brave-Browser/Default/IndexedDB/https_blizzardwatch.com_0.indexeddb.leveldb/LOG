@@ -1,0 +1,6 @@
+2023/04/18-23:00:32.909 4ab7 Creating DB /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_blizzardwatch.com_0.indexeddb.leveldb since it was missing.
+2023/04/18-23:00:32.924 4ab7 Reusing MANIFEST /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_blizzardwatch.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/18-23:00:37.204 693a Level-0 table #5: started
+2023/04/18-23:00:37.217 693a Level-0 table #5: 6198 bytes OK
+2023/04/18-23:00:37.240 693a Delete type=0 #3
+2023/04/18-23:00:37.240 693a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

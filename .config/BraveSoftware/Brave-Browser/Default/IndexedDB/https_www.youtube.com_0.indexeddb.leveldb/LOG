@@ -1,0 +1,12 @@
+2023/07/14-19:00:16.603 b6f Reusing MANIFEST /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/14-19:00:16.604 b6f Recovering log #163
+2023/07/14-19:00:16.629 b6f Reusing old log /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000163.log 
+2023/07/14-19:00:30.199 b70 Level-0 table #168: started
+2023/07/14-19:00:30.232 b70 Level-0 table #168: 1488776 bytes OK
+2023/07/14-19:00:30.248 b70 Delete type=0 #163
+2023/07/14-19:01:35.228 b6f Compacting 1@1 + 1@2 files
+2023/07/14-19:01:35.242 b6f Generated table #169@1: 274 keys, 60767 bytes
+2023/07/14-19:01:35.242 b6f Compacted 1@1 + 1@2 files => 60767 bytes
+2023/07/14-19:01:35.253 b6f compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/14-19:01:35.253 b6f Delete type=2 #165
+2023/07/14-19:01:35.253 b6f Delete type=2 #168

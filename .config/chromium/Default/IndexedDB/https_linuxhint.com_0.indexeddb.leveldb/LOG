@@ -1,0 +1,15 @@
+2023/06/19-22:48:20.948 74c Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/19-22:48:20.948 74c Recovering log #7
+2023/06/19-22:48:20.950 74c Reusing old log /home/quatih/.config/chromium/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/000007.log 
+2023/06/19-22:48:25.033 74d Level-0 table #12: started
+2023/06/19-22:48:25.038 74d Level-0 table #12: 11692 bytes OK
+2023/06/19-22:48:25.048 74d Delete type=0 #7
+2023/06/19-22:48:25.049 74d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/06/19-22:48:25.049 74d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x02\x02\x01\x1e\x00/\x00s\x00e\x00t\x00-\x00e\x00n\x00v\x00i\x00r\x00o\x00n\x00m\x00e\x00n\x00t\x00-\x00v\x00a\x00r\x00i\x00a\x00b\x00l\x00e\x00-\x00z\x00s\x00h\x00/' @ 469 : 0
+2023/06/19-22:48:25.049 74d Compacting 1@1 + 1@2 files
+2023/06/19-22:48:25.054 74d Generated table #13@1: 81 keys, 7526 bytes
+2023/06/19-22:48:25.054 74d Compacted 1@1 + 1@2 files => 7526 bytes
+2023/06/19-22:48:25.064 74d compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/19-22:48:25.065 74d Delete type=2 #9
+2023/06/19-22:48:25.065 74d Delete type=2 #12
+2023/06/19-22:48:25.065 74d Manual compaction at level-1 from '\x00\x01\x02\x02\x01\x1e\x00/\x00s\x00e\x00t\x00-\x00e\x00n\x00v\x00i\x00r\x00o\x00n\x00m\x00e\x00n\x00t\x00-\x00v\x00a\x00r\x00i\x00a\x00b\x00l\x00e\x00-\x00z\x00s\x00h\x00/' @ 469 : 0 .. (end); will stop at (end)

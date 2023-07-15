@@ -1,0 +1,6 @@
+2023/06/29-16:26:26.555 923 Creating DB /home/quatih/.config/chromium/Default/IndexedDB/https_bytexd.com_0.indexeddb.leveldb since it was missing.
+2023/06/29-16:26:26.572 923 Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_bytexd.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/29-16:35:07.069 924 Level-0 table #5: started
+2023/06/29-16:35:07.078 924 Level-0 table #5: 183255 bytes OK
+2023/06/29-16:35:07.088 924 Delete type=0 #3
+2023/06/29-16:35:07.088 924 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

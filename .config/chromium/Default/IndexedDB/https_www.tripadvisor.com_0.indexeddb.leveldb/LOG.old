@@ -1,0 +1,6 @@
+2023/07/10-22:50:03.451 1cc3 Creating DB /home/quatih/.config/chromium/Default/IndexedDB/https_www.tripadvisor.com_0.indexeddb.leveldb since it was missing.
+2023/07/10-22:50:03.466 1cc3 Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_www.tripadvisor.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/11-00:50:04.126 1cc3 Level-0 table #5: started
+2023/07/11-00:50:04.147 1cc3 Level-0 table #5: 838 bytes OK
+2023/07/11-00:50:04.162 1cc3 Delete type=0 #3
+2023/07/11-00:50:04.162 1cc3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

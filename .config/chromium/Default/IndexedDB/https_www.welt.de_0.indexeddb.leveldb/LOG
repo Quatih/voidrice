@@ -1,0 +1,6 @@
+2023/05/12-15:49:35.701 9cb Creating DB /home/quatih/.config/chromium/Default/IndexedDB/https_www.welt.de_0.indexeddb.leveldb since it was missing.
+2023/05/12-15:49:35.725 9cb Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_www.welt.de_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/12-15:50:37.409 5e64 Level-0 table #5: started
+2023/05/12-15:50:37.415 5e64 Level-0 table #5: 9312 bytes OK
+2023/05/12-15:50:37.424 5e64 Delete type=0 #3
+2023/05/12-15:50:37.425 5e64 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

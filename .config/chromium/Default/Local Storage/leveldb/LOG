@@ -1,0 +1,52 @@
+2023/07/14-19:00:01.740 3 Reusing MANIFEST /home/quatih/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/14-19:00:01.745 3 Recovering log #2313
+2023/07/14-19:00:01.745 3 Reusing old log /home/quatih/.config/chromium/Default/Local Storage/leveldb/002313.log 
+2023/07/14-19:27:30.786 5 Level-0 table #2317: started
+2023/07/14-19:27:30.798 5 Level-0 table #2317: 24929 bytes OK
+2023/07/14-19:27:30.809 5 Delete type=0 #2313
+2023/07/14-20:05:29.778 5 Level-0 table #2319: started
+2023/07/14-20:05:29.790 5 Level-0 table #2319: 26740 bytes OK
+2023/07/14-20:05:29.801 5 Delete type=0 #2316
+2023/07/14-20:05:29.801 5 Compacting 4@0 + 2@1 files
+2023/07/14-20:05:29.875 5 Generated table #2320@0: 2201 keys, 2219713 bytes
+2023/07/14-20:05:29.897 5 Generated table #2321@0: 9398 keys, 736667 bytes
+2023/07/14-20:05:29.897 5 Compacted 4@0 + 2@1 files => 2956380 bytes
+2023/07/14-20:05:29.908 5 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/07/14-20:05:29.909 5 Delete type=2 #2309
+2023/07/14-20:05:29.909 5 Delete type=2 #2310
+2023/07/14-20:05:29.909 5 Delete type=2 #2312
+2023/07/14-20:05:29.909 5 Delete type=2 #2314
+2023/07/14-20:05:29.909 5 Delete type=2 #2317
+2023/07/14-20:05:29.909 5 Delete type=2 #2319
+2023/07/14-20:49:52.650 5 Level-0 table #2323: started
+2023/07/14-20:49:52.658 5 Level-0 table #2323: 48494 bytes OK
+2023/07/14-20:49:52.669 5 Delete type=0 #2318
+2023/07/14-22:14:14.186 5 Level-0 table #2325: started
+2023/07/14-22:14:14.198 5 Level-0 table #2325: 24799 bytes OK
+2023/07/14-22:14:14.207 5 Delete type=0 #2322
+2023/07/14-22:59:45.274 5 Level-0 table #2327: started
+2023/07/14-22:59:45.280 5 Level-0 table #2327: 24995 bytes OK
+2023/07/14-22:59:45.294 5 Delete type=0 #2324
+2023/07/15-10:57:31.776 5 Level-0 table #2329: started
+2023/07/15-10:57:31.783 5 Level-0 table #2329: 13376 bytes OK
+2023/07/15-10:57:31.795 5 Delete type=0 #2326
+2023/07/15-10:57:31.796 5 Compacting 4@0 + 2@1 files
+2023/07/15-10:57:31.846 5 Generated table #2330@0: 2202 keys, 2219761 bytes
+2023/07/15-10:57:31.866 5 Generated table #2331@0: 9503 keys, 660935 bytes
+2023/07/15-10:57:31.866 5 Compacted 4@0 + 2@1 files => 2880696 bytes
+2023/07/15-10:57:31.875 5 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/07/15-10:57:31.876 5 Delete type=2 #2320
+2023/07/15-10:57:31.876 5 Delete type=2 #2321
+2023/07/15-10:57:31.876 5 Delete type=2 #2323
+2023/07/15-10:57:31.876 5 Delete type=2 #2325
+2023/07/15-10:57:31.876 5 Delete type=2 #2327
+2023/07/15-10:57:31.876 5 Delete type=2 #2329
+2023/07/15-12:25:26.450 5 Level-0 table #2333: started
+2023/07/15-12:25:26.457 5 Level-0 table #2333: 15051 bytes OK
+2023/07/15-12:25:26.468 5 Delete type=0 #2328
+2023/07/15-12:45:03.586 5 Level-0 table #2335: started
+2023/07/15-12:45:03.602 5 Level-0 table #2335: 21440 bytes OK
+2023/07/15-12:45:03.635 5 Delete type=0 #2332
+2023/07/15-13:20:53.714 5 Level-0 table #2337: started
+2023/07/15-13:20:53.721 5 Level-0 table #2337: 32574 bytes OK
+2023/07/15-13:20:53.733 5 Delete type=0 #2334

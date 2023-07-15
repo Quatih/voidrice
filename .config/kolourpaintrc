@@ -1,0 +1,49 @@
+[File/Save As]
+Forced MimeType=image/jpeg
+Forced Quality=75
+
+[General Settings]
+First Time=false
+Open Images in the Same Window=false
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/shmuel.jpg,file:$HOME/Downloads/shmuel.jpg
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16
+
+[MainWindow]
+1920x1200 screen: Window-Maximized=true
+2 screens: Window-Maximized=true
+State=AAAA/wAAAAD9AAAAAQAAAAMAAAZeAAAAY/wBAAAAAfsAAAASAEMAbwBsAG8AcgAgAEIAbwB4AQAAAR4AAAZeAAACDQD///8AAAZeAAAD2QAAAAQAAAAEAAAAAQAAAAL8AAAAAgAAAAAAAAABAAAAEABUAG8AbwBsACAAQgBvAHgDAAAAAP////8AAAAAAAAAAAAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABYAdABlAHgAdABUAG8AbwBsAEIAYQByAQAAAdj/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[MainWindow][Toolbar Tool Box]
+ToolButtonStyle=IconOnly
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/shmuel.jpg
+Name1[$e]=shmuel.jpg
+
+[Text Settings]
+Font Family=Linux Libertine
+Font Size=11
+
+[Tool Settings]
+Last Used Tool=3
+Tool Widget Brush Col=0
+Tool Widget Brush Row=0
+Tool Widget Eraser Size Col=0
+Tool Widget Eraser Size Row=1
+Tool Widget Fill Style Col=0
+Tool Widget Fill Style Row=0
+Tool Widget Line Width Col=0
+Tool Widget Line Width Row=0
+Tool Widget Opaque/Transparent Col=0
+Tool Widget Opaque/Transparent Row=0
+Tool Widget Spraycan Size Col=0
+Tool Widget Spraycan Size Row=0
+
+[Undo/Redo Settings]
+Max Limit=500
+Max Limit Size Limit=16777216
+Min Limit=10

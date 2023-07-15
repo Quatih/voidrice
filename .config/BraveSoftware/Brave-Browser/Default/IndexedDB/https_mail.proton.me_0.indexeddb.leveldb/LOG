@@ -1,0 +1,15 @@
+2023/06/30-17:59:22.225 2d79 Reusing MANIFEST /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/30-17:59:22.226 2d79 Recovering log #4
+2023/06/30-17:59:22.226 2d79 Reusing old log /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/000004.log 
+2023/06/30-17:59:24.259 2d79 Level-0 table #8: started
+2023/06/30-17:59:24.264 2d79 Level-0 table #8: 1265 bytes OK
+2023/06/30-17:59:24.274 2d79 Delete type=0 #4
+2023/06/30-17:59:24.274 2d79 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/06/30-17:59:24.274 2d79 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01 \x00o\x00a\x004\x00b\x004\x00i\x00x\x00r\x003\x007\x00f\x00p\x00k\x00p\x00q\x00d\x00l\x00k\x007\x00x\x004\x00r\x004\x00j\x006\x002\x00f\x00e\x00o\x00m\x00w\x00n' @ 51 : 1
+2023/06/30-17:59:24.274 2d79 Compacting 1@1 + 1@2 files
+2023/06/30-17:59:24.279 2d79 Generated table #9@1: 19 keys, 502 bytes
+2023/06/30-17:59:24.279 2d79 Compacted 1@1 + 1@2 files => 502 bytes
+2023/06/30-17:59:24.289 2d79 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/30-17:59:24.289 2d79 Delete type=2 #5
+2023/06/30-17:59:24.289 2d79 Delete type=2 #8
+2023/06/30-17:59:24.289 2d79 Manual compaction at level-1 from '\x00\x01\x01\x02\x01 \x00o\x00a\x004\x00b\x004\x00i\x00x\x00r\x003\x007\x00f\x00p\x00k\x00p\x00q\x00d\x00l\x00k\x007\x00x\x004\x00r\x004\x00j\x006\x002\x00f\x00e\x00o\x00m\x00w\x00n' @ 51 : 1 .. (end); will stop at (end)

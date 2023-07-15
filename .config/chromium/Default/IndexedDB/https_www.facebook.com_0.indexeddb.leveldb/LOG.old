@@ -1,0 +1,6 @@
+2023/05/01-08:55:21.258 7729 Creating DB /home/quatih/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb since it was missing.
+2023/05/01-08:55:21.276 7729 Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/01-08:55:53.364 490 Level-0 table #5: started
+2023/05/01-08:55:53.369 490 Level-0 table #5: 1924 bytes OK
+2023/05/01-08:55:53.378 490 Delete type=0 #3
+2023/05/01-08:55:53.378 490 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

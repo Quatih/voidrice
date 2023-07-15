@@ -1,0 +1,19 @@
+[monitors]
+
+[monitors.DP-3]
+position="top"
+height = 25
+anchor_to_edges=true
+
+[monitors.HDMI-A-1]
+height = 20
+position="top"
+anchor_to_edges=true
+[[start]]
+all_monitors=false
+type='workspaces'
+
+[[end]] 
+type='clock'
+
+

@@ -1,0 +1,6 @@
+2023/05/20-01:20:22.340 60d1 Creating DB /home/quatih/.config/chromium/Default/IndexedDB/https_discussion.fedoraproject.org_0.indexeddb.leveldb since it was missing.
+2023/05/20-01:20:22.359 60d1 Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_discussion.fedoraproject.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/20-01:23:06.405 60d2 Level-0 table #5: started
+2023/05/20-01:23:06.410 60d2 Level-0 table #5: 7976 bytes OK
+2023/05/20-01:23:06.420 60d2 Delete type=0 #3
+2023/05/20-01:23:06.420 60d2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

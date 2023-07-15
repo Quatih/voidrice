@@ -1,0 +1,67 @@
+{
+  "config": {
+    "server": {
+      "hostname": "localhost",
+      "port": 36346,
+      "useHttps": false
+    },
+    "concurrency": {
+      "queries": 1,
+      "tracks": 1,
+      "trackStage": 6,
+      "downloader": 4,
+      "encoder": 6,
+      "embedder": 10
+    },
+    "opts": {
+      "netCheck": true,
+      "attemptAuth": true,
+      "autoOpenBrowser": true
+    },
+    "filters": [],
+    "dirs": {
+      "output": ".",
+      "check": [],
+      "cache": {
+        "path": "<cache>",
+        "keep": true
+      }
+    },
+    "playlist": {
+      "always": false,
+      "append": true,
+      "escape": true,
+      "forceAppend": false,
+      "dir": "",
+      "namespace": ""
+    },
+    "image": {
+      "width": 640,
+      "height": 640
+    },
+    "downloader": {
+      "memCache": true,
+      "cacheSize": 209715200,
+      "sources": [
+        "yt_music",
+        "youtube"
+      ]
+    }
+  },
+  "services": {
+    "deezer": {},
+    "spotify": {
+      "expiry": 1688168110903,
+      "accessToken": "BQCkc-jvD6547DtBC_HSD_Ox7M7wATMAyFyeMnVZTW82NX0N4L0vtZoCNiSGHf3edQ96DdvA-Aeo6RGR6WgnwIHqNA4sdj_WrSv3nATqeyF2s87d_lyar_7oAHIQ6OTjmkfdm8M4Rj8IgvjpIdCu1CyCaYUZvcf6Vtrc06fYqgSpeQy9CqkVNdg3Sp2nsB2zG65Aj4_s4g6YAVqZUA",
+      "refreshToken": "AQCbeNs5NiGfHa6He0BlOdoQwEIdo2lwBmefEvpvqVy8WlL2HV7rmGbb30_oaZHMDf9MgXtGjI0gV_QukL33PE8c2bGqJHeMqdHBUjKWhxOW19snJkGUiyxen8UvmDG-OP4"
+    },
+    "apple_music": {},
+    "youtube": {},
+    "yt_music": {}
+  },
+  "__internal__": {
+    "migrations": {
+      "version": "0.9.1"
+    }
+  }
+}

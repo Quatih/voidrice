@@ -1,0 +1,26 @@
+2023/05/25-22:24:22.634 7a3 Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_lanareiknivel.is_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/25-22:24:22.635 7a3 Recovering log #4
+2023/05/25-22:24:22.641 7a3 Reusing old log /home/quatih/.config/chromium/Default/IndexedDB/https_lanareiknivel.is_0.indexeddb.leveldb/000004.log 
+2023/05/25-22:24:22.704 7a7 Level-0 table #8: started
+2023/05/25-22:24:22.709 7a7 Level-0 table #8: 3662 bytes OK
+2023/05/25-22:24:22.728 7a7 Delete type=0 #4
+2023/05/25-22:24:22.728 7a3 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/25-23:10:16.032 7a4 Level-0 table #10: started
+2023/05/25-23:10:16.037 7a4 Level-0 table #10: 1446 bytes OK
+2023/05/25-23:10:16.047 7a4 Delete type=0 #7
+2023/05/25-23:10:16.048 7a4 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x005\x001\x001\x008\x005\x002\x005\x003\x009\x003\x009\x008\x00:\x00w\x00e\x00b\x00:\x009\x00e\x00c\x00a\x00d\x00b\x000\x00a\x00f\x002\x007\x00f\x00e\x007\x009\x00b\x00d\x00d\x005\x00d\x008\x007' @ 153 : 1
+2023/05/25-23:10:16.048 7a4 Compacting 1@0 + 1@1 files
+2023/05/25-23:10:16.053 7a4 Generated table #11@0: 44 keys, 1633 bytes
+2023/05/25-23:10:16.053 7a4 Compacted 1@0 + 1@1 files => 1633 bytes
+2023/05/25-23:10:16.062 7a4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/25-23:10:16.063 7a4 Delete type=2 #8
+2023/05/25-23:10:16.063 7a4 Delete type=2 #10
+2023/05/25-23:10:16.063 7a4 Manual compaction at level-0 from '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x005\x001\x001\x008\x005\x002\x005\x003\x009\x003\x009\x008\x00:\x00w\x00e\x00b\x00:\x009\x00e\x00c\x00a\x00d\x00b\x000\x00a\x00f\x002\x007\x00f\x00e\x007\x009\x00b\x00d\x00d\x005\x00d\x008\x007' @ 153 : 1 .. (end); will stop at (end)
+2023/05/25-23:10:16.063 7a4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x005\x001\x001\x008\x005\x002\x005\x003\x009\x003\x009\x008\x00:\x00w\x00e\x00b\x00:\x009\x00e\x00c\x00a\x00d\x00b\x000\x00a\x00f\x002\x007\x00f\x00e\x007\x009\x00b\x00d\x00d\x005\x00d\x008\x007' @ 161 : 1
+2023/05/25-23:10:16.063 7a4 Compacting 1@1 + 1@2 files
+2023/05/25-23:10:16.068 7a4 Generated table #12@1: 21 keys, 1330 bytes
+2023/05/25-23:10:16.068 7a4 Compacted 1@1 + 1@2 files => 1330 bytes
+2023/05/25-23:10:16.077 7a4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/25-23:10:16.078 7a4 Delete type=2 #5
+2023/05/25-23:10:16.078 7a4 Delete type=2 #11
+2023/05/25-23:10:16.078 7a4 Manual compaction at level-1 from '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x005\x001\x001\x008\x005\x002\x005\x003\x009\x003\x009\x008\x00:\x00w\x00e\x00b\x00:\x009\x00e\x00c\x00a\x00d\x00b\x000\x00a\x00f\x002\x007\x00f\x00e\x007\x009\x00b\x00d\x00d\x005\x00d\x008\x007' @ 161 : 1 .. (end); will stop at (end)

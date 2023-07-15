@@ -1,0 +1,25 @@
+2023/05/24-18:12:14.047 3620 Reusing MANIFEST /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fishtank.live_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/24-18:12:14.047 3620 Recovering log #202
+2023/05/24-18:12:14.047 3620 Reusing old log /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fishtank.live_0.indexeddb.leveldb/000202.log 
+2023/05/24-18:12:14.048 3620 Delete type=2 #201
+2023/05/24-18:12:14.081 6c28 Level-0 table #207: started
+2023/05/24-18:12:14.091 6c28 Level-0 table #207: 9188 bytes OK
+2023/05/24-18:12:14.108 6c28 Delete type=0 #202
+2023/05/24-18:12:14.108 6c8 Manual compaction at level-0 from '\x009\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at '\x009\x00\x00\x05' @ 3666 : 1
+2023/05/24-18:12:14.108 6c8 Compacting 1@0 + 1@1 files
+2023/05/24-18:12:14.122 6c8 Generated table #208@0: 39 keys, 3426 bytes
+2023/05/24-18:12:14.122 6c8 Compacted 1@0 + 1@1 files => 3426 bytes
+2023/05/24-18:12:14.135 6c8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/24-18:12:14.135 6c8 Delete type=2 #207
+2023/05/24-18:12:14.136 6c8 Manual compaction at level-0 from '\x009\x00\x00\x05' @ 3666 : 1 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/24-18:12:14.144 6c8 Level-0 table #210: started
+2023/05/24-18:12:14.149 6c8 Level-0 table #210: 1628 bytes OK
+2023/05/24-18:12:14.162 6c8 Delete type=2 #204
+2023/05/24-18:12:14.162 6c8 Delete type=0 #206
+2023/05/24-18:12:14.162 3620 Manual compaction at level-0 from '\x00:\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00;\x00\x00\x00' @ 0 : 0; will stop at '\x00:\x00\x00\x05' @ 3688 : 1
+2023/05/24-18:12:14.163 3620 Compacting 1@0 + 1@1 files
+2023/05/24-18:12:14.167 3620 Generated table #211@0: 39 keys, 3607 bytes
+2023/05/24-18:12:14.167 3620 Compacted 1@0 + 1@1 files => 3607 bytes
+2023/05/24-18:12:14.177 3620 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/24-18:12:14.177 3620 Delete type=2 #210
+2023/05/24-18:12:14.177 3620 Manual compaction at level-0 from '\x00:\x00\x00\x05' @ 3688 : 1 .. '\x00;\x00\x00\x00' @ 0 : 0; will stop at (end)

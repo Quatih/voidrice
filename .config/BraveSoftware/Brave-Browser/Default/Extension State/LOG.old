@@ -1,0 +1,33 @@
+2023/06/30-22:35:19.375 7fa3 Reusing MANIFEST /home/quatih/.config/BraveSoftware/Brave-Browser/Default/Extension State/MANIFEST-000001
+2023/06/30-22:35:19.375 7fa3 Recovering log #65
+2023/06/30-22:35:19.390 7fa3 Reusing old log /home/quatih/.config/BraveSoftware/Brave-Browser/Default/Extension State/000065.log 
+2023/06/30-23:13:45.562 7f90 Level-0 table #69: started
+2023/06/30-23:13:45.595 7f90 Level-0 table #69: 2162407 bytes OK
+2023/06/30-23:13:45.607 7f90 Delete type=0 #65
+2023/07/02-10:39:48.416 7f90 Level-0 table #71: started
+2023/07/02-10:39:48.461 7f90 Level-0 table #71: 2128830 bytes OK
+2023/07/02-10:39:48.480 7f90 Delete type=0 #68
+2023/07/02-10:39:48.481 7f90 Compacting 4@0 + 1@1 files
+2023/07/02-10:39:48.525 7f90 Generated table #72@0: 2 keys, 5768 bytes
+2023/07/02-10:39:48.525 7f90 Compacted 4@0 + 1@1 files => 5768 bytes
+2023/07/02-10:39:48.536 7f90 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/02-10:39:48.536 7f90 Delete type=2 #60
+2023/07/02-10:39:48.536 7f90 Delete type=2 #63
+2023/07/02-10:39:48.536 7f90 Delete type=2 #66
+2023/07/02-10:39:48.536 7f90 Delete type=2 #69
+2023/07/02-10:39:48.536 7f90 Delete type=2 #71
+2023/07/03-21:33:38.447 7f90 Level-0 table #74: started
+2023/07/03-21:33:38.492 7f90 Level-0 table #74: 2132851 bytes OK
+2023/07/03-21:33:38.505 7f90 Delete type=0 #70
+2023/07/09-20:01:46.133 7f90 Level-0 table #76: started
+2023/07/09-20:01:46.195 7f90 Level-0 table #76: 2138402 bytes OK
+2023/07/09-20:01:46.207 7f90 Delete type=0 #73
+2023/07/10-12:44:53.161 7f8f Compacting 1@1 + 1@2 files
+2023/07/10-12:44:53.180 7f8f Generated table #77@1: 2 keys, 5768 bytes
+2023/07/10-12:44:53.180 7f8f Compacted 1@1 + 1@2 files => 5768 bytes
+2023/07/10-12:44:53.190 7f8f compacted to: files[ 2 0 1 0 0 0 0 ]
+2023/07/10-12:44:53.191 7f8f Delete type=2 #5
+2023/07/10-12:44:53.191 7f8f Delete type=2 #72
+2023/07/14-18:10:50.473 7fa5 Level-0 table #79: started
+2023/07/14-18:10:50.626 7fa5 Level-0 table #79: 2122293 bytes OK
+2023/07/14-18:10:50.682 7fa5 Delete type=0 #75

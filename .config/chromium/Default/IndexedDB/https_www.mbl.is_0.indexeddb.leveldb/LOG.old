@@ -1,0 +1,26 @@
+2023/07/14-22:43:58.536 948 Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_www.mbl.is_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/14-22:43:58.537 948 Recovering log #210
+2023/07/14-22:43:58.537 948 Reusing old log /home/quatih/.config/chromium/Default/IndexedDB/https_www.mbl.is_0.indexeddb.leveldb/000210.log 
+2023/07/14-22:43:58.560 94c Level-0 table #216: started
+2023/07/14-22:43:58.565 94c Level-0 table #216: 568 bytes OK
+2023/07/14-22:43:58.593 94c Delete type=0 #210
+2023/07/14-22:43:58.593 948 Manual compaction at level-0 from '\x00=\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00>\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/07/14-22:44:05.732 948 Level-0 table #218: started
+2023/07/14-22:44:05.738 948 Level-0 table #218: 1953 bytes OK
+2023/07/14-22:44:05.749 948 Delete type=0 #215
+2023/07/14-22:44:05.750 948 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x003\x002\x007\x008\x001\x009\x008\x008\x003\x006\x005\x00:\x00w\x00e\x00b\x00:\x009\x005\x00f\x001\x002\x00b\x00d\x000\x003\x000\x004\x000\x00a\x006\x004\x004\x001\x008\x00d\x00b\x004\x004' @ 2681 : 1
+2023/07/14-22:44:05.750 948 Compacting 1@0 + 1@1 files
+2023/07/14-22:44:05.755 948 Generated table #219@0: 24 keys, 1399 bytes
+2023/07/14-22:44:05.755 948 Compacted 1@0 + 1@1 files => 1399 bytes
+2023/07/14-22:44:05.767 948 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/14-22:44:05.767 948 Delete type=2 #216
+2023/07/14-22:44:05.767 948 Delete type=2 #218
+2023/07/14-22:44:05.767 948 Manual compaction at level-0 from '\x00\x02\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x003\x002\x007\x008\x001\x009\x008\x008\x003\x006\x005\x00:\x00w\x00e\x00b\x00:\x009\x005\x00f\x001\x002\x00b\x00d\x000\x003\x000\x004\x000\x00a\x006\x004\x004\x001\x008\x00d\x00b\x004\x004' @ 2681 : 1 .. (end); will stop at (end)
+2023/07/14-22:44:05.767 948 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x003\x002\x007\x008\x001\x009\x008\x008\x003\x006\x005\x00:\x00w\x00e\x00b\x00:\x009\x005\x00f\x001\x002\x00b\x00d\x000\x003\x000\x004\x000\x00a\x006\x004\x004\x001\x008\x00d\x00b\x004\x004' @ 2707 : 1
+2023/07/14-22:44:05.767 948 Compacting 1@1 + 1@2 files
+2023/07/14-22:44:05.773 948 Generated table #220@1: 21 keys, 1335 bytes
+2023/07/14-22:44:05.773 948 Compacted 1@1 + 1@2 files => 1335 bytes
+2023/07/14-22:44:05.783 948 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/14-22:44:05.784 948 Delete type=2 #213
+2023/07/14-22:44:05.784 948 Delete type=2 #219
+2023/07/14-22:44:05.784 948 Manual compaction at level-1 from '\x00\x02\x01\x02\x012\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x003\x002\x007\x008\x001\x009\x008\x008\x003\x006\x005\x00:\x00w\x00e\x00b\x00:\x009\x005\x00f\x001\x002\x00b\x00d\x000\x003\x000\x004\x000\x00a\x006\x004\x004\x001\x008\x00d\x00b\x004\x004' @ 2707 : 1 .. (end); will stop at (end)

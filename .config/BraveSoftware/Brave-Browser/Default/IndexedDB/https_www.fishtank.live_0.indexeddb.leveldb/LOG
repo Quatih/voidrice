@@ -1,0 +1,25 @@
+2023/05/25-17:17:14.057 3620 Reusing MANIFEST /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fishtank.live_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/25-17:17:14.058 3620 Recovering log #209
+2023/05/25-17:17:14.058 3620 Reusing old log /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fishtank.live_0.indexeddb.leveldb/000209.log 
+2023/05/25-17:17:14.059 3620 Delete type=2 #208
+2023/05/25-17:17:14.084 7901 Level-0 table #214: started
+2023/05/25-17:17:14.094 7901 Level-0 table #214: 8979 bytes OK
+2023/05/25-17:17:14.112 7901 Delete type=0 #209
+2023/05/25-17:17:14.113 3620 Manual compaction at level-0 from '\x00;\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00<\x00\x00\x00' @ 0 : 0; will stop at '\x00;\x00\x00\x05' @ 3766 : 1
+2023/05/25-17:17:14.113 3620 Compacting 1@0 + 1@1 files
+2023/05/25-17:17:14.121 3620 Generated table #215@0: 39 keys, 3425 bytes
+2023/05/25-17:17:14.121 3620 Compacted 1@0 + 1@1 files => 3425 bytes
+2023/05/25-17:17:14.140 3620 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/25-17:17:14.140 3620 Delete type=2 #214
+2023/05/25-17:17:14.140 3620 Manual compaction at level-0 from '\x00;\x00\x00\x05' @ 3766 : 1 .. '\x00<\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/25-17:17:14.145 7902 Level-0 table #217: started
+2023/05/25-17:17:14.150 7902 Level-0 table #217: 4090 bytes OK
+2023/05/25-17:17:14.168 7902 Delete type=2 #211
+2023/05/25-17:17:14.168 7902 Delete type=0 #213
+2023/05/25-17:17:14.168 7902 Manual compaction at level-0 from '\x00<\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00=\x00\x00\x00' @ 0 : 0; will stop at '\x00<\x00\x00\x05' @ 3788 : 1
+2023/05/25-17:17:14.168 7902 Compacting 1@0 + 1@1 files
+2023/05/25-17:17:14.176 7902 Generated table #218@0: 53 keys, 6103 bytes
+2023/05/25-17:17:14.176 7902 Compacted 1@0 + 1@1 files => 6103 bytes
+2023/05/25-17:17:14.190 7902 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/25-17:17:14.190 7902 Delete type=2 #217
+2023/05/25-17:17:14.190 7902 Manual compaction at level-0 from '\x00<\x00\x00\x05' @ 3788 : 1 .. '\x00=\x00\x00\x00' @ 0 : 0; will stop at (end)

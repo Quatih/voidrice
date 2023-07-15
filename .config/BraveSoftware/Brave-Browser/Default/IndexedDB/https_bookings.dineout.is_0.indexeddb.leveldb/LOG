@@ -1,0 +1,6 @@
+2023/06/17-14:37:13.360 a5e Creating DB /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_bookings.dineout.is_0.indexeddb.leveldb since it was missing.
+2023/06/17-14:37:13.374 a5e Reusing MANIFEST /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_bookings.dineout.is_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/17-20:11:04.790 a62 Level-0 table #5: started
+2023/06/17-20:11:04.795 a62 Level-0 table #5: 10357 bytes OK
+2023/06/17-20:11:04.810 a62 Delete type=0 #3
+2023/06/17-20:11:04.810 a62 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

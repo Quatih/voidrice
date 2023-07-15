@@ -1,0 +1,30 @@
+2023/07/14-18:23:25.355 1aba Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/14-18:23:25.356 1aba Recovering log #1678
+2023/07/14-18:23:25.380 1aba Reusing old log /home/quatih/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/001678.log 
+2023/07/14-18:24:28.773 1aaa Level-0 table #1683: started
+2023/07/14-18:24:28.796 1aaa Level-0 table #1683: 1717242 bytes OK
+2023/07/14-18:24:28.806 1aaa Delete type=0 #1678
+2023/07/14-18:24:39.274 1aaa Compacting 1@1 + 1@2 files
+2023/07/14-18:24:39.294 1aaa Generated table #1684@1: 2376 keys, 98077 bytes
+2023/07/14-18:24:39.294 1aaa Compacted 1@1 + 1@2 files => 98077 bytes
+2023/07/14-18:24:39.305 1aaa compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/14-18:24:39.306 1aaa Delete type=2 #1680
+2023/07/14-18:24:39.306 1aaa Delete type=2 #1683
+2023/07/14-18:27:07.232 1aaa Level-0 table #1686: started
+2023/07/14-18:27:07.268 1aaa Level-0 table #1686: 1885012 bytes OK
+2023/07/14-18:27:07.298 1aaa Delete type=0 #1682
+2023/07/14-18:27:14.188 1aaa Compacting 1@1 + 1@2 files
+2023/07/14-18:27:14.209 1aaa Generated table #1687@1: 2407 keys, 107679 bytes
+2023/07/14-18:27:14.209 1aaa Compacted 1@1 + 1@2 files => 107679 bytes
+2023/07/14-18:27:14.220 1aaa compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/14-18:27:14.220 1aaa Delete type=2 #1684
+2023/07/14-18:27:14.220 1aaa Delete type=2 #1686
+2023/07/14-18:36:27.221 1aaa Level-0 table #1689: started
+2023/07/14-18:36:27.287 1aaa Level-0 table #1689: 1972650 bytes OK
+2023/07/14-18:36:27.315 1aaa Delete type=0 #1685
+2023/07/14-18:36:33.528 1abb Compacting 1@1 + 1@2 files
+2023/07/14-18:36:33.544 1abb Generated table #1690@1: 2414 keys, 149585 bytes
+2023/07/14-18:36:33.544 1abb Compacted 1@1 + 1@2 files => 149585 bytes
+2023/07/14-18:36:33.563 1abb compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/14-18:36:33.563 1abb Delete type=2 #1687
+2023/07/14-18:36:33.563 1abb Delete type=2 #1689

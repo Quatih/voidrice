@@ -1,0 +1,22 @@
+{
+  "defaultList": "\u003cDefault\u003e",
+  "lists": {
+    "\u003cDefault\u003e": [
+      "ASMod.jar",
+      "BaseMod.jar",
+      "Bestiary.jar",
+      "ColoredMap.jar",
+      "FilterTheSpire.jar",
+      "InfoMod2.jar",
+      "KeyCuts.jar",
+      "mintySpire.jar",
+      "OptimizeTheSpire.jar",
+      "permNeow.jar",
+      "quickRestart.jar",
+      "RelicStats.jar",
+      "FightPredictor.jar",
+      "SmileGirya.jar",
+      "StSLib.jar"
+    ]
+  }
+}

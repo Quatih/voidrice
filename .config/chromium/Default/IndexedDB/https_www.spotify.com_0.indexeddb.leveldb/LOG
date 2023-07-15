@@ -1,0 +1,6 @@
+2023/07/02-10:31:26.754 1cc2 Creating DB /home/quatih/.config/chromium/Default/IndexedDB/https_www.spotify.com_0.indexeddb.leveldb since it was missing.
+2023/07/02-10:31:26.772 1cc2 Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_www.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/02-10:31:31.820 1cc3 Level-0 table #5: started
+2023/07/02-10:31:31.825 1cc3 Level-0 table #5: 1317 bytes OK
+2023/07/02-10:31:31.841 1cc3 Delete type=0 #3
+2023/07/02-10:31:31.841 1cc3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

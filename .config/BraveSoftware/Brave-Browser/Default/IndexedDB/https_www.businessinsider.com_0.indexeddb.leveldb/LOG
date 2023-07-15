@@ -1,0 +1,6 @@
+2023/05/04-20:02:25.251 8b7 Creating DB /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.businessinsider.com_0.indexeddb.leveldb since it was missing.
+2023/05/04-20:02:25.266 8b7 Reusing MANIFEST /home/quatih/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.businessinsider.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/04-20:41:56.276 632e Level-0 table #5: started
+2023/05/04-20:41:56.281 632e Level-0 table #5: 5980 bytes OK
+2023/05/04-20:41:56.295 632e Delete type=0 #3
+2023/05/04-20:41:56.296 632e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

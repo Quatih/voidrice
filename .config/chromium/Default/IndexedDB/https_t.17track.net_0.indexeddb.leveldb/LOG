@@ -1,0 +1,7 @@
+2023/05/21-23:52:42.280 a5b Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_t.17track.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/21-23:52:42.280 a5b Recovering log #4
+2023/05/21-23:52:42.280 a5b Reusing old log /home/quatih/.config/chromium/Default/IndexedDB/https_t.17track.net_0.indexeddb.leveldb/000004.log 
+2023/05/21-23:52:42.584 a5e Level-0 table #8: started
+2023/05/21-23:52:42.589 a5e Level-0 table #8: 548 bytes OK
+2023/05/21-23:52:42.599 a5e Delete type=0 #4
+2023/05/21-23:52:42.599 a5b Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,6 @@
+2023/05/22-23:01:59.702 a5b Creating DB /home/quatih/.config/chromium/Default/IndexedDB/https_www.blockbluelight.com_0.indexeddb.leveldb since it was missing.
+2023/05/22-23:01:59.721 a5b Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_www.blockbluelight.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/22-23:02:02.621 a5c Level-0 table #5: started
+2023/05/22-23:02:02.635 a5c Level-0 table #5: 3052 bytes OK
+2023/05/22-23:02:02.659 a5c Delete type=0 #3
+2023/05/22-23:02:02.659 a5c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

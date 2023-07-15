@@ -1,0 +1,6 @@
+2023/06/18-16:44:25.318 74c Creating DB /home/quatih/.config/chromium/Default/IndexedDB/https_www.heritagedaily.com_0.indexeddb.leveldb since it was missing.
+2023/06/18-16:44:25.337 74c Reusing MANIFEST /home/quatih/.config/chromium/Default/IndexedDB/https_www.heritagedaily.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/18-17:37:40.320 74c Level-0 table #5: started
+2023/06/18-17:37:40.325 74c Level-0 table #5: 837 bytes OK
+2023/06/18-17:37:40.335 74c Delete type=0 #3
+2023/06/18-17:37:40.335 74c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
